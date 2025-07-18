@@ -9,7 +9,7 @@ def run_preprocessing_pipeline(target_pdb, malaria_pdb, target_chain_id, malaria
     target_pdb_path = os.path.join(input_dir, target_pdb)
     malaria_pdb_path = os.path.join(input_dir, malaria_pdb)
 
-    
+
     drug_resname = row['drug_info'].split(':')[0].strip()
     
     # Output files-> prefixes are for making the output unique
