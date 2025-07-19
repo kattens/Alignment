@@ -9,7 +9,6 @@ def run_preprocessing_pipeline(target_pdb, malaria_pdb, target_chain_id, malaria
     target_pdb_path = os.path.join(input_dir, target_pdb)
     malaria_pdb_path = os.path.join(input_dir, malaria_pdb)
 
-
     drug_resname = row['drug_info'].split(':')[0].strip()
     
     # Output files-> prefixes are for making the output unique
@@ -24,7 +23,7 @@ def run_preprocessing_pipeline(target_pdb, malaria_pdb, target_chain_id, malaria
     print(target_pdb_path,malaria_pdb_path)
 
 
-    """
+    
 
     # Preprocessing
     print(f"\nProcessing: {target_pdb} vs {malaria_pdb}")
@@ -47,7 +46,7 @@ def run_preprocessing_pipeline(target_pdb, malaria_pdb, target_chain_id, malaria
     fixed_coords, moving_coords = get_aligned_coords(seq1, coords1, seq2, coords2)
     aligned_fixed, aligned_moving, rmsd = iterative_alignment(fixed_coords, moving_coords)
     
-    """
+    
 
 
 def main():
