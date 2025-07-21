@@ -1,0 +1,5 @@
+
+open C:/malaria_align_project/pdbs/5VC5.pdb
+open C:/malaria_align_project/pdbs/8U2O.pdb
+
+mm #1 to #2
