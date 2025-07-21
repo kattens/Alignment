@@ -4,7 +4,7 @@ import csv
 count=0
 
 # method for structral alignment 
-def run_alignment(session,target,malaria,target_chain,malaria_chain):
+def run_alignment(session, target, malaria, target_chain, malaria_chain, count):
     run(session,"log clear")
 
     # Loads  PDBs at specified path
@@ -19,19 +19,17 @@ def run_alignment(session,target,malaria,target_chain,malaria_chain):
     run(session,"close all")
 
 
+def main(session):
+    input_csv = "C:/malaria_align_project/malaria_mapping.csv"
+    count = 0
 
-with open("C:/malaria_align_project/malaria_mapping.csv", newline='') as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-        # grabs the name of the pdb
-        target = row['target']
-        malaria = row['malaria']
-
-        # grabs the chains that are being focused on
-        target_chain = row['target_chain']
-        malaria_chain = row['malaria_chain']
-
-        count+=1
-
-        run_alignment(session, f'{target}.pdb', f'{malaria}.pdb',target_chain,malaria_chain)
-
+    with open(input_csv, newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            target = row['target'] + ".pdb"
+            malaria = row['malaria'] + ".pdb"
+            target_chain = row['target_chain']
+            malaria_chain = row['malaria_chain']
+            
+            count += 1
+            run_alignment(session, target, malaria, target_chain, malaria_chain, count)
