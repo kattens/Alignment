@@ -14,7 +14,7 @@ def extract_info_from_log(filepath):
     )
     if match:
         # Get the last RMSD reported in the log
-        pruned_pairs, rmsd, all_pairs, overall_rmsd = match
+        pruned_pairs, rmsd, all_pairs, overall_rmsd = match[0]
         return {
             "pruned_pairs": int(pruned_pairs),
             "rmsd": float(rmsd),
