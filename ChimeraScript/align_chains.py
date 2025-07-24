@@ -4,24 +4,28 @@ import os
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 
+# folder to store log files
+logs_path = os.path.join(base_dir,"logs")
+if not os.path.exists(logs_path):
+    logs_dir = os.makedirs(logs_path)
 
-# method for structral alignment 
+# folder to store aligned structures 
+aligned_pdb_path = os.path.join(base_dir,"aligned_pdbs")
+if not os.path.exists(aligned_pdb_path):
+    aligned_pdb_dir = os.mkdir(aligned_pdb_path)
+
+# structral alignment 
 def run_alignment(session, target, malaria, count):
     run(session,"log clear")
 
-    # Loads  PDBs at specified path
     run(session, f'open {target}')
     run(session, f"open {malaria}")
     
-
+    #performs structural alignment
     run(session,f"matchmaker #2 to #1")
-
-    aligned_pdb_path = os.path.join(base_dir,"aligned_pdbs")
 
     # saves the aligned pdb files
     run(session,f'save {aligned_pdb_path}/aligned_{target}_and_{malaria}.pdb')
-
-    logs_path = os.path.join(base_dir,"logs")
 
     run(session, f"log save {logs_path}/output{count}.txt")
 
