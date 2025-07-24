@@ -29,7 +29,7 @@ def run_alignment(session, target, malaria, count):
 
 
 def main(session):
-    input_csv = os.path.join(base_dir,"merged(3).csv")
+    input_csv = os.path.join(base_dir,"merged.csv")
 
     count = 0
 
@@ -43,5 +43,5 @@ def main(session):
             
             count += 1
             run_alignment(session, target, malaria,count)
-            
+
 main(session)

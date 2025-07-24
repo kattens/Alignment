@@ -25,7 +25,7 @@ def extract_info_from_log(filepath):
         print("Could not find  info in the file.")
         return None
 
-df = pd.read_csv('merged(3).csv')
+df = pd.read_csv('merged.csv')
 
 # create new columns
 df['rmsd'] = None
