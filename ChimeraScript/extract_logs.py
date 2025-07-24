@@ -14,7 +14,7 @@ def extract_info_from_log(filepath):
     )
     if match:
         # Get the last RMSD reported in the log
-        pruned_pairs, rmsd, all_pairs, overall_rmsd = match[0]
+        pruned_pairs, rmsd, all_pairs, overall_rmsd = match[-1]
         return {
             "pruned_pairs": int(pruned_pairs),
             "rmsd": float(rmsd),
@@ -25,14 +25,15 @@ def extract_info_from_log(filepath):
         print("Could not find  info in the file.")
         return None
 
-df = pd.read_csv('malaria_mapping.csv')
+df = pd.read_csv('merged(3).csv')
 
 # create new columns
 df['rmsd'] = None
-df['pruned_pairs']= None
-df['all_pairs'] = None
+df['alignment_length'] = None
 
-folder_path = "C:/malaria_align_project/logs"
+base_dir = os.path.dirname(os.path.abspath(__file__))
+folder_path = os.path.join(base_dir, "logs")
+print(folder_path)
 
 for i in range(len(df)):
     file_path = os.path.join(folder_path, f"output{i+1}.txt")
@@ -41,10 +42,9 @@ for i in range(len(df)):
         result = extract_info_from_log(file_path)
         if result:
             df.at[i, 'rmsd'] = result["rmsd"]
-            df.at[i, 'pruned_pairs'] = result["pruned_pairs"]
-            df.at[i, 'all_pairs'] = result["all_pairs"]
+            df.at[i, 'alignment_length'] = result["pruned_pairs"]
     else:
         print(f"File not found: {file_path}")
 
 
-df.to_csv("Malaria_Mapping_with_SMILES_&_sequences_columns_seperated.csv")
+df.to_csv("merged_with_rmsd.csv", index=False)
