@@ -29,7 +29,7 @@ def align_and_save(session,target_path, malaria_path, count, aligned_dir, log_di
     aligned_path = os.path.join(aligned_dir, aligned_filename)
 
     run(session, f'save {aligned_path}')
-    log_path = os.path.join(log_dir, f"output{count+1}.txt")
+    log_path = os.path.join(log_dir, f"output{count}.txt")
     run(session,f'log save {log_path}')
 
 def main(session):
