@@ -1,0 +1,12 @@
+AutoDockTools_py3 @ git+https://github.com/Valdes-Tresanco-MS/AutoDockTools_py3@a62a5d98116f1590183b58a9ad732b997cf2579c
+biopython==1.85
+meeko==0.5.0
+numpy==2.3.2
+pandas==2.3.1
+pillow==11.3.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+rdkit==2025.3.5
+scipy==1.16.1
+six==1.17.0
+tzdata==2025.2
