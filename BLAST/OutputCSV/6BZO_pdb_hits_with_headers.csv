@@ -1,0 +1,15 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+6BZO_2|Chain,emb|CAA53232.1|,beta subunit RNA polymerase [Plasmodium falciparum],1.8699999999999998e-45,178.0,22.913,515
+6BZO_2|Chain,emb|CAA53232.1|,beta subunit RNA polymerase [Plasmodium falciparum],1.56e-25,114.0,46.789,109
+6BZO_3|Chain,emb|CAA64573.1|,rpoC [Plasmodium falciparum],1.6999999999999997e-52,194.0,35.793,271
+6BZO_3|Chain,emb|CAA64573.1|,rpoC [Plasmodium falciparum],2.14e-14,77.8,27.647,170
+6BZO_3|Chain,emb|CAA34560.1|,unnamed protein product [Plasmodium falciparum],2.99e-36,150.0,29.73,333
+6BZO_3|Chain,emb|CAA34560.1|,unnamed protein product [Plasmodium falciparum],6.28e-09,60.5,56.0,50
+6BZO_3|Chain,emb|CAA34560.1|,unnamed protein product [Plasmodium falciparum],6.49e-09,60.5,26.768,198
+6BZO_3|Chain,emb|CAA64574.1|,rpoD [Plasmodium falciparum],4.18e-30,129.0,27.315,216
+6BZO_3|Chain,emb|CAA64574.1|,rpoD [Plasmodium falciparum],2.18e-11,68.6,22.137,262
+6BZO_3|Chain,sp|P27625.1|,RecName: Full=DNA-directed RNA polymerase III subunit RPC1; Short=RNA polymerase III subunit C1; AltName: Full=DNA-directed RNA polymerase III largest subunit; AltName: Full=RNA polymerase III subunit C160 [Plasmodium falciparum],5.6599999999999994e-24,110.0,23.276,464
+6BZO_3|Chain,sp|P27625.1|,RecName: Full=DNA-directed RNA polymerase III subunit RPC1; Short=RNA polymerase III subunit C1; AltName: Full=DNA-directed RNA polymerase III largest subunit; AltName: Full=RNA polymerase III subunit C160 [Plasmodium falciparum],5.07e-10,64.3,28.502,207
+6BZO_3|Chain,sp|P27625.1|,RecName: Full=DNA-directed RNA polymerase III subunit RPC1; Short=RNA polymerase III subunit C1; AltName: Full=DNA-directed RNA polymerase III largest subunit; AltName: Full=RNA polymerase III subunit C160 [Plasmodium falciparum],8.05e-10,63.5,47.458,59
+6BZO_3|Chain,gb|AAA72349.1|,unnamed protein product [Plasmodium falciparum],2.7e-15,81.6,26.923,260
+6BZO_3|Chain,gb|AAA72349.1|,unnamed protein product [Plasmodium falciparum],2.76e-13,75.1,25.726,241

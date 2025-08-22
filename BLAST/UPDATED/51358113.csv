@@ -1,0 +1,3 @@
+resolution,pdbid,title,expmethod,lignme,glytoucan,cids,protacxns,geneids,pmid,dois,pmcids,pclids,citations,pubchem_cid
+3.25,7BI2,PI3KC2aDeltaN and DeltaC-C2,X-RAY DIFFRACTION,IOD|EDO|17G,,51358113|30165|174,Q61194,18704,35256802,10.1038/s41594-022-00730-w,PMC8930771,9577681,2022; 29(3):218-228,51358113
+3.5,4JSX,structure of mTORDeltaN-mLST8-Torin2 complex,X-RAY DIFFRACTION,17G,,51358113,Q9BVC4|P42345|2GAQ_A,64223|2475,23636326,10.1038/nature12122,PMC4512754,16324226,"Yang H, Rudge DG, Koos JD, Vaidialingam B, Yang HJ, Pavletich NP. mTOR kinase structure, mechanism and regulation. Nature. 2013 May;497(7448):217–23. doi: 10.1038/nature12122.",51358113

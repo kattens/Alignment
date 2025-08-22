@@ -1,0 +1,7 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+4UXQ_1|Chain,gb|AAL54911.1|,sexual stage-specific protein kinase [Plasmodium falciparum],9.3e-21,92.8,28.033,239
+4UXQ_1|Chain,gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],8.01e-15,73.6,27.803,223
+4UXQ_1|Chain,emb|CAA80490.1|,serine/threonine-protein kinase [Plasmodium falciparum],1.69e-13,70.9,26.613,248
+4UXQ_1|Chain,emb|CAA45179.1|,PfPK2 [Plasmodium falciparum],1.85e-13,70.5,27.5,240
+4UXQ_1|Chain,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],3.37e-13,69.7,24.194,248
+4UXQ_1|Chain,gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],6.13e-11,62.4,24.436,266

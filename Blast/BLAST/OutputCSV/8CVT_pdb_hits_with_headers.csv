@@ -1,0 +1,8 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+8CVT_1|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],2.21e-116,347,53.271,321
+8CVT_3|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],0.0,634,77.02,396
+8CVT_4|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],5.5399999999999994e-104,314,46.012,326
+8CVT_15|Chains,gb|UUU46296.1|,putative proteasome subunit beta type-7 [Plasmodium falciparum],1.9499999999999998e-95,281,55.823,249
+8CVT_2|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],5.13e-112,336,49.691,324
+8CVT_5|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],9.99e-113,336,48.199,361
+8CVT_6|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],7.37e-104,315,49.02,306

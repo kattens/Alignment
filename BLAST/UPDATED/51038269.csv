@@ -1,0 +1,6 @@
+resolution,pdbid,title,expmethod,lignme,glytoucan,cids,protacxns,geneids,pmid,dois,pmcids,pclids,citations,pubchem_cid
+2.9,8TZE,Structure of C-terminal half of LRRK2 bound to GZD-824,ELECTRON MICROSCOPY,T3X,,51038269,Q5S007,120892,,,,,,51038269
+2.99,8TYQ,Structure of the C-terminal half of LRRK2 bound to GZD-824 (G2019S mutant),ELECTRON MICROSCOPY,T3X,,51038269,Q5S007,120892,,,,,,51038269
+3.1,8TZB,Structure of the C-terminal half of LRRK2 bound to GZD-824 (I2020T mutant),ELECTRON MICROSCOPY,T3X,,51038269,Q5S007,120892,,,,,,51038269
+3.4,8TZF,Structure of full length LRRK2 bound to GZD-824 (I2020T mutant),ELECTRON MICROSCOPY,GDP|T3X,,51038269|135398619,Q5S007,120892,,,,,,51038269
+3.6,8U7L,Cryo-EM structure of LRRK2 bound to type II inhibitor GZD824,ELECTRON MICROSCOPY,T3X|GDP,,51038269|135398619,Q5S007,120892,38263358.0,10.1038/s41421-023-00639-8,PMC10897174,36789619.0,2024; 10(1):23,51038269

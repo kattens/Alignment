@@ -1,0 +1,11 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+8A0Z_1|Chains,gb|UZH96798.1|,dihydrofolate reductase, partial [Plasmodium falciparum],1.11e-15,72.0,30.818,159
+8A0Z_1|Chains,gb|WET17590.1|,dihydrofolate reductase, partial [Plasmodium falciparum],4.68e-15,69.3,34.752,141
+8A0Z_1|Chains,gb|AQM50699.1|,dihydrofolate reductase, partial [Plasmodium falciparum],5.49e-15,70.1,30.189,159
+8A0Z_1|Chains,gb|ALS39824.1|,dihydrofolate reductase, partial [Plasmodium falciparum],5.65e-15,69.7,30.189,159
+8A0Z_1|Chains,gb|WZW72785.1|,dihydrofolate reductase, partial [Plasmodium falciparum],5.72e-15,70.1,29.651,172
+8A0Z_1|Chains,gb|ALN42933.1|,sulfadoxine-pyrimethamine drug resistance protein, partial [Plasmodium falciparum],6.04e-15,69.3,30.189,159
+8A0Z_1|Chains,gb|WZW72774.1|,dihydrofolate reductase, partial [Plasmodium falciparum],6.67e-15,68.9,34.043,141
+8A0Z_1|Chains,gb|QJU11977.1|,dihydrofolate reductase, partial [Plasmodium falciparum],8.01e-15,69.3,30.189,159
+8A0Z_1|Chains,gb|ALS39828.1|,dihydrofolate reductase, partial [Plasmodium falciparum],8.16e-15,69.3,30.189,159
+8A0Z_1|Chains,gb|AYN70559.1|,dihydrofolate reductase, partial [Plasmodium falciparum],8.19e-15,69.3,30.189,159

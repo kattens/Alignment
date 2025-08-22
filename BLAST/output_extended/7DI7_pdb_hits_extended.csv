@@ -1,0 +1,2 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+7DI7_1|Chain,pdb|7VPE|A,Chain A, Falcilysin [Plasmodium falciparum],0.0,2337,100.0,1158

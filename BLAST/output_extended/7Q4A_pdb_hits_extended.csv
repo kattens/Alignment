@@ -1,0 +1,11 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+7Q4A_1|Chains,pdb|8RPC|A,Chain A, non-specific serine/threonine protein kinase [Plasmodium falciparum],0.0,537.0,67.76,366.0
+7Q4A_1|Chains,gb|AAK38173.1|,protein serine/threonine kinase-1 [Plasmodium falciparum],3.22e-24,104.0,24.713,348.0,
+7Q4A_1|Chains,pdb|1OB3|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],6.1799999999999994e-24,99.8,28.354,328.0
+7Q4A_1|Chains,pdb|1V0O|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],6.96e-24,99.8,28.354,328.0
+7Q4A_1|Chains,pdb|1V0B|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],8.01e-24,99.4,28.354,328.0
+7Q4A_1|Chains,gb|AAC61592.1|,cdk-related protein kinase 6 [Plasmodium falciparum],2.19e-21,92.8,27.679,336.0,
+7Q4A_1|Chains,emb|CAA57972.1|,mitogen-activated protein kinase 1, serine/threonine protein kinase [Plasmodium falciparum],1.73e-20,92.8,27.596,337.0
+7Q4A_1|Chains,gb|AAC47170.1|,mitogen-activated protein kinase-related protein [Plasmodium falciparum],3.34e-20,92.0,27.596,337.0,
+7Q4A_1|Chains,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],7.72e-18,84.3,25.749,334.0,
+7Q4A_1|Chains,pdb|5DYK|A,Chain A, CGMP-dependent protein kinase [Plasmodium falciparum],2.37e-17,83.6,28.774,212.0

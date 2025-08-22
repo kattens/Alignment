@@ -1,0 +1,3 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+8GCP_1|Chain,sp|Q94650.3|,RecName: Full=ADP-ribosylation factor 1; Short=plARF [Plasmodium falciparum],2.42e-06,47.0,29.897,97
+8GCP_2|Chain,gb|AAP93837.1|,COPI protein [Plasmodium falciparum],2.4e-18,86.3,24.265,272

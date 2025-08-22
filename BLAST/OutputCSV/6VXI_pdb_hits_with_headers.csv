@@ -1,0 +1,4 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+6VXI_1|Chains,gb|AAA61983.1|,transport protein [Plasmodium falciparum],1.81e-10,63.9,28.509,228
+6VXI_1|Chains,gb|AAP49220.1|,MDR2 [Plasmodium falciparum],2.3e-10,63.5,28.139,231
+6VXI_1|Chains,gb|AAA21513.1|,Pfmdr2 protein [Plasmodium falciparum],2.46e-10,63.5,28.509,228

@@ -1,0 +1,8 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+3IK3_1|Chains,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],1.98e-24,102.0,29.615,260
+3IK3_1|Chains,emb|CAA47704.1|,protein kinase [Plasmodium falciparum],5.27e-21,92.4,30.702,228
+3IK3_1|Chains,emb|CAA80490.1|,serine/threonine-protein kinase [Plasmodium falciparum],1.24e-20,91.7,29.302,215
+3IK3_1|Chains,gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],1.8e-19,86.7,27.83,212
+3IK3_1|Chains,gb|AAL54911.1|,sexual stage-specific protein kinase [Plasmodium falciparum],1.21e-18,85.9,29.68,219
+3IK3_1|Chains,gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],1.9e-17,81.6,25.417,240
+3IK3_1|Chains,emb|CAA45179.1|,PfPK2 [Plasmodium falciparum],1.45e-16,79.3,24.312,218

@@ -1,0 +1,2 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+5BPP_1|Chain,emb|CAA70301.2|,zinc-aminopeptidase [Plasmodium falciparum],8.61e-16,81.3,26.522,460
