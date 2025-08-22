@@ -1,0 +1,17 @@
+# create a new branch
+git checkout -b build/requirements
+
+# create requirements.txt
+@"
+biopython>=1.83
+pandas>=2.2
+numpy>=1.26
+tqdm>=4.66
+requests>=2.31
+typer>=0.12
+loguru>=0.7
+"@ > requirements.txt
+
+git add requirements.txt
+git commit -m "build: add baseline requirements.txt"
+git push -u origin build/requirements
