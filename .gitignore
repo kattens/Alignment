@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.build/
+dist/
+.eggs/
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+
+# Envs
+.venv/
+.env/
+.envrc
+
+# VS Code / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data & outputs (keep only samples)
+data/
+outputs/
+logs/
+
+# Autodock/ChimeraX byproducts
+*.pdbqt
+*.log
+*.out
