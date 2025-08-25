@@ -30,3 +30,12 @@ logs/
 *.log
 *.out
 ^n!configs/.gitkeep
+
+!envs/.gitkeep
+!configs/.gitkeep
+!scripts/.gitkeep
+!tests/.gitkeep
+!results/.gitkeep
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!packages/**/.gitkeep
