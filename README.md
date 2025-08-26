@@ -81,14 +81,26 @@ Intermediate data lives under `data/processed/`, results under `results/`. Raw d
  ```
 
 ## Typical run order:
+
 make ingest_pubchem
+
 make blast
+
 make blast_preprocess
+
 make gene_ligand_join
+
 make chain_separation
+
 make chimera_ops
+
 make align
+
 make report
+
 make autodock
+
 make af3
+
 make compare
+
