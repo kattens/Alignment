@@ -6,7 +6,6 @@ from Bio.PDB import PDBParser
 import numpy as np
 
 
-# === CONFIGURATION ===
 vina_executable = r"C:\Program Files (x86)\PyRx\vina.exe"  # AutoDock Vina executable path
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -27,18 +26,16 @@ if not os.path.exists(csv_folder):
 lig_folder = os.path.join(base_dir,'ligands_pdbqt')
 prot_folder = os.path.join(base_dir,'malaria_pdbqt')
 
-csv_path = os.path.join('docking_dataset2.csv')
+csv_path = os.path.join('docking_dataset.csv')
 
-# Docking grid parameters
+
 def estimate_docking_box(pdb_file, buffer=5.0):
     """
-    Estimates the center and size of the docking box from a PDB or PDBQT file.
-    Adds a buffer (in angstroms) around the bounding box.
+    Estimates the center and size of the docking box from a PDBQT file.
     """
     parser = PDBParser(QUIET=True)
     structure = parser.get_structure("prot", pdb_file)
     
-    # Get all heavy atom coordinates
     coords = np.array([atom.coord for atom in structure.get_atoms() if atom.element != "H"])
     
     # Calculate bounding box
@@ -50,7 +47,7 @@ def estimate_docking_box(pdb_file, buffer=5.0):
     return tuple(center.tolist()), tuple(size.tolist())
 
 
-# === RUN AUTODOCK VINA ===
+
 def run_vina(size,center,log_folder,prefix,receptor,ligand):
     cmd = [
         vina_executable,
@@ -69,7 +66,7 @@ def run_vina(size,center,log_folder,prefix,receptor,ligand):
     subprocess.run(cmd, check=True)
 
 
-# === PARSE LOG FILE ===
+
 def parse_affinities(log_folder,prefix):
     affinities = []
     log_file = os.path.join(log_folder,prefix)
@@ -85,7 +82,7 @@ def parse_affinities(log_folder,prefix):
                         continue
     return affinities[:10]  # Top 10
 
-# === SAVE TO CSV ===
+
 def save_to_csv(affinities,prefix,csv_folder):
     df = pd.DataFrame({"Rank": range(1, len(affinities)+1),
                        "Binding_Affinity_kcal/mol": affinities})
@@ -142,6 +139,5 @@ def run_docking(lig_folder, prot_folder, log_folder,csv_folder):
 
 
 
-# === MAIN ===
 if __name__ == "__main__":
     run_docking(lig_folder,prot_folder,log_folder,csv_folder)

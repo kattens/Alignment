@@ -31,7 +31,7 @@ for filename in os.listdir(input_folder):
         output_path = os.path.join(output_folder, output_name)
 
         cmd = [
-            r"C:\Users\mcame\OneDrive\Desktop\alignment\Alignment\AutoDockScript\myenv\Scripts\python.exe", prepare_script,
+            os.path.join(base_dir, "myenv", "Scripts", "python.exe"), prepare_script,
             "-r", protein_path,
             "-o", output_path,
             "-v"
