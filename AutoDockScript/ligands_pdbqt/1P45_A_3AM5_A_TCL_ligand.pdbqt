@@ -1,0 +1,30 @@
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5_4  and  O7_13 
+REMARK    2  A    between atoms: C8_10  and  O7_13 
+REMARK    3  A    between atoms: C5_21  and  O7_30 
+REMARK    4  A    between atoms: C8_27  and  O7_30 
+ROOT
+HETATM    1  O7    D T 400       6.435   7.508  35.367  1.00 53.30    -0.304 OA
+ENDROOT
+BRANCH   1   2
+HETATM    2  C5    D T 400       5.782   8.561  35.984  1.00 52.25     0.125 A 
+HETATM    3  C6    D T 400       5.599   9.781  35.247  1.00 52.67     0.154 A 
+HETATM    4  C1    D T 400       4.961  10.837  35.893  1.00 56.55     0.041 A 
+HETATM    5  O17   D T 400       6.014   9.917  33.989  1.00 49.90    -0.188 OA
+HETATM    6  C2    D T 400       4.539  10.695  37.218  1.00 54.31     0.060 A 
+HETATM    7  C3    D T 400       4.724   9.492  37.927  1.00 52.92     0.014 A 
+HETATM    8 CL14   D T 400       3.784  12.052  37.984  1.00 55.46    -0.082 Cl
+HETATM    9  C4    D T 400       5.362   8.439  37.296  1.00 50.04     0.028 A 
+ENDBRANCH   1   2
+BRANCH   1  10
+HETATM   10  C8    D T 400       7.834   7.262  35.628  1.00 54.37     0.111 A 
+HETATM   11  C9    D T 400       8.372   6.009  35.179  1.00 54.35     0.081 A 
+HETATM   12  C10   D T 400       9.671   5.582  35.311  1.00 53.50     0.025 A 
+HETATM   13 CL16   D T 400       7.296   4.950  34.399  1.00 64.25    -0.080 Cl
+HETATM   14  C11   D T 400      10.571   6.472  35.955  1.00 57.87     0.059 A 
+HETATM   15  C12   D T 400      10.099   7.732  36.404  1.00 58.16     0.013 A 
+HETATM   16 CL15   D T 400      12.234   6.102  36.228  1.00 56.65    -0.082 Cl
+HETATM   17  C13   D T 400       8.730   8.128  36.258  1.00 55.40     0.026 A 
+ENDBRANCH   1  10
+TORSDOF 4

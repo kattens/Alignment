@@ -1,0 +1,73 @@
+REMARK  16 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_3 
+REMARK    2  A    between atoms: CA_2  and  C_13 
+REMARK    3  A    between atoms: CB_3  and  CG_4 
+REMARK    4  A    between atoms: CZ_9  and  OM_11 
+REMARK       I    between atoms: C_13  and  N3'_34 
+REMARK    5  A    between atoms: C5'_15  and  C4'_16 
+REMARK    6  A    between atoms: C1'_18  and  N9_19 
+REMARK    7  A    between atoms: C6_24  and  N6_25 
+REMARK    8  A    between atoms: C3'_33  and  N3'_34 
+REMARK    9  A    between atoms: CA_36  and  CB_37 
+REMARK   10  A    between atoms: CA_36  and  C_47 
+REMARK   11  A    between atoms: CB_37  and  CG_38 
+REMARK   12  A    between atoms: CZ_43  and  OM_45 
+REMARK       I    between atoms: C_47  and  N3'_68 
+REMARK   13  A    between atoms: C5'_49  and  C4'_50 
+REMARK   14  A    between atoms: C1'_52  and  N9_53 
+REMARK   15  A    between atoms: C6_58  and  N6_59 
+REMARK   16  A    between atoms: C3'_67  and  N3'_68 
+ROOT
+HETATM    1  C4'   D T 902      51.213 -13.141  36.347  1.00 49.67     0.175 C 
+HETATM    2  O4'   D T 902      52.664 -13.247  36.568  1.00 48.76    -0.332 OA
+HETATM    3  C1'   D T 902      53.376 -12.482  35.571  1.00 45.63     0.241 C 
+HETATM    4  C2'   D T 902      52.307 -11.637  34.890  1.00 45.68     0.226 C 
+HETATM    5  O2'   D T 902      52.144 -10.396  35.607  1.00 42.28    -0.216 OA
+HETATM    6  C3'   D T 902      51.130 -12.652  34.876  1.00 49.36     0.171 C 
+ENDROOT
+BRANCH   6   7
+HETATM    7  N3'   D T 902      49.837 -12.330  34.205  1.00 44.90    -0.233 NA
+HETATM    8  C     D T 902      49.101 -11.277  34.488  1.00 55.02     0.289 C 
+HETATM    9  O     D T 902      49.387 -10.496  35.372  0.36 59.82    -0.268 OA
+BRANCH   8  10
+HETATM   10  CA    D T 902      47.859 -11.038  33.686  1.00 61.14     0.385 C 
+HETATM   11  N     D T 902      48.022 -11.528  32.324  1.00 70.78     0.626 N 
+BRANCH  10  12
+HETATM   12  CB    D T 902      46.661 -11.696  34.394  1.00 57.12     0.075 C 
+BRANCH  12  13
+HETATM   13  CG    D T 902      45.500 -10.751  34.558  1.00 52.02    -0.019 A 
+HETATM   14  CD1   D T 902      45.729  -9.535  35.210  1.00 55.35    -0.002 A 
+HETATM   15  CE1   D T 902      44.695  -8.627  35.378  1.00 51.84     0.024 A 
+HETATM   16  CZ    D T 902      43.406  -8.910  34.893  1.00 52.04     0.094 A 
+HETATM   17  CE2   D T 902      43.149 -10.131  34.244  1.00 48.31     0.024 A 
+HETATM   18  CD2   D T 902      44.217 -11.043  34.077  1.00 49.34    -0.002 A 
+BRANCH  16  19
+HETATM   19  OM    D T 902      42.499  -7.916  35.151  1.00 51.25    -0.328 OA
+HETATM   20  CMZ   D T 902      41.217  -7.840  34.634  1.00 51.69     0.181 C 
+ENDBRANCH  16  19
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   8  10
+ENDBRANCH   6   7
+BRANCH   1  21
+HETATM   21  C5'   D T 902      50.423 -14.424  36.718  1.00 45.65     0.214 C 
+HETATM   22  O5'   D T 902      50.860 -15.533  35.919  1.00 47.75    -0.218 OA
+ENDBRANCH   1  21
+BRANCH   3  23
+HETATM   23  N9    D T 902      54.028 -13.421  34.595  1.00 46.08    -0.270 N 
+HETATM   24  C4    D T 902      54.904 -13.027  33.666  1.00 44.02     0.169 A 
+HETATM   25  N3    D T 902      55.467 -11.816  33.338  1.00 44.91    -0.205 NA
+HETATM   26  C5    D T 902      55.269 -14.254  32.906  1.00 41.20     0.146 A 
+HETATM   27  C2    D T 902      56.357 -11.692  32.321  1.00 45.82     0.201 A 
+HETATM   28  N1    D T 902      56.772 -12.753  31.591  1.00 42.80    -0.211 NA
+HETATM   29  C6    D T 902      56.271 -14.008  31.805  1.00 38.49     0.142 A 
+HETATM   30  N7    D T 902      54.549 -15.314  33.434  1.00 39.39    -0.220 NA
+HETATM   31  C8    D T 902      53.812 -14.783  34.439  1.00 44.76     0.182 A 
+BRANCH  29  32
+HETATM   32  N6    D T 902      56.805 -15.025  31.013  1.00 35.77    -0.233 NA
+HETATM   33  C9    D T 902      56.013 -16.258  31.001  1.00 37.08     0.096 C 
+HETATM   34  C10   D T 902      57.240 -14.513  29.706  1.00 37.64     0.096 C 
+ENDBRANCH  29  32
+ENDBRANCH   3  23
+TORSDOF 16
