@@ -1,0 +1,10 @@
+1CET_1|Chain,pdb|1CET|A,Chain A, PROTEIN (L-LACTATE DEHYDROGENASE) [Plasmodium falciparum],0.0,642,100.000,316,source_file
+1CET_1|Chain,pdb|1CEQ|A,Chain A, PROTEIN (L-LACTATE DEHYDROGENASE) [Plasmodium falciparum],0.0,639.0,99.684,316.0,1CET_pdb_hits.csv
+1CET_1|Chain,gb|AAA29633.1|,L-lactate dehydrogenase [Plasmodium falciparum],0.0,638.0,99.367,316.0,,1CET_pdb_hits.csv
+1CET_1|Chain,pdb|1T24|A,Chain A, L-lactate dehydrogenase [Plasmodium falciparum],0.0,637.0,99.367,316.0,1CET_pdb_hits.csv
+1CET_1|Chain,gb|ARE68687.1|,lactate dehydrogenase [Plasmodium falciparum],0.0,636.0,99.051,316.0,,1CET_pdb_hits.csv
+1CET_1|Chain,gb|QDE12492.1|,lactate dehydrogenase, partial [Plasmodium falciparum],0.0,636.0,99.051,316.0,1CET_pdb_hits.csv
+1CET_1|Chain,gb|AMP42558.1|,lactate dehydrogenase [Plasmodium falciparum],0.0,635.0,99.051,316.0,,1CET_pdb_hits.csv
+1CET_1|Chain,gb|AMP42570.1|,lactate dehydrogenase [Plasmodium falciparum],0.0,635.0,99.051,316.0,,1CET_pdb_hits.csv
+1CET_1|Chain,gb|AMP42566.1|,lactate dehydrogenase [Plasmodium falciparum],0.0,635.0,99.051,316.0,,1CET_pdb_hits.csv
+1CET_1|Chain,gb|AMP42582.1|,lactate dehydrogenase [Plasmodium falciparum],0.0,635.0,99.051,316.0,,1CET_pdb_hits.csv

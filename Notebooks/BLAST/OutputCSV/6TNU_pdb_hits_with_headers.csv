@@ -1,0 +1,8 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+6TNU_27|Chain,emb|CAA64591.1|,rps12 [Plasmodium falciparum],1.33e-08,49.7,37.662,77
+6TNU_41|Chain,emb|CAA64579.1|,rpl2 [Plasmodium falciparum],6.38e-06,45.8,27.35,117
+6TNU_35|Chain,gb|AAP93837.1|,COPI protein [Plasmodium falciparum],1.83e-12,67.8,25.359,209
+6TNU_35|Chain,gb|AAP93837.1|,COPI protein [Plasmodium falciparum],7.77e-11,62.8,25.731,171
+6TNU_73|Chain,emb|CAA82284.2|,Ag15 [Plasmodium falciparum],1.49e-16,69.7,45.378,119
+6TNU_73|Chain,gb|AAA70296.1|,15 kDa vesicular-like antigen [Plasmodium falciparum],1.47e-10,53.9,46.809,94
+6TNU_82|Chain,gb|AAM46152.1|,eukaryotic translation initiation factor 5A [Plasmodium falciparum],9.97e-58,177.0,55.263,152

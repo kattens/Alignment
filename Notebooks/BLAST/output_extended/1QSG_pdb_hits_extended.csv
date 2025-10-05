@@ -1,0 +1,10 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+1QSG_1|Chains,pdb|3AM3|A,Chain A, Enoyl-ACP reductase [Plasmodium falciparum],6.82e-20,87.0,25.738,237.0
+1QSG_1|Chains,pdb|1UH5|A,Chain A, enoyl-ACP reductase [Plasmodium falciparum],3.19e-19,85.1,25.316,237.0
+1QSG_1|Chains,gb|AAK38274.1|,enoyl-ACP reductase, partial [Plasmodium falciparum],3.71e-19,85.9,25.316,237.0
+1QSG_1|Chains,pdb|2OL4|A,Chain A, Enoyl-acyl carrier reductase [Plasmodium falciparum],8.35e-19,84.3,24.051,237.0
+1QSG_1|Chains,pdb|1VRW|A,Chain A, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],9.04e-19,84.0,24.051,237.0
+1QSG_1|Chains,gb|AAK25802.1|,enoyl-acyl carrier reductase [Plasmodium falciparum],9.89e-19,84.7,24.051,237.0,
+1QSG_1|Chains,gb|AAK83687.1|,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum],1.71e-18,84.0,25.806,217.0,
+1QSG_1|Chains,pdb|3AM5|A,Chain A, Enoyl-ACP reductase [Plasmodium falciparum],1.79e-18,83.2,25.316,237.0
+1QSG_1|Chains,pdb|1NHG|A,Chain A, enoyl-acyl carrier reductase [Plasmodium falciparum],3.17e-14,69.7,29.078,141.0

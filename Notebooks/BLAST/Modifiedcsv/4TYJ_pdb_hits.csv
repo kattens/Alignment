@@ -1,0 +1,10 @@
+4TYJ_1|Chain,gb|AAL54911.1|,sexual stage-specific protein kinase [Plasmodium falciparum],9.68e-21,92.8,28.033,239,source_file
+pdb|1V0O|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],1.11e-14,72.8,25.738,237.0,4TYJ_pdb_hits.csv
+pdb|1OB3|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],1.25e-14,72.4,25.738,237.0,4TYJ_pdb_hits.csv
+pdb|1V0B|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],1.39e-14,72.4,25.738,237.0,4TYJ_pdb_hits.csv
+gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],1.65e-14,72.8,27.803,223.0,,4TYJ_pdb_hits.csv
+pdb|4RGJ|A,Chain A, Calcium-dependent protein kinase 4 [Plasmodium falciparum],1.14e-13,70.9,27.193,228.0,4TYJ_pdb_hits.csv
+emb|CAA80490.1|,serine/threonine-protein kinase [Plasmodium falciparum],2.56e-13,70.1,26.19,252.0,,4TYJ_pdb_hits.csv
+emb|CAA45179.1|,PfPK2 [Plasmodium falciparum],4.06e-13,69.3,27.5,240.0,,4TYJ_pdb_hits.csv
+emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],4.18e-13,69.3,24.194,248.0,,4TYJ_pdb_hits.csv
+gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],1.04e-10,62.0,24.436,266.0,,4TYJ_pdb_hits.csv

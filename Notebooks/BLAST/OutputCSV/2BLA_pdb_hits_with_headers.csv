@@ -1,0 +1,11 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+2BLA_1|Chain,pdb|1J3J|A,Chain A, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],1.6400000000000002e-110,318,64.557,237
+2BLA_1|Chain,pdb|1J3K|A,Chain A, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],1.23e-108,313,63.713,237
+2BLA_1|Chain,pdb|1J3I|A,Chain A, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],2.9199999999999998e-108,313,63.713,237
+2BLA_1|Chain,gb|QOP39095.1|,dihydrofolate reductase, partial [Plasmodium falciparum],3.81e-107,310,64.103,234
+2BLA_1|Chain,gb|ANG56392.1|,dihydrofolate reductase, partial [Plasmodium falciparum],6.8e-107,307,64.224,232
+2BLA_1|Chain,gb|QOP39094.1|,dihydrofolate reductase, partial [Plasmodium falciparum],1.88e-106,308,63.675,234
+2BLA_1|Chain,gb|AIB07166.1|,bifunctional dihydrofolate reductase-thymidylate synthase, partial [Plasmodium falciparum],5.24e-106,317,64.557,237
+2BLA_1|Chain,gb|QOP39088.1|,dihydrofolate reductase, partial [Plasmodium falciparum],7.3699999999999995e-106,307,63.675,234
+2BLA_1|Chain,gb|AIB07310.1|,bifunctional dihydrofolate reductase-thymidylate synthase, partial [Plasmodium falciparum],1.22e-105,316,64.557,237
+2BLA_1|Chain,gb|AIB07207.1|,bifunctional dihydrofolate reductase-thymidylate synthase, partial [Plasmodium falciparum],1.33e-105,316,64.557,237

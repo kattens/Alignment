@@ -1,0 +1,3 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+7WP3_1|Chains,emb|CAA48673.1|,proliferating cell nuclear antigen [Plasmodium falciparum],1.1599999999999998e-48,162,32.997,297
+7WP3_1|Chains,gb|AAG37983.1|,proliferating cell nuclear antigen 2 [Plasmodium falciparum],2e-28,109,21.595,301

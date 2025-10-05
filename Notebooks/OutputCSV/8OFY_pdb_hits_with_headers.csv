@@ -1,0 +1,2 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+8OFY_1|Chain,emb|CAC88373.1|,aquaglyceroporin [Plasmodium falciparum],5.64e-26,103,33.475,236

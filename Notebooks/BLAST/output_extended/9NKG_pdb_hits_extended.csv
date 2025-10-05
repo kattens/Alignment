@@ -1,0 +1,115 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+9NKG_3|Chains,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],3.1900000000000003e-85,254.0,52.439,246.0
+9NKG_3|Chains,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],8.96e-48,158.0,35.124,242.0
+9NKG_3|Chains,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],4.52e-35,125.0,35.874,223.0
+9NKG_12|Chains,gb|UUU46581.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],3.2e-78,237.0,53.202,203.0
+9NKG_12|Chains,gb|UUU46551.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],3.23e-78,237.0,53.202,203.0
+9NKG_12|Chains,gb|UUU46619.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],3.3e-78,236.0,53.202,203.0
+9NKG_12|Chains,gb|UUU46595.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],4.23e-78,236.0,53.202,203.0
+9NKG_12|Chains,gb|UUU46554.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],4.52e-78,236.0,53.202,203.0
+9NKG_12|Chains,gb|UUU46563.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],4.58e-78,236.0,53.202,203.0
+9NKG_12|Chains,gb|UUU46566.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],4.7e-78,236.0,53.202,203.0
+9NKG_12|Chains,gb|UUU46580.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],4.7e-78,236.0,53.202,203.0
+9NKG_12|Chains,gb|UUU46552.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],4.72e-78,236.0,53.202,203.0
+9NKG_12|Chains,gb|UUU46558.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],4.87e-78,236.0,53.202,203.0
+9NKG_14|Chains,pdb|5FMG|N,Chain N, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],5.51e-49,162.0,36.287,237.0
+9NKG_14|Chains,gb|UUU46581.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],7.2e-11,60.8,25.837,209.0
+9NKG_14|Chains,gb|UUU46619.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],8.16e-11,60.5,25.837,209.0
+9NKG_14|Chains,gb|UUU46552.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],8.2e-11,60.5,25.837,209.0
+9NKG_14|Chains,gb|UUU46551.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],8.39e-11,60.5,25.837,209.0
+9NKG_14|Chains,gb|UUU46554.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],8.44e-11,60.5,25.837,209.0
+9NKG_14|Chains,gb|UUU46639.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],8.52e-11,60.5,25.837,209.0
+9NKG_14|Chains,gb|UUU46586.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],8.67e-11,60.5,25.837,209.0
+9NKG_14|Chains,gb|UUU46555.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],8.93e-11,60.5,25.837,209.0
+9NKG_14|Chains,gb|UUU46559.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],9.36e-11,60.5,25.837,209.0
+9NKG_16|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],5.13e-112,336.0,49.691,324.0,
+9NKG_16|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],4.56e-55,194.0,41.004,239.0
+9NKG_16|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],6.7e-33,131.0,39.13,161.0
+9NKG_17|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],0.0,634.0,77.02,396.0,
+9NKG_17|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],5.44e-60,206.0,41.825,263.0
+9NKG_17|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],9.26e-35,135.0,41.718,163.0
+9NKG_19|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],2.82e-112,335.0,48.199,361.0,
+9NKG_19|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],6.95e-54,189.0,37.984,258.0
+9NKG_19|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],8.06e-33,130.0,40.881,159.0
+9NKG_20|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],7.37e-104,315.0,49.02,306.0,
+9NKG_20|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],1.87e-54,192.0,39.695,262.0
+9NKG_20|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],4.99e-34,134.0,39.13,161.0
+9NKG_1|Chains,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],4.29e-36,127.0,34.914,232.0
+9NKG_1|Chains,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],1.36e-33,121.0,29.646,226.0
+9NKG_1|Chains,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],1.68e-30,113.0,29.289,239.0
+9NKG_10|Chains,pdb|5FMG|M,Chain M, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],1.03e-17,78.2,25.604,207.0
+9NKG_10|Chains,gb|UUU46563.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],8.72e-10,56.6,23.404,188.0
+9NKG_10|Chains,gb|UUU46559.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],8.86e-10,56.6,23.404,188.0
+9NKG_10|Chains,gb|UUU46566.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],9.8e-10,56.6,23.404,188.0
+9NKG_10|Chains,gb|UUU46581.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],9.92e-10,56.2,23.404,188.0
+9NKG_10|Chains,gb|UUU46595.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],9.98e-10,56.2,23.404,188.0
+9NKG_10|Chains,gb|UUU46619.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1e-09,56.2,23.404,188.0
+9NKG_10|Chains,gb|UUU46551.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.01e-09,56.2,23.404,188.0
+9NKG_10|Chains,gb|UUU46554.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.02e-09,56.2,23.404,188.0
+9NKG_11|Chains,pdb|5FMG|K,Chain K, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],5.34e-48,155.0,40.212,189.0
+9NKG_11|Chains,pdb|5FMG|L,Chain L, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],1.67e-11,60.8,26.667,180.0
+9NKG_11|Chains,gb|UUU46563.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.72e-11,61.2,26.752,157.0
+9NKG_11|Chains,gb|UUU46592.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.74e-11,60.8,26.752,157.0
+9NKG_11|Chains,gb|UUU46551.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.29e-11,60.8,26.752,157.0
+9NKG_11|Chains,gb|UUU46619.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.34e-11,60.8,26.752,157.0
+9NKG_11|Chains,gb|UUU46595.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.44e-11,60.8,26.752,157.0
+9NKG_11|Chains,gb|UUU46554.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.46e-11,60.8,26.752,157.0
+9NKG_11|Chains,gb|UUU46581.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.48e-11,60.8,26.752,157.0
+9NKG_11|Chains,gb|UUU46552.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.56e-11,60.8,26.752,157.0
+9NKG_13|Chains,pdb|5FMG|M,Chain M, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],2.8299999999999997e-60,189.0,43.192,213.0
+9NKG_13|Chains,gb|UUU46676.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],6.969999999999999e-23,89.0,46.739,92.0
+9NKG_13|Chains,gb|UUU46649.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],1.82e-15,68.9,54.545,55.0
+9NKG_13|Chains,gb|UUU46733.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],2.33e-15,68.2,54.545,55.0
+9NKG_13|Chains,gb|UUU46662.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],2.58e-15,68.2,54.545,55.0
+9NKG_13|Chains,gb|UUU46767.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],5.57e-15,67.4,54.717,53.0
+9NKG_13|Chains,gb|UUU46768.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],6e-15,67.4,62.791,43.0
+9NKG_13|Chains,gb|UUU46651.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],6.17e-15,67.4,62.791,43.0
+9NKG_13|Chains,gb|UUU46650.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],6.68e-15,67.4,53.704,54.0
+9NKG_15|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],2.21e-116,347.0,53.271,321.0,
+9NKG_15|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],6.430000000000001e-58,201.0,40.562,249.0
+9NKG_15|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],3.31e-34,135.0,40.373,161.0
+9NKG_18|Chain,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],5.54e-104,314.0,46.012,326.0,
+9NKG_18|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],1.39e-55,194.0,42.358,229.0
+9NKG_18|Chain,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],6.37e-37,142.0,41.718,163.0
+9NKG_2|Chains,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],4.48e-52,168.0,39.394,231.0
+9NKG_2|Chains,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],2.99e-41,140.0,39.153,189.0
+9NKG_2|Chains,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],1.96e-37,131.0,32.547,212.0
+9NKG_27|Chain,gb|AAX31680.1|,hypothetical protein F12, partial [Plasmodium falciparum],2.19e-12,61.2,43.396,53.0
+9NKG_27|Chain,gb|AAX31678.1|,hypothetical protein F12, partial [Plasmodium falciparum],2.24e-12,61.2,43.396,53.0
+9NKG_4|Chains,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],5.9e-84,250.0,49.18,244.0
+9NKG_4|Chains,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],1.94e-39,137.0,33.898,236.0
+9NKG_4|Chains,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],6.1e-39,135.0,38.764,178.0
+9NKG_4|Chains,gb|UUU46527.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],8.72e-09,54.3,22.917,192.0
+9NKG_4|Chains,gb|UUU46334.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],8.8e-09,54.3,22.917,192.0
+9NKG_4|Chains,gb|UUU46404.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],8.89e-09,54.3,22.917,192.0
+9NKG_5|Chains,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],3.36e-89,263.0,53.942,241.0
+9NKG_5|Chains,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],1.4900000000000001e-43,147.0,38.793,232.0
+9NKG_5|Chains,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],1.46e-37,131.0,33.962,212.0
+9NKG_5|Chains,gb|UUU46592.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.41e-10,58.9,25.731,171.0
+9NKG_5|Chains,gb|UUU46551.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.67e-10,59.3,25.731,171.0
+9NKG_5|Chains,gb|UUU46639.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.75e-10,59.3,25.731,171.0
+9NKG_6|Chains,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],3.44e-37,131.0,33.197,244.0
+9NKG_6|Chains,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],1.2300000000000001e-36,129.0,33.469,245.0
+9NKG_6|Chains,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],2.8e-32,118.0,38.889,180.0
+9NKG_7|Chains,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],8.73e-44,148.0,34.286,245.0
+9NKG_7|Chains,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],5.25e-35,125.0,35.233,193.0
+9NKG_7|Chains,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],6.56e-30,112.0,31.628,215.0
+9NKG_8|Chains,gb|UUU46551.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.31e-24,97.4,27.907,215.0
+9NKG_8|Chains,gb|UUU46563.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.4e-24,97.4,27.907,215.0
+9NKG_8|Chains,gb|UUU46554.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.52e-24,97.4,27.907,215.0
+9NKG_8|Chains,gb|UUU46552.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.5699999999999997e-24,97.4,27.907,215.0
+9NKG_8|Chains,gb|UUU46619.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.59e-24,97.1,27.907,215.0
+9NKG_8|Chains,gb|UUU46559.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.73e-24,97.4,27.907,215.0
+9NKG_8|Chains,gb|UUU46595.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.74e-24,97.1,27.907,215.0
+9NKG_8|Chains,gb|UUU46581.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.76e-24,97.1,27.907,215.0
+9NKG_8|Chains,gb|UUU46580.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],3.0699999999999998e-24,97.1,27.907,215.0
+9NKG_9|Chains,gb|UUU46527.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],1.8199999999999997e-95,281.0,55.823,249.0
+9NKG_9|Chains,gb|UUU46296.1|,putative proteasome subunit beta type-7 [Plasmodium falciparum],1.95e-95,281.0,55.823,249.0,
+9NKG_9|Chains,gb|UUU46404.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],1.99e-95,281.0,55.823,249.0
+9NKG_9|Chains,gb|UUU46390.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],1.99e-95,281.0,55.823,249.0
+9NKG_9|Chains,gb|UUU46305.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.05e-95,281.0,55.823,249.0
+9NKG_9|Chains,gb|UUU46535.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.06e-95,281.0,55.823,249.0
+9NKG_9|Chains,gb|UUU46345.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.0799999999999998e-95,281.0,55.823,249.0
+9NKG_9|Chains,gb|UUU46502.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.15e-95,281.0,55.823,249.0
+9NKG_9|Chains,gb|UUU46313.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.2e-95,281.0,55.823,249.0
+9NKG_9|Chains,gb|UUU46299.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.2e-95,281.0,55.823,249.0

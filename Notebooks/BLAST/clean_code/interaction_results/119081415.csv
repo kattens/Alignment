@@ -1,0 +1,3 @@
+resolution,pdbid,title,expmethod,lignme,glytoucan,cids,protacxns,geneids,pmid,dois,pmcids,pclids,citations
+0,6XD3,Structure of the human CAK in complex with THZ1,ELECTRON MICROSCOPY,V0G,"",119081415,P51948|P51946|P50613,4331|902|1022,32855301,10.1073/pnas.2009627117,PMC7502720,32479329,"Greber BJ, Perez-Bertoldi JM, Lim K, Iavarone AT, Toso DB, Nogales E. The cryoelectron microscopy structure of the human CDK-activating kinase. Proc Natl Acad Sci U S A. 2020 Sep 15;117(37):22849–57. PMID: 32855301; PMCID: PMC7502720."
+1.9,8ORM,Cryo-EM structure of CAK-THZ1,ELECTRON MICROSCOPY,V0G,"",119081415,P50613|P51948|P51946,1022|4331|902,"","","","",""

@@ -1,0 +1,10 @@
+3MDY_1|Chains,gb|AAC47170.1|,mitogen-activated protein kinase-related protein [Plasmodium falciparum],1.95e-16,80.1,30.045,223,source_file
+emb|CAA57972.1|,mitogen-activated protein kinase 1, serine/threonine protein kinase [Plasmodium falciparum],2.6e-16,79.7,30.045,223.0,3MDY_pdb_hits.csv
+emb|CAA47704.1|,protein kinase [Plasmodium falciparum],9.68e-12,65.5,28.947,228.0,,3MDY_pdb_hits.csv
+pdb|4RGJ|A,Chain A, Calcium-dependent protein kinase 4 [Plasmodium falciparum],1.83e-11,64.7,27.074,229.0,3MDY_pdb_hits.csv
+emb|CAA45179.1|,PfPK2 [Plasmodium falciparum],1.70e-08,55.5,26.293,232.0,,3MDY_pdb_hits.csv
+pdb|5DYK|A,Chain A, CGMP-dependent protein kinase [Plasmodium falciparum],3.58e-08,54.7,25.311,241.0,3MDY_pdb_hits.csv
+emb|CAA80490.1|,serine/threonine-protein kinase [Plasmodium falciparum],7.91e-08,53.5,27.273,220.0,,3MDY_pdb_hits.csv
+gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],1.68e-07,52.4,24.407,295.0,,3MDY_pdb_hits.csv
+gb|AAC72269.1|,MO15-related protein kinase Pfmrk [Plasmodium falciparum],2.37e-07,51.6,26.953,256.0,,3MDY_pdb_hits.csv
+gb|AAC61592.1|,cdk-related protein kinase 6 [Plasmodium falciparum],3.50e-07,50.8,26.818,220.0,,3MDY_pdb_hits.csv

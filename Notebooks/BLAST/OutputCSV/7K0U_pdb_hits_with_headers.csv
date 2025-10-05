@@ -1,0 +1,2 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+7K0U_1|Chains,gb|AAR20863.1|,histone acetyltransferase [Plasmodium falciparum],5.25e-09,53.1,34.722,72

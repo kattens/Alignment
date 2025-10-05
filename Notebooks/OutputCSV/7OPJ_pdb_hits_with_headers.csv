@@ -1,0 +1,2 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+7OPJ_1|Chains,gb|AAK83686.1|,3-oxoacyl-acyl-carrier protein reductase precursor [Plasmodium falciparum],4.33e-14,70.9,28.09,267

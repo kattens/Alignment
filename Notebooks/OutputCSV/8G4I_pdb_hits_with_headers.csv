@@ -1,0 +1,2 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+8G4I_24|Chain,emb|CAA64591.1|,rps12 [Plasmodium falciparum],6.48e-08,48.1,35.227,88

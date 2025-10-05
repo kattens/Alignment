@@ -1,0 +1,10 @@
+3TI1_1|Chain,pdb|1V0O|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],4.13e-130,371,63.194,288,source_file
+3TI1_1|Chain,pdb|1V0B|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],4.3600000000000004e-130,371.0,63.194,288.0,3TI1_pdb_hits.csv
+3TI1_1|Chain,pdb|1OB3|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],6.25e-130,370.0,62.847,288.0,3TI1_pdb_hits.csv
+3TI1_1|Chain,emb|CAA56732.1|,cdc2-related protein kinase 1 [Plasmodium falciparum],4.47e-78,251.0,42.271,317.0,,3TI1_pdb_hits.csv
+3TI1_1|Chain,gb|AAC72269.1|,MO15-related protein kinase Pfmrk [Plasmodium falciparum],1.78e-67,213.0,38.944,303.0,,3TI1_pdb_hits.csv
+3TI1_1|Chain,gb|AAD55782.1|,MO15-related protein kinase Pfmrk [Plasmodium falciparum],2.75e-67,212.0,38.944,303.0,,3TI1_pdb_hits.csv
+3TI1_1|Chain,gb|AAC61592.1|,cdk-related protein kinase 6 [Plasmodium falciparum],1.88e-63,202.0,40.0,305.0,,3TI1_pdb_hits.csv
+3TI1_1|Chain,gb|AAC47170.1|,mitogen-activated protein kinase-related protein [Plasmodium falciparum],7.55e-62,208.0,39.041,292.0,,3TI1_pdb_hits.csv
+3TI1_1|Chain,emb|CAA57972.1|,mitogen-activated protein kinase 1, serine/threonine protein kinase [Plasmodium falciparum],2.1799999999999998e-61,207.0,39.384,292.0,3TI1_pdb_hits.csv
+3TI1_1|Chain,pdb|3NIE|A,Chain A, MAP2 kinase [Plasmodium falciparum],2.02e-48,166.0,32.857,350.0,3TI1_pdb_hits.csv

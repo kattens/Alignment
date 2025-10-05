@@ -1,0 +1,93 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+4G4S_5|Chain,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],3e-82,247.0,48.473,262.0
+4G4S_5|Chain,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],4.49e-49,162.0,39.516,248.0
+4G4S_5|Chain,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],1.24e-36,129.0,32.877,219.0
+4G4S_5|Chain,gb|UUU46334.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],7.27e-10,57.8,26.531,196.0
+4G4S_5|Chain,gb|UUU46535.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],7.94e-10,57.8,26.531,196.0
+4G4S_5|Chain,gb|UUU46296.1|,putative proteasome subunit beta type-7 [Plasmodium falciparum],8.30e-10,57.8,26.531,196.0,
+4G4S_6|Chain,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],2.38e-34,123.0,33.333,249.0
+4G4S_6|Chain,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],1.34e-30,113.0,40.805,174.0
+4G4S_6|Chain,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],9.68e-28,105.0,36.994,173.0
+4G4S_9|Chain,pdb|5FMG|I,Chain I, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],7.000000000000001e-70,213.0,50.228,219.0
+4G4S_9|Chain,gb|UUU46535.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],1.3699999999999998e-69,214.0,50.228,219.0
+4G4S_9|Chain,gb|UUU46334.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.1e-69,213.0,50.228,219.0
+4G4S_9|Chain,gb|UUU46527.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.41e-69,213.0,50.228,219.0
+4G4S_9|Chain,gb|UUU46313.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.52e-69,213.0,50.228,219.0
+4G4S_9|Chain,gb|UUU46305.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.57e-69,213.0,50.228,219.0
+4G4S_9|Chain,gb|UUU46502.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.63e-69,213.0,50.228,219.0
+4G4S_9|Chain,gb|UUU46296.1|,putative proteasome subunit beta type-7 [Plasmodium falciparum],2.87e-69,213.0,50.228,219.0,
+4G4S_9|Chain,gb|UUU46404.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.8799999999999996e-69,213.0,50.228,219.0
+4G4S_9|Chain,gb|UUU46490.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.9e-69,213.0,50.228,219.0
+4G4S_10|Chain,pdb|5FMG|M,Chain M, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],5.53e-18,79.0,27.83,212.0
+4G4S_11|Chain,pdb|5FMG|K,Chain K, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],1.27e-35,123.0,35.429,175.0
+4G4S_11|Chain,pdb|5FMG|I,Chain I, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],6e-15,70.5,30.189,159.0
+4G4S_11|Chain,gb|UUU46366.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],6.81e-15,70.5,30.189,159.0
+4G4S_11|Chain,gb|UUU46334.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],7.79e-15,70.5,30.189,159.0
+4G4S_11|Chain,gb|UUU46313.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],7.96e-15,70.5,30.189,159.0
+4G4S_11|Chain,gb|UUU46345.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],7.97e-15,70.5,30.189,159.0
+4G4S_11|Chain,gb|UUU46535.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],7.97e-15,70.5,30.189,159.0
+4G4S_11|Chain,gb|UUU46527.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],8.07e-15,70.5,30.189,159.0
+4G4S_11|Chain,gb|UUU46305.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],8.08e-15,70.5,30.189,159.0
+4G4S_11|Chain,gb|UUU46296.1|,putative proteasome subunit beta type-7 [Plasmodium falciparum],8.41e-15,70.5,30.189,159.0,
+4G4S_1|Chain,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],6.51e-23,93.6,33.889,180.0
+4G4S_1|Chain,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],6.1300000000000005e-22,91.3,26.407,231.0
+4G4S_1|Chain,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],3.410000000000001e-21,89.0,28.492,179.0
+4G4S_12|Chain,pdb|5FMG|L,Chain L, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],7.810000000000001e-66,201.0,51.351,185.0
+4G4S_12|Chain,gb|UUU46563.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.53e-65,202.0,51.351,185.0
+4G4S_12|Chain,gb|UUU46595.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.82e-65,202.0,51.351,185.0
+4G4S_12|Chain,gb|UUU46559.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.9e-65,202.0,51.351,185.0
+4G4S_12|Chain,gb|UUU46558.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.92e-65,202.0,51.351,185.0
+4G4S_12|Chain,gb|UUU46556.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],1.95e-65,202.0,51.351,185.0
+4G4S_12|Chain,gb|UUU46552.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.01e-65,202.0,51.351,185.0
+4G4S_12|Chain,gb|UUU46555.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.06e-65,202.0,51.351,185.0
+4G4S_12|Chain,gb|UUU46639.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.08e-65,202.0,51.351,185.0
+4G4S_12|Chain,gb|UUU46581.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],2.1e-65,202.0,51.351,185.0
+4G4S_13|Chain,pdb|5FMG|M,Chain M, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],3.09e-46,153.0,36.486,222.0
+4G4S_13|Chain,gb|UUU46676.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],1.95e-21,84.7,43.434,99.0
+4G4S_13|Chain,gb|UUU46651.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],1.05e-10,55.5,52.174,46.0
+4G4S_13|Chain,gb|UUU46768.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],1.07e-10,55.5,52.174,46.0
+4G4S_13|Chain,gb|UUU46669.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],1.22e-10,55.5,52.174,46.0
+4G4S_13|Chain,gb|UUU46767.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],1.29e-10,55.5,52.174,46.0
+4G4S_13|Chain,gb|UUU46675.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],1.34e-10,55.1,52.174,46.0
+4G4S_13|Chain,gb|UUU46649.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],1.39e-10,55.5,44.828,58.0
+4G4S_13|Chain,gb|UUU46650.1|,proteasome subunit beta type-1, partial [Plasmodium falciparum],1.52e-10,55.5,52.174,46.0
+4G4S_14|Chain,pdb|5FMG|N,Chain N, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],1.52e-30,113.0,32.609,230.0
+4G4S_14|Chain,gb|UUU46551.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],8.84e-08,51.2,23.98,196.0
+4G4S_14|Chain,gb|UUU46619.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],8.87e-08,51.2,23.98,196.0
+4G4S_14|Chain,gb|UUU46552.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],9.15e-08,51.2,23.98,196.0
+4G4S_14|Chain,gb|UUU46559.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],9.28e-08,51.2,23.98,196.0
+4G4S_14|Chain,gb|UUU46566.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],9.29e-08,51.2,23.98,196.0
+4G4S_14|Chain,gb|UUU46554.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],9.41e-08,51.2,23.98,196.0
+4G4S_14|Chain,gb|UUU46639.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],9.41e-08,51.2,23.98,196.0
+4G4S_14|Chain,gb|UUU46555.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],9.5e-08,51.2,23.98,196.0
+4G4S_14|Chain,gb|UUU46581.1|,proteasome subunit beta type-5, partial [Plasmodium falciparum],9.75e-08,51.2,23.98,196.0
+4G4S_2|Chain,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],7.84e-44,147.0,37.383,214.0
+4G4S_2|Chain,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],3.16e-39,136.0,35.426,223.0
+4G4S_2|Chain,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],4.67e-33,120.0,33.333,228.0
+4G4S_2|Chain,gb|UUU46366.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.04e-08,53.1,23.364,214.0
+4G4S_2|Chain,gb|UUU46305.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.1e-08,53.1,23.364,214.0
+4G4S_2|Chain,gb|UUU46334.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.3e-08,53.1,23.364,214.0
+4G4S_3|Chain,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],4.5700000000000004e-79,238.0,50.633,237.0
+4G4S_3|Chain,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],5.66e-50,164.0,37.674,215.0
+4G4S_3|Chain,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],1.6799999999999999e-46,155.0,39.545,220.0
+4G4S_3|Chain,gb|UUU46305.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],8.59e-08,51.6,24.26,169.0
+4G4S_3|Chain,gb|UUU46525.1|,putative proteasome subunit beta type-7 [Plasmodium falciparum],8.91e-08,51.6,24.26,169.0,
+4G4S_3|Chain,gb|UUU46535.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],9.01e-08,51.6,23.669,169.0
+4G4S_4|Chain,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],7.36e-85,253.0,47.347,245.0
+4G4S_4|Chain,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],2.7399999999999998e-42,144.0,40.341,176.0
+4G4S_4|Chain,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],7.82e-34,122.0,34.821,224.0
+4G4S_7|Chain,pdb|5FMG|E,Chain E, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],1.55e-35,128.0,34.742,213.0
+4G4S_7|Chain,pdb|5FMG|C,Chain C, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],6.97e-32,118.0,36.416,173.0
+4G4S_7|Chain,pdb|5FMG|D,Chain D, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],2.5100000000000002e-29,111.0,34.184,196.0
+4G4S_7|Chain,gb|UUU46527.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],5.98e-07,49.3,26.531,147.0
+4G4S_7|Chain,gb|UUU46305.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],6.07e-07,49.3,26.531,147.0
+4G4S_7|Chain,gb|UUU46345.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],6.29e-07,49.3,26.531,147.0
+4G4S_8|Chain,pdb|5FMG|I,Chain I, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],1.15e-19,82.8,27.411,197.0
+4G4S_8|Chain,gb|UUU46366.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],1.9e-19,82.8,27.411,197.0
+4G4S_8|Chain,gb|UUU46527.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.08e-19,82.8,27.411,197.0
+4G4S_8|Chain,gb|UUU46305.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.09e-19,82.8,27.411,197.0
+4G4S_8|Chain,gb|UUU46334.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.2e-19,82.8,27.411,197.0
+4G4S_8|Chain,gb|UUU46345.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.44e-19,82.8,27.411,197.0
+4G4S_8|Chain,gb|UUU46302.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.54e-19,82.8,27.411,197.0
+4G4S_8|Chain,gb|UUU46313.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.56e-19,82.8,27.411,197.0
+4G4S_8|Chain,gb|UUU46502.1|,putative proteasome subunit beta type-7, partial [Plasmodium falciparum],2.59e-19,82.8,27.411,197.0

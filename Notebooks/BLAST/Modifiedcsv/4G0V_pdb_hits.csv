@@ -1,0 +1,3 @@
+4G0V_1|Chains,pir|T10466|,DNA topoisomerase (ATP-hydrolyzing) (EC 5.99.1.3) II - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],0.0,712,49.020,765,source_file
+pdb|6CA8|A,Chain A, DNA topoisomerase 2 [Plasmodium falciparum],0.0,710.0,49.02,765.0,4G0V_pdb_hits.csv
+pir|S47661|,topoisomerase II - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],5.93e-07,49.7,51.22,41.0,,4G0V_pdb_hits.csv

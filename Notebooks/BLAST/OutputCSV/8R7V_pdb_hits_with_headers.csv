@@ -1,0 +1,6 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+8R7V_1|Chain,gb|AAO86764.1|,DNA mismatch repair enzyme [Plasmodium falciparum],2.68e-138,432.0,33.931,725
+8R7V_1|Chain,gb|AAO86765.1|,DNA mismatch repair enzyme [Plasmodium falciparum],1.56e-135,427.0,33.126,803
+8R7V_2|Chain,gb|AAO86765.1|,DNA mismatch repair enzyme [Plasmodium falciparum],1.32e-57,214.0,38.514,296
+8R7V_2|Chain,gb|AAO86764.1|,DNA mismatch repair enzyme [Plasmodium falciparum],4.47e-50,191.0,34.471,293
+8R7V_2|Chain,gb|AAO86764.1|,DNA mismatch repair enzyme [Plasmodium falciparum],5.14e-07,53.9,30.108,93

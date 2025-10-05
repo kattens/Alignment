@@ -1,0 +1,15 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+1SA4_1|Chain,gb|AAW78026.1|,protein farnesyltransferase alpha subunit [Plasmodium falciparum],9.69e-09,56.6,26.804,97
+1SA4_1|Chain,gb|AAW78026.1|,protein farnesyltransferase alpha subunit [Plasmodium falciparum],4.17e-06,48.5,27.66,94
+1SA4_1|Chain,gb|AAW78024.1|,protein farnesyltransferase alpha subunit [Plasmodium falciparum],1.03e-08,56.6,26.804,97
+1SA4_1|Chain,gb|AAW78024.1|,protein farnesyltransferase alpha subunit [Plasmodium falciparum],4.28e-06,48.5,27.66,94
+1SA4_1|Chain,gb|ABJ97612.1|,protein farnesyltransferase alpha subunit [Plasmodium falciparum],1.06e-07,53.5,25.773,97
+1SA4_1|Chain,gb|ABJ97612.1|,protein farnesyltransferase alpha subunit [Plasmodium falciparum],4.21e-06,48.5,27.66,94
+1SA4_2|Chain,gb|AAW78025.1|,protein farnesyltransferase beta subunit [Plasmodium falciparum],3.19e-58,205.0,34.891,321
+1SA4_2|Chain,gb|AAW78025.1|,protein farnesyltransferase beta subunit [Plasmodium falciparum],3.33e-13,71.6,40.0,90
+1SA4_2|Chain,gb|AAW78027.1|,protein farnesyltransferase beta subunit [Plasmodium falciparum],3.5500000000000004e-58,205.0,34.891,321
+1SA4_2|Chain,gb|AAW78027.1|,protein farnesyltransferase beta subunit [Plasmodium falciparum],3.51e-13,71.6,40.0,90
+1SA4_2|Chain,gb|AAW78028.1|,protein farnesyltransferase beta subunit [Plasmodium falciparum],4.12e-58,204.0,34.891,321
+1SA4_2|Chain,gb|AAW78028.1|,protein farnesyltransferase beta subunit [Plasmodium falciparum],8.67e-12,67.0,38.889,90
+1SA4_2|Chain,gb|ABJ97611.1|,protein farnesyltransferase beta subunit [Plasmodium falciparum],1.99e-57,202.0,34.579,321
+1SA4_2|Chain,gb|ABJ97611.1|,protein farnesyltransferase beta subunit [Plasmodium falciparum],3.39e-13,71.6,40.0,90

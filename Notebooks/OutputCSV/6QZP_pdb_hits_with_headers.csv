@@ -1,0 +1,6 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+6QZP_36|Chain,emb|CAA82284.2|,Ag15 [Plasmodium falciparum],8.53e-17,70.5,49.167,120
+6QZP_36|Chain,gb|AAA70296.1|,15 kDa vesicular-like antigen [Plasmodium falciparum],3.98e-13,60.5,53.684,95
+6QZP_65|Chain,emb|CAA64591.1|,rps12 [Plasmodium falciparum],1.39e-09,52.4,37.662,77
+6QZP_69|Chain,gb|AAP93837.1|,COPI protein [Plasmodium falciparum],5.83e-13,69.3,30.709,127
+6QZP_69|Chain,gb|AAP93837.1|,COPI protein [Plasmodium falciparum],8.93e-09,56.2,25.258,194

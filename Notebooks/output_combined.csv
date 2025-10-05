@@ -1,0 +1,1245 @@
+Bit_score,Alignment_Length,Query_ID,Title,Alignment_Score,Subject_ID,E_value,Subject_Chain
+89.189,,1A29_1|Chain,1.27e-95,148,sp|P24044.4|,272.0,RecName: Full=Calmodulin [Plasmodium falciparum]
+87.162,,1A29_1|Chain,2.53e-91,148,gb|AAA29509.1|,261.0,calmodulin [Plasmodium falciparum]
+43.421,,1A29_1|Chain,3.96e-11,76,gb|AAA29509.1|,57.0,calmodulin [Plasmodium falciparum]
+27.333,,1A29_1|Chain,1.52e-17,150,emb|CAA68090.1|,77.8,CDPK2 [Plasmodium falciparum]
+35.099,,1A29_1|Chain,3.08e-16,151,emb|CAA47704.1|,73.9,protein kinase [Plasmodium falciparum]
+29.545,,1A29_1|Chain,5.07e-06,88,emb|CAA47704.1|,44.7,protein kinase [Plasmodium falciparum]
+28.03,,1A29_1|Chain,1.36e-08,132,gb|AAB49899.1|,52.0,membrane-associated calcum-binding protein [Plasmodium falciparum]
+28.03,,1A29_1|Chain,1.69e-08,132,gb|AAF14633.1|,51.6,membrane-associated calcium-binding protein [Plasmodium falciparum]
+87.0,237.0,1C14_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.738,pdb|3AM3|A,6.74e-20,Chain A
+85.5,237.0,1C14_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],25.316,pdb|1UH5|A,2.78e-19,Chain A
+85.9,237.0,1C14_1|Chains, partial [Plasmodium falciparum],25.316,gb|AAK38274.1|,3.23e-19,enoyl-ACP reductase
+84.3,237.0,1C14_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],24.051,pdb|2OL4|A,7.72e-19,Chain A
+84.0,237.0,1C14_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],24.051,pdb|1VRW|A,8.04e-19,Chain A
+25.316,NaN,1C14_1|Chains,9.22e-19,237.0,gb|AAK25802.1|,84.7,enoyl-acyl carrier reductase [Plasmodium falciparum]
+83.6,237.0,1C14_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.316,pdb|3AM5|A,1.37e-18,Chain A
+27.189,NaN,1C14_1|Chains,1.72e-18,217.0,gb|AAK83687.1|,84.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+70.1,141.0,1C14_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],29.078,pdb|1NHG|A,2.72e-14,Chain A
+642.0,316.0,1CET_1|Chain, PROTEIN (L-LACTATE DEHYDROGENASE) [Plasmodium falciparum],100.0,pdb|1CET|A,0.0,Chain A
+639.0,316.0,1CET_1|Chain, PROTEIN (L-LACTATE DEHYDROGENASE) [Plasmodium falciparum],99.684,pdb|1CEQ|A,0.0,Chain A
+99.367,NaN,1CET_1|Chain,0.0,316.0,gb|AAA29633.1|,638.0,L-lactate dehydrogenase [Plasmodium falciparum]
+637.0,316.0,1CET_1|Chain, L-lactate dehydrogenase [Plasmodium falciparum],99.367,pdb|1T24|A,0.0,Chain A
+99.051,NaN,1CET_1|Chain,0.0,316.0,gb|ARE68687.1|,636.0,lactate dehydrogenase [Plasmodium falciparum]
+636.0,316.0,1CET_1|Chain, partial [Plasmodium falciparum],99.051,gb|QDE12492.1|,0.0,lactate dehydrogenase
+99.051,NaN,1CET_1|Chain,0.0,316.0,gb|AMP42558.1|,635.0,lactate dehydrogenase [Plasmodium falciparum]
+99.051,NaN,1CET_1|Chain,0.0,316.0,gb|AMP42570.1|,635.0,lactate dehydrogenase [Plasmodium falciparum]
+99.051,NaN,1CET_1|Chain,0.0,316.0,gb|AMP42566.1|,635.0,lactate dehydrogenase [Plasmodium falciparum]
+99.051,NaN,1CET_1|Chain,0.0,316.0,gb|AMP42582.1|,635.0,lactate dehydrogenase [Plasmodium falciparum]
+89.189,,1CTR_1|Chain,1.27e-95,148,sp|P24044.4|,272.0,RecName: Full=Calmodulin [Plasmodium falciparum]
+87.162,,1CTR_1|Chain,2.53e-91,148,gb|AAA29509.1|,261.0,calmodulin [Plasmodium falciparum]
+43.421,,1CTR_1|Chain,3.96e-11,76,gb|AAA29509.1|,57.0,calmodulin [Plasmodium falciparum]
+27.333,,1CTR_1|Chain,1.52e-17,150,emb|CAA68090.1|,77.8,CDPK2 [Plasmodium falciparum]
+35.099,,1CTR_1|Chain,3.08e-16,151,emb|CAA47704.1|,73.9,protein kinase [Plasmodium falciparum]
+29.545,,1CTR_1|Chain,5.07e-06,88,emb|CAA47704.1|,44.7,protein kinase [Plasmodium falciparum]
+28.03,,1CTR_1|Chain,1.36e-08,132,gb|AAB49899.1|,52.0,membrane-associated calcum-binding protein [Plasmodium falciparum]
+28.03,,1CTR_1|Chain,1.69e-08,132,gb|AAF14633.1|,51.6,membrane-associated calcium-binding protein [Plasmodium falciparum]
+301.0,321.0,1D7O_1|Chain, Enoyl-ACP reductase [Plasmodium falciparum],47.975,pdb|3AM3|A,3.62e-102,Chain A
+298.0,321.0,1D7O_1|Chain, Enoyl-ACP reductase [Plasmodium falciparum],47.664,pdb|3AM5|A,4.78e-101,Chain A
+298.0,321.0,1D7O_1|Chain, enoyl-ACP reductase [Plasmodium falciparum],47.664,pdb|1UH5|A,6.21e-101,Chain A
+298.0,321.0,1D7O_1|Chain, Enoyl-acyl carrier reductase [Plasmodium falciparum],47.664,pdb|2OL4|A,6.69e-101,Chain A
+298.0,321.0,1D7O_1|Chain, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],47.664,pdb|1VRW|A,6.77e-101,Chain A
+300.0,321.0,1D7O_1|Chain, partial [Plasmodium falciparum],47.664,gb|AAK38274.1|,1.92e-100,enoyl-ACP reductase
+47.664,NaN,1D7O_1|Chain,2.33e-100,321.0,gb|AAK25802.1|,300.0,enoyl-acyl carrier reductase [Plasmodium falciparum]
+47.352,NaN,1D7O_1|Chain,5.85e-99,321.0,gb|AAK83687.1|,297.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+263.0,225.0,1D7O_1|Chain, enoyl-acyl carrier reductase [Plasmodium falciparum],55.111,pdb|1NHG|A,2.14e-88,Chain A
+60.5,53.0,1D7O_1|Chain, enoyl-acyl carrier reductase [Plasmodium falciparum],54.717,pdb|1NHG|C,3.53e-12,Chain C
+87.0,237.0,1D8A_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.738,pdb|3AM3|A,6.04e-20,Chain A
+85.5,237.0,1D8A_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],25.316,pdb|1UH5|A,2.51e-19,Chain A
+85.9,237.0,1D8A_1|Chains, partial [Plasmodium falciparum],25.316,gb|AAK38274.1|,3.38e-19,enoyl-ACP reductase
+84.3,237.0,1D8A_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],24.051,pdb|2OL4|A,7.8e-19,Chain A
+84.0,237.0,1D8A_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],24.051,pdb|1VRW|A,7.96e-19,Chain A
+24.051,NaN,1D8A_1|Chains,8.94e-19,237.0,gb|AAK25802.1|,84.7,enoyl-acyl carrier reductase [Plasmodium falciparum]
+83.2,237.0,1D8A_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.316,pdb|3AM5|A,1.37e-18,Chain A
+25.806,NaN,1D8A_1|Chains,1.84e-18,217.0,gb|AAK83687.1|,84.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+69.7,141.0,1D8A_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],29.078,pdb|1NHG|A,2.81e-14,Chain A
+562.0,280.0,1J3I_1|Chains, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],100.0,pdb|3QGT|A,0.0,Chain A
+562.0,280.0,1J3I_1|Chains, partial [Plasmodium falciparum],100.0,gb|AIB07168.1|,0.0,bifunctional dihydrofolate reductase-thymidylate synthase
+561.0,280.0,1J3I_1|Chains, partial [Plasmodium falciparum],100.0,gb|AIB07199.1|,0.0,bifunctional dihydrofolate reductase-thymidylate synthase
+561.0,280.0,1J3I_1|Chains, partial [Plasmodium falciparum],100.0,gb|AIB07282.1|,0.0,bifunctional dihydrofolate reductase-thymidylate synthase
+561.0,280.0,1J3I_1|Chains, partial [Plasmodium falciparum],100.0,gb|AIB07251.1|,0.0,bifunctional dihydrofolate reductase-thymidylate synthase
+561.0,280.0,1J3I_1|Chains, partial [Plasmodium falciparum],100.0,gb|AIB07175.1|,0.0,bifunctional dihydrofolate reductase-thymidylate synthase
+561.0,280.0,1J3I_1|Chains, partial [Plasmodium falciparum],100.0,gb|AIB07177.1|,0.0,bifunctional dihydrofolate reductase-thymidylate synthase
+99.643,NaN,1J3I_1|Chains,0.0,280.0,gb|AAA29585.1|,561.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+560.0,280.0,1J3I_1|Chains, partial [Plasmodium falciparum],100.0,gb|AIB07196.1|,0.0,bifunctional dihydrofolate reductase-thymidylate synthase
+560.0,280.0,1J3I_1|Chains, partial [Plasmodium falciparum],99.643,gb|AIB07206.1|,0.0,bifunctional dihydrofolate reductase-thymidylate synthase
+687.0,328.0,1J3I_2|Chains, partial [Plasmodium falciparum],100.0,gb|UXQ07762.1|,0.0,dihydrofolate reductase-thymidylate synthase
+687.0,328.0,1J3I_2|Chains, Dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],100.0,pdb|3JSU|A,0.0,Chain A
+687.0,328.0,1J3I_2|Chains, partial [Plasmodium falciparum],100.0,gb|UXQ07839.1|,0.0,dihydrofolate reductase-thymidylate synthase
+100.0,NaN,1J3I_2|Chains,0.0,328.0,gb|UXQ07708.1|,687.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+100.0,NaN,1J3I_2|Chains,0.0,328.0,gb|UXQ07715.1|,687.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+687.0,328.0,1J3I_2|Chains, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],100.0,pdb|3UM5|A,0.0,Chain A
+100.0,NaN,1J3I_2|Chains,0.0,328.0,gb|UXQ07805.1|,687.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+100.0,NaN,1J3I_2|Chains,0.0,328.0,gb|UXQ07920.1|,687.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+100.0,NaN,1J3I_2|Chains,0.0,328.0,gb|AAA29580.1|,687.0,dihydrofolate reductase-thymidylate synthetase [Plasmodium falciparum]
+100.0,NaN,1J3I_2|Chains,0.0,328.0,gb|UXQ07891.1|,687.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+100.0,,1J3J_1|Chains,0.0,280,gb|AAA29580.1|,562,dihydrofolate reductase-thymidylate synthetase [Plasmodium falciparum]
+100.0,,1J3J_2|Chains,0.0,328,gb|UXQ07708.1|,687,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+100.0,,1J3J_2|Chains,0.0,328,gb|UXQ07715.1|,687,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+100.0,,1J3J_2|Chains,0.0,328,gb|UXQ07805.1|,687,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+100.0,,1J3J_2|Chains,0.0,328,gb|UXQ07920.1|,687,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+100.0,,1J3J_2|Chains,0.0,328,gb|AAA29580.1|,687,dihydrofolate reductase-thymidylate synthetase [Plasmodium falciparum]
+100.0,,1J3J_2|Chains,0.0,328,gb|UXQ07891.1|,687,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+562.0,280.0,1J3K_1|Chains, Dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],100.0,pdb|3JSU|A,0.0,Chain A
+562.0,280.0,1J3K_1|Chains, partial [Plasmodium falciparum],100.0,gb|UXQ07835.1|,0.0,dihydrofolate reductase-thymidylate synthase
+99.643,NaN,1J3K_1|Chains,0.0,280.0,gb|UXQ07887.1|,561.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+561.0,280.0,1J3K_1|Chains, partial [Plasmodium falciparum],99.643,gb|UXQ07710.1|,0.0,dihydrofolate reductase-thymidylate synthase
+99.643,NaN,1J3K_1|Chains,0.0,280.0,gb|UXQ07712.1|,561.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+561.0,280.0,1J3K_1|Chains, partial [Plasmodium falciparum],99.643,gb|UXQ07807.1|,0.0,dihydrofolate reductase-thymidylate synthase
+99.643,NaN,1J3K_1|Chains,0.0,280.0,gb|UXQ07814.1|,561.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.643,NaN,1J3K_1|Chains,0.0,280.0,gb|UXQ07708.1|,561.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.643,NaN,1J3K_1|Chains,0.0,280.0,gb|UXQ07895.1|,561.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.643,NaN,1J3K_1|Chains,0.0,280.0,gb|UXQ07737.1|,561.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+687.0,328.0,1J3K_2|Chains, partial [Plasmodium falciparum],100.0,gb|UXQ07762.1|,0.0,dihydrofolate reductase-thymidylate synthase
+687.0,328.0,1J3K_2|Chains, Dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],100.0,pdb|3JSU|A,0.0,Chain A
+687.0,328.0,1J3K_2|Chains, partial [Plasmodium falciparum],100.0,gb|UXQ07839.1|,0.0,dihydrofolate reductase-thymidylate synthase
+100.0,NaN,1J3K_2|Chains,0.0,328.0,gb|UXQ07708.1|,687.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+100.0,NaN,1J3K_2|Chains,0.0,328.0,gb|UXQ07715.1|,687.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+687.0,328.0,1J3K_2|Chains, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],100.0,pdb|3UM5|A,0.0,Chain A
+100.0,NaN,1J3K_2|Chains,0.0,328.0,gb|UXQ07805.1|,687.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+100.0,NaN,1J3K_2|Chains,0.0,328.0,gb|UXQ07920.1|,687.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+100.0,NaN,1J3K_2|Chains,0.0,328.0,gb|AAA29580.1|,687.0,dihydrofolate reductase-thymidylate synthetase [Plasmodium falciparum]
+100.0,NaN,1J3K_2|Chains,0.0,328.0,gb|UXQ07891.1|,687.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+23.567,,1K73_3|Chain,7.2e-11,157,emb|CAA64579.1|,60.1,rpl2 [Plasmodium falciparum]
+24.254,,1K73_9|Chain,6.45e-20,268,gb|AAD10140.1|,88.6,acidic ribosomal phosphoprotein PO [Plasmodium falciparum]
+89.189,,1LIN_1|Chain,1.27e-95,148,sp|P24044.4|,272.0,RecName: Full=Calmodulin [Plasmodium falciparum]
+87.162,,1LIN_1|Chain,2.53e-91,148,gb|AAA29509.1|,261.0,calmodulin [Plasmodium falciparum]
+43.421,,1LIN_1|Chain,3.96e-11,76,gb|AAA29509.1|,57.0,calmodulin [Plasmodium falciparum]
+27.333,,1LIN_1|Chain,1.52e-17,150,emb|CAA68090.1|,77.8,CDPK2 [Plasmodium falciparum]
+35.099,,1LIN_1|Chain,3.08e-16,151,emb|CAA47704.1|,73.9,protein kinase [Plasmodium falciparum]
+29.545,,1LIN_1|Chain,5.07e-06,88,emb|CAA47704.1|,44.7,protein kinase [Plasmodium falciparum]
+28.03,,1LIN_1|Chain,1.36e-08,132,gb|AAB49899.1|,52.0,membrane-associated calcum-binding protein [Plasmodium falciparum]
+28.03,,1LIN_1|Chain,1.69e-08,132,gb|AAF14633.1|,51.6,membrane-associated calcium-binding protein [Plasmodium falciparum]
+470.0,229.0,1NHG_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],100.0,pdb|1NHG|A,1.49e-171,Chain A
+473.0,229.0,1NHG_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],100.0,pdb|2OL4|A,7.24e-171,Chain A
+473.0,229.0,1NHG_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],100.0,pdb|3AM3|A,8.69e-171,Chain A
+472.0,229.0,1NHG_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],100.0,pdb|1UH5|A,8.78e-171,Chain A
+473.0,229.0,1NHG_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],100.0,pdb|1VRW|A,9.16e-171,Chain A
+475.0,229.0,1NHG_1|Chains, partial [Plasmodium falciparum],100.0,gb|AAK38274.1|,3.19e-170,enoyl-ACP reductase
+100.0,NaN,1NHG_1|Chains,5.16e-170,229.0,gb|AAK25802.1|,474.0,enoyl-acyl carrier reductase [Plasmodium falciparum]
+470.0,229.0,1NHG_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],99.563,pdb|3AM5|A,5.979999999999999e-170,Chain A
+99.563,NaN,1NHG_1|Chains,5.08e-169,229.0,gb|AAK83687.1|,472.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+122.0,60.0,1NHG_2|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],100.0,pdb|1NHG|C,2.52e-39,Chain C
+125.0,60.0,1NHG_2|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],100.0,pdb|2OL4|A,2.21e-37,Chain A
+125.0,60.0,1NHG_2|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],100.0,pdb|1VRW|A,3.23e-37,Chain A
+123.0,59.0,1NHG_2|Chains, Enoyl-ACP reductase [Plasmodium falciparum],100.0,pdb|3AM5|A,2e-36,Chain A
+123.0,59.0,1NHG_2|Chains, enoyl-ACP reductase [Plasmodium falciparum],100.0,pdb|1UH5|A,2.02e-36,Chain A
+100.0,NaN,1NHG_2|Chains,1.25e-35,60.0,gb|AAK83687.1|,123.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+123.0,60.0,1NHG_2|Chains, partial [Plasmodium falciparum],100.0,gb|AAK38274.1|,1.32e-35,enoyl-ACP reductase
+121.0,59.0,1NHG_2|Chains, Enoyl-ACP reductase [Plasmodium falciparum],98.305,pdb|3AM3|A,1.33e-35,Chain A
+100.0,NaN,1NHG_2|Chains,2.10e-35,60.0,gb|AAK25802.1|,122.0,enoyl-acyl carrier reductase [Plasmodium falciparum]
+56.6,183.0,1P45_1|Chains, partial [Plasmodium falciparum],27.322,gb|AAK38274.1|,3.25e-09,enoyl-ACP reductase
+56.2,183.0,1P45_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],27.322,pdb|3AM3|A,3.27e-09,Chain A
+55.5,180.0,1P45_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],27.222,pdb|1NHG|A,3.85e-09,Chain A
+55.8,183.0,1P45_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],27.322,pdb|1UH5|A,4.69e-09,Chain A
+38.554,NaN,1P45_1|Chains,6.83e-09,83.0,gb|AAK25802.1|,55.8,enoyl-acyl carrier reductase [Plasmodium falciparum]
+38.554,NaN,1P45_1|Chains,7.15e-09,83.0,gb|AAK83687.1|,55.8,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+55.1,83.0,1P45_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],38.554,pdb|1VRW|A,7.98e-09,Chain A
+55.1,83.0,1P45_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],38.554,pdb|2OL4|A,8.03e-09,Chain A
+53.9,183.0,1P45_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],27.322,pdb|3AM5|A,2.19e-08,Chain A
+101.0,232.0,1Q7Y_10|Chain, partial [Plasmodium falciparum],25.862,emb|CAE84233.1|,1.48e-24,ribosomal phosphoprotein
+101.0,232.0,1Q7Y_10|Chain, partial [Plasmodium falciparum],25.862,emb|CAF18552.1|,1.8999999999999998e-24,ribosomal phosphoprotein
+24.254,NaN,1Q7Y_10|Chain,6.45e-20,268.0,gb|AAD10140.1|,88.6,acidic ribosomal phosphoprotein PO [Plasmodium falciparum]
+23.567,NaN,1Q7Y_4|Chain,7.20e-11,157.0,emb|CAA64579.1|,60.1,rpl2 [Plasmodium falciparum]
+87.0,237.0,1QG6_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.738,pdb|3AM3|A,6.04e-20,Chain A
+85.5,237.0,1QG6_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],25.316,pdb|1UH5|A,2.51e-19,Chain A
+85.9,237.0,1QG6_1|Chains, partial [Plasmodium falciparum],25.316,gb|AAK38274.1|,3.38e-19,enoyl-ACP reductase
+84.3,237.0,1QG6_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],24.051,pdb|2OL4|A,7.8e-19,Chain A
+84.0,237.0,1QG6_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],24.051,pdb|1VRW|A,7.96e-19,Chain A
+24.051,NaN,1QG6_1|Chains,8.94e-19,237.0,gb|AAK25802.1|,84.7,enoyl-acyl carrier reductase [Plasmodium falciparum]
+83.2,237.0,1QG6_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.316,pdb|3AM5|A,1.37e-18,Chain A
+25.806,NaN,1QG6_1|Chains,1.84e-18,217.0,gb|AAK83687.1|,84.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+69.7,141.0,1QG6_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],29.078,pdb|1NHG|A,2.81e-14,Chain A
+87.0,237.0,1QSG_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.738,pdb|3AM3|A,6.82e-20,Chain A
+85.1,237.0,1QSG_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],25.316,pdb|1UH5|A,3.19e-19,Chain A
+85.9,237.0,1QSG_1|Chains, partial [Plasmodium falciparum],25.316,gb|AAK38274.1|,3.71e-19,enoyl-ACP reductase
+84.3,237.0,1QSG_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],24.051,pdb|2OL4|A,8.35e-19,Chain A
+84.0,237.0,1QSG_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],24.051,pdb|1VRW|A,9.04e-19,Chain A
+24.051,NaN,1QSG_1|Chains,9.89e-19,237.0,gb|AAK25802.1|,84.7,enoyl-acyl carrier reductase [Plasmodium falciparum]
+25.806,NaN,1QSG_1|Chains,1.71e-18,217.0,gb|AAK83687.1|,84.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+83.2,237.0,1QSG_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.316,pdb|3AM5|A,1.79e-18,Chain A
+69.7,141.0,1QSG_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],29.078,pdb|1NHG|A,3.17e-14,Chain A
+26.804,,1SA4_1|Chain,9.69e-09,97,gb|AAW78026.1|,56.6,protein farnesyltransferase alpha subunit [Plasmodium falciparum]
+27.66,,1SA4_1|Chain,4.17e-06,94,gb|AAW78026.1|,48.5,protein farnesyltransferase alpha subunit [Plasmodium falciparum]
+26.804,,1SA4_1|Chain,1.03e-08,97,gb|AAW78024.1|,56.6,protein farnesyltransferase alpha subunit [Plasmodium falciparum]
+27.66,,1SA4_1|Chain,4.28e-06,94,gb|AAW78024.1|,48.5,protein farnesyltransferase alpha subunit [Plasmodium falciparum]
+25.773,,1SA4_1|Chain,1.06e-07,97,gb|ABJ97612.1|,53.5,protein farnesyltransferase alpha subunit [Plasmodium falciparum]
+27.66,,1SA4_1|Chain,4.21e-06,94,gb|ABJ97612.1|,48.5,protein farnesyltransferase alpha subunit [Plasmodium falciparum]
+34.891,,1SA4_2|Chain,3.19e-58,321,gb|AAW78025.1|,205.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+40.0,,1SA4_2|Chain,3.33e-13,90,gb|AAW78025.1|,71.6,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+34.891,,1SA4_2|Chain,3.5500000000000004e-58,321,gb|AAW78027.1|,205.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+40.0,,1SA4_2|Chain,3.51e-13,90,gb|AAW78027.1|,71.6,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+34.891,,1SA4_2|Chain,4.12e-58,321,gb|AAW78028.1|,204.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+38.889,,1SA4_2|Chain,8.67e-12,90,gb|AAW78028.1|,67.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+34.579,,1SA4_2|Chain,1.99e-57,321,gb|ABJ97611.1|,202.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+40.0,,1SA4_2|Chain,3.39e-13,90,gb|ABJ97611.1|,71.6,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+44.444,,1TCO_1|Chain,1.7500000000000002e-73,252,gb|AAM54063.1|,230.0,protein phosphatase type 1 [Plasmodium falciparum]
+43.214,,1TCO_1|Chain,1.95e-67,280,gb|AAC47800.1|,219.0,protein phosphatase-beta [Plasmodium falciparum]
+39.13,,1TCO_1|Chain,6.51e-58,253,gb|AAK95648.1|,197.0,serine/threonine protein phosphatase PfPP5 [Plasmodium falciparum]
+39.13,,1TCO_1|Chain,1.57e-57,253,gb|AAL15170.1|,196.0,serine/threonine protein phosphatase PP5 [Plasmodium falciparum]
+35.563,,1TCO_1|Chain,3.6e-43,284,gb|AAC69437.1|,160.0,protein serine/threonine phosphatase alpha [Plasmodium falciparum]
+32.031,,1TCO_1|Chain,1.4900000000000002e-32,256,gb|AAF19176.1|,123.0,PP1-like protein serine/threonine phosphatase [Plasmodium falciparum]
+35.762,,1TCO_2|Chain,1.21e-21,151,sp|P24044.4|,85.1,RecName: Full=Calmodulin [Plasmodium falciparum]
+36.0,,1TCO_2|Chain,7.07e-20,150,gb|AAA29509.1|,80.5,calmodulin [Plasmodium falciparum]
+26.531,,1TCO_2|Chain,2.3e-08,147,emb|CAA68090.1|,52.0,CDPK2 [Plasmodium falciparum]
+30.719,,1TCO_2|Chain,1.14e-06,153,emb|CAA47704.1|,47.0,protein kinase [Plasmodium falciparum]
+677.0,329.0,1UH5_1|Chains, partial [Plasmodium falciparum],100.0,gb|AAK38274.1|,0.0,enoyl-ACP reductase
+675.0,329.0,1UH5_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],100.0,pdb|1UH5|A,0.0,Chain A
+674.0,329.0,1UH5_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],99.696,pdb|3AM3|A,0.0,Chain A
+673.0,329.0,1UH5_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],99.696,pdb|3AM5|A,0.0,Chain A
+99.392,NaN,1UH5_1|Chains,0.0,329.0,gb|AAK25802.1|,671.0,enoyl-acyl carrier reductase [Plasmodium falciparum]
+669.0,329.0,1UH5_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],99.392,pdb|2OL4|A,0.0,Chain A
+99.088,NaN,1UH5_1|Chains,0.0,329.0,gb|AAK83687.1|,668.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+668.0,328.0,1UH5_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],99.39,pdb|1VRW|A,0.0,Chain A
+472.0,229.0,1UH5_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],100.0,pdb|1NHG|A,1.26e-170,Chain A
+123.0,59.0,1UH5_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],100.0,pdb|1NHG|C,1.1100000000000001e-35,Chain C
+38.699,,1UU3_1|Chain,2.0300000000000002e-71,292,gb|AAT06260.1|,227.0,protein kinase B-like protein [Plasmodium falciparum]
+38.71,,1UU3_1|Chain,8.989999999999999e-61,279,gb|AAF99562.1|,196.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+31.529,,1UU3_1|Chain,1.19e-36,314,emb|CAA68090.1|,137.0,CDPK2 [Plasmodium falciparum]
+33.716,,1UU3_1|Chain,3.1800000000000004e-35,261,emb|CAA47704.1|,133.0,protein kinase [Plasmodium falciparum]
+29.675,,1UU3_1|Chain,2.51e-33,246,emb|CAA45179.1|,127.0,PfPK2 [Plasmodium falciparum]
+30.739,,1UU3_1|Chain,1.66e-32,257,emb|CAA80490.1|,126.0,serine/threonine-protein kinase [Plasmodium falciparum]
+26.872,,1UU3_1|Chain,5.94e-20,227,gb|AAC47170.1|,90.1,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+38.699,,1UU8_1|Chain,2.0300000000000002e-71,292,gb|AAT06260.1|,227.0,protein kinase B-like protein [Plasmodium falciparum]
+38.71,,1UU8_1|Chain,8.989999999999999e-61,279,gb|AAF99562.1|,196.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+31.529,,1UU8_1|Chain,1.19e-36,314,emb|CAA68090.1|,137.0,CDPK2 [Plasmodium falciparum]
+33.716,,1UU8_1|Chain,3.1800000000000004e-35,261,emb|CAA47704.1|,133.0,protein kinase [Plasmodium falciparum]
+29.675,,1UU8_1|Chain,2.51e-33,246,emb|CAA45179.1|,127.0,PfPK2 [Plasmodium falciparum]
+30.739,,1UU8_1|Chain,1.66e-32,257,emb|CAA80490.1|,126.0,serine/threonine-protein kinase [Plasmodium falciparum]
+26.872,,1UU8_1|Chain,5.94e-20,227,gb|AAC47170.1|,90.1,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+60.759,,1WRK_1|Chains,3e-27,79,sp|P24044.4|,96.7,RecName: Full=Calmodulin [Plasmodium falciparum]
+45.312,,1WRK_1|Chains,1.18e-08,64,sp|P24044.4|,48.5,RecName: Full=Calmodulin [Plasmodium falciparum]
+59.494,,1WRK_1|Chains,1.3999999999999999e-24,79,gb|AAA29509.1|,89.7,calmodulin [Plasmodium falciparum]
+45.312,,1WRK_1|Chains,1.04e-08,64,gb|AAA29509.1|,48.9,calmodulin [Plasmodium falciparum]
+60.759,,1WRL_1|Chains,3e-27,79,sp|P24044.4|,96.7,RecName: Full=Calmodulin [Plasmodium falciparum]
+45.312,,1WRL_1|Chains,1.18e-08,64,sp|P24044.4|,48.5,RecName: Full=Calmodulin [Plasmodium falciparum]
+59.494,,1WRL_1|Chains,1.3999999999999999e-24,79,gb|AAA29509.1|,89.7,calmodulin [Plasmodium falciparum]
+45.312,,1WRL_1|Chains,1.04e-08,64,gb|AAA29509.1|,48.9,calmodulin [Plasmodium falciparum]
+25.773,,1X81_1|Chain,6.55e-08,97,gb|AAW78026.1|,53.5,protein farnesyltransferase alpha subunit [Plasmodium falciparum]
+25.773,,1X81_1|Chain,7.03e-08,97,gb|AAW78024.1|,53.5,protein farnesyltransferase alpha subunit [Plasmodium falciparum]
+24.742,,1X81_1|Chain,7.72e-07,97,gb|ABJ97612.1|,50.1,protein farnesyltransferase alpha subunit [Plasmodium falciparum]
+35.514,,1X81_2|Chain,7.5100000000000005e-59,321,gb|AAW78025.1|,205.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+38.889,,1X81_2|Chain,1.54e-12,90,gb|AAW78025.1|,68.9,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+35.514,,1X81_2|Chain,7.970000000000001e-59,321,gb|AAW78027.1|,205.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+38.889,,1X81_2|Chain,1.68e-12,90,gb|AAW78027.1|,68.9,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+35.514,,1X81_2|Chain,9.34e-59,321,gb|AAW78028.1|,205.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+37.778,,1X81_2|Chain,4.1e-11,90,gb|AAW78028.1|,64.7,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+35.202,,1X81_2|Chain,4.190000000000001e-58,321,gb|ABJ97611.1|,203.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+38.889,,1X81_2|Chain,1.62e-12,90,gb|ABJ97611.1|,68.9,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+28.099,,1XKK_1|Chain,5.27e-17,242,gb|AAL54911.1|,82.4,sexual stage-specific protein kinase [Plasmodium falciparum]
+29.73,,1XKK_1|Chain,1.57e-13,222,emb|CAA68090.1|,71.2,CDPK2 [Plasmodium falciparum]
+28.151,,1XKK_1|Chain,3.41e-13,238,emb|CAA47704.1|,70.1,protein kinase [Plasmodium falciparum]
+26.484,,1XKK_1|Chain,3.56e-13,219,gb|AAF99562.1|,69.3,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.415,,1XKK_1|Chain,2.71e-10,212,gb|AAT06260.1|,61.2,protein kinase B-like protein [Plasmodium falciparum]
+31.095,,1XWS_1|Chain,3.4399999999999997e-34,283,emb|CAA68090.1|,130.0,CDPK2 [Plasmodium falciparum]
+30.83,,1XWS_1|Chain,2.71e-30,253,emb|CAA80490.1|,120.0,serine/threonine-protein kinase [Plasmodium falciparum]
+26.855,,1XWS_1|Chain,7.09e-25,283,emb|CAA45179.1|,103.0,PfPK2 [Plasmodium falciparum]
+30.526,,1XWS_1|Chain,1.8e-23,285,emb|CAA47704.1|,100.0,protein kinase [Plasmodium falciparum]
+26.894,,1XWS_1|Chain,6.450000000000001e-21,264,gb|AAT06260.1|,92.4,protein kinase B-like protein [Plasmodium falciparum]
+26.336,,1XWS_1|Chain,7.53e-20,262,gb|AAF99562.1|,88.2,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.339,,1XWS_1|Chain,7.52e-17,224,gb|AAC47170.1|,80.9,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+43.322,,1ZRZ_1|Chain,5.39e-86,307,gb|AAT06260.1|,266.0,protein kinase B-like protein [Plasmodium falciparum]
+34.906,,1ZRZ_1|Chain,1.43e-60,318,gb|AAF99562.1|,198.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+30.0,,1ZRZ_1|Chain,1.37e-30,270,emb|CAA80490.1|,122.0,serine/threonine-protein kinase [Plasmodium falciparum]
+30.622,,1ZRZ_1|Chain,1.8000000000000003e-27,209,emb|CAA45179.1|,112.0,PfPK2 [Plasmodium falciparum]
+31.22,,1ZRZ_1|Chain,4.88e-24,205,emb|CAA68090.1|,102.0,CDPK2 [Plasmodium falciparum]
+29.577,,1ZRZ_1|Chain,3.1800000000000004e-21,213,emb|CAA47704.1|,94.7,protein kinase [Plasmodium falciparum]
+29.412,,1ZRZ_1|Chain,1.84e-19,221,gb|AAC61592.1|,87.4,cdk-related protein kinase 6 [Plasmodium falciparum]
+26.693,,1ZRZ_1|Chain,2.82e-18,251,gb|AAC47170.1|,86.3,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+56.6,183.0,2B35_1|Chains, partial [Plasmodium falciparum],27.322,gb|AAK38274.1|,3.25e-09,enoyl-ACP reductase
+56.2,183.0,2B35_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],27.322,pdb|3AM3|A,3.27e-09,Chain A
+55.5,180.0,2B35_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],27.222,pdb|1NHG|A,3.85e-09,Chain A
+55.8,183.0,2B35_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],27.322,pdb|1UH5|A,4.69e-09,Chain A
+38.554,NaN,2B35_1|Chains,6.83e-09,83.0,gb|AAK25802.1|,55.8,enoyl-acyl carrier reductase [Plasmodium falciparum]
+38.554,NaN,2B35_1|Chains,7.15e-09,83.0,gb|AAK83687.1|,55.8,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+55.1,83.0,2B35_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],38.554,pdb|1VRW|A,7.98e-09,Chain A
+55.1,83.0,2B35_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],38.554,pdb|2OL4|A,8.03e-09,Chain A
+53.9,183.0,2B35_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],27.322,pdb|3AM5|A,2.19e-08,Chain A
+31.095,,2BIK_1|Chain,1.3200000000000001e-33,283,emb|CAA68090.1|,128.0,CDPK2 [Plasmodium falciparum]
+30.83,,2BIK_1|Chain,7.28e-30,253,emb|CAA80490.1|,119.0,serine/threonine-protein kinase [Plasmodium falciparum]
+26.667,,2BIK_1|Chain,4.05e-24,285,emb|CAA45179.1|,102.0,PfPK2 [Plasmodium falciparum]
+30.526,,2BIK_1|Chain,5.53e-23,285,emb|CAA47704.1|,98.6,protein kinase [Plasmodium falciparum]
+25.524,,2BIK_1|Chain,9.02e-21,286,gb|AAT06260.1|,91.7,protein kinase B-like protein [Plasmodium falciparum]
+26.336,,2BIK_1|Chain,1.54e-19,262,gb|AAF99562.1|,87.4,cAMP-dependent protein kinase [Plasmodium falciparum]
+27.727,,2BIK_1|Chain,8.72e-17,220,gb|AAC47170.1|,80.5,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+31.095,,2BIL_2|Chain,1.3200000000000001e-33,283,emb|CAA68090.1|,128.0,CDPK2 [Plasmodium falciparum]
+30.83,,2BIL_2|Chain,7.28e-30,253,emb|CAA80490.1|,119.0,serine/threonine-protein kinase [Plasmodium falciparum]
+26.667,,2BIL_2|Chain,4.05e-24,285,emb|CAA45179.1|,102.0,PfPK2 [Plasmodium falciparum]
+30.526,,2BIL_2|Chain,5.53e-23,285,emb|CAA47704.1|,98.6,protein kinase [Plasmodium falciparum]
+25.524,,2BIL_2|Chain,9.02e-21,286,gb|AAT06260.1|,91.7,protein kinase B-like protein [Plasmodium falciparum]
+26.336,,2BIL_2|Chain,1.54e-19,262,gb|AAF99562.1|,87.4,cAMP-dependent protein kinase [Plasmodium falciparum]
+27.727,,2BIL_2|Chain,8.72e-17,220,gb|AAC47170.1|,80.5,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+314,237,2BL9_1|Chain, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],63.713,pdb|1J3I|A,8.48e-109,Chain A
+313,237,2BL9_1|Chain, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],63.291,pdb|1J3J|A,2.15e-108,Chain A
+308,232,2BL9_1|Chain, partial [Plasmodium falciparum],64.224,gb|ANG56392.1|,2.65e-107,dihydrofolate reductase
+310,234,2BL9_1|Chain, partial [Plasmodium falciparum],63.675,gb|QOP39094.1|,6.45e-107,dihydrofolate reductase
+308,237,2BL9_1|Chain, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],62.447,pdb|1J3K|A,1.6499999999999998e-106,Chain A
+305,234,2BL9_1|Chain, partial [Plasmodium falciparum],62.821,gb|QOP39095.1|,4.5200000000000005e-105,dihydrofolate reductase
+305,234,2BL9_1|Chain, partial [Plasmodium falciparum],62.821,gb|QOP39088.1|,5.04e-105,dihydrofolate reductase
+300,226,2BL9_1|Chain, partial [Plasmodium falciparum],64.602,gb|AAV67912.1|,2.2e-104,dihydrofolate reductase
+311,237,2BL9_1|Chain, partial [Plasmodium falciparum],63.291,gb|AIB07166.1|,5.18e-104,bifunctional dihydrofolate reductase-thymidylate synthase
+312,237,2BL9_1|Chain, partial [Plasmodium falciparum],63.713,gb|AIB07251.1|,7.209999999999999e-104,bifunctional dihydrofolate reductase-thymidylate synthase
+318,237,2BLA_1|Chain, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],64.557,pdb|1J3J|A,1.6400000000000005e-110,Chain A
+313,237,2BLA_1|Chain, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],63.713,pdb|1J3K|A,1.23e-108,Chain A
+313,237,2BLA_1|Chain, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],63.713,pdb|1J3I|A,2.92e-108,Chain A
+310,234,2BLA_1|Chain, partial [Plasmodium falciparum],64.103,gb|QOP39095.1|,3.81e-107,dihydrofolate reductase
+307,232,2BLA_1|Chain, partial [Plasmodium falciparum],64.224,gb|ANG56392.1|,6.8e-107,dihydrofolate reductase
+308,234,2BLA_1|Chain, partial [Plasmodium falciparum],63.675,gb|QOP39094.1|,1.88e-106,dihydrofolate reductase
+317,237,2BLA_1|Chain, partial [Plasmodium falciparum],64.557,gb|AIB07166.1|,5.24e-106,bifunctional dihydrofolate reductase-thymidylate synthase
+307,234,2BLA_1|Chain, partial [Plasmodium falciparum],63.675,gb|QOP39088.1|,7.369999999999999e-106,dihydrofolate reductase
+316,237,2BLA_1|Chain, partial [Plasmodium falciparum],64.557,gb|AIB07310.1|,1.22e-105,bifunctional dihydrofolate reductase-thymidylate synthase
+316,237,2BLA_1|Chain, partial [Plasmodium falciparum],64.557,gb|AIB07207.1|,1.33e-105,bifunctional dihydrofolate reductase-thymidylate synthase
+30.0,,2E2B_1|Chains,8.26e-25,260,emb|CAA68090.1|,103.0,CDPK2 [Plasmodium falciparum]
+31.004,,2E2B_1|Chains,6.18e-22,229,emb|CAA47704.1|,95.1,protein kinase [Plasmodium falciparum]
+29.767,,2E2B_1|Chains,4.88e-20,215,emb|CAA80490.1|,89.7,serine/threonine-protein kinase [Plasmodium falciparum]
+28.302,,2E2B_1|Chains,8.87e-20,212,gb|AAF99562.1|,87.4,cAMP-dependent protein kinase [Plasmodium falciparum]
+29.224,,2E2B_1|Chains,9.66e-18,219,gb|AAL54911.1|,83.2,sexual stage-specific protein kinase [Plasmodium falciparum]
+25.0,,2E2B_1|Chains,1.64e-16,240,gb|AAT06260.1|,79.0,protein kinase B-like protein [Plasmodium falciparum]
+24.312,,2E2B_1|Chains,6.93e-16,218,emb|CAA45179.1|,77.4,PfPK2 [Plasmodium falciparum]
+29.615,,2FUM_1|Chains,1.0500000000000001e-29,260,emb|CAA68090.1|,117.0,CDPK2 [Plasmodium falciparum]
+26.154,,2FUM_1|Chains,3.44e-24,260,emb|CAA45179.1|,101.0,PfPK2 [Plasmodium falciparum]
+25.6,,2FUM_1|Chains,5e-20,250,gb|AAT06260.1|,89.4,protein kinase B-like protein [Plasmodium falciparum]
+25.561,,2FUM_1|Chains,6.67e-20,223,emb|CAA47704.1|,89.4,protein kinase [Plasmodium falciparum]
+27.586,,2FUM_1|Chains,7.53e-19,203,emb|CAA80490.1|,86.7,serine/threonine-protein kinase [Plasmodium falciparum]
+36.697,,2FUM_1|Chains,1.35e-17,109,gb|AAC47170.1|,82.8,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+26.168,,2FUM_1|Chains,7.73e-16,214,emb|CAA56732.1|,77.4,cdc2-related protein kinase 1 [Plasmodium falciparum]
+36.471,,2GDO_1|Chain,3.94e-45,255,emb|CAA80490.1|,162,serine/threonine-protein kinase [Plasmodium falciparum]
+34.276,,2GDO_1|Chain,2.62e-40,283,emb|CAA47704.1|,146,protein kinase [Plasmodium falciparum]
+33.2,,2GDO_1|Chain,7.53e-36,250,gb|AAT06260.1|,133,protein kinase B-like protein [Plasmodium falciparum]
+33.208,,2GDO_1|Chain,5.55e-35,265,emb|CAA68090.1|,132,CDPK2 [Plasmodium falciparum]
+30.622,,2GDO_1|Chain,9.63e-25,209,gb|AAF99562.1|,101,cAMP-dependent protein kinase [Plasmodium falciparum]
+30.918,,2GDO_1|Chain,3.04e-24,207,emb|CAA45179.1|,101,PfPK2 [Plasmodium falciparum]
+28.099,,2ITP_1|Chain,2.61e-17,242,gb|AAL54911.1|,82.8,sexual stage-specific protein kinase [Plasmodium falciparum]
+29.279,,2ITP_1|Chain,9.57e-13,222,emb|CAA68090.1|,68.6,CDPK2 [Plasmodium falciparum]
+27.731,,2ITP_1|Chain,1.09e-12,238,emb|CAA47704.1|,68.2,protein kinase [Plasmodium falciparum]
+26.027,,2ITP_1|Chain,2e-12,219,gb|AAF99562.1|,67.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.066,,2ITP_1|Chain,1.28e-09,211,emb|CAA56732.1|,58.9,cdc2-related protein kinase 1 [Plasmodium falciparum]
+27.686,,2ITT_1|Chain,1.79e-16,242,gb|AAL54911.1|,80.1,sexual stage-specific protein kinase [Plasmodium falciparum]
+26.484,,2ITT_1|Chain,8.04e-13,219,gb|AAF99562.1|,68.2,cAMP-dependent protein kinase [Plasmodium falciparum]
+29.279,,2ITT_1|Chain,9.49e-13,222,emb|CAA68090.1|,68.6,CDPK2 [Plasmodium falciparum]
+27.731,,2ITT_1|Chain,1.22e-12,238,emb|CAA47704.1|,68.2,protein kinase [Plasmodium falciparum]
+25.943,,2ITT_1|Chain,1.5e-09,212,gb|AAT06260.1|,58.5,protein kinase B-like protein [Plasmodium falciparum]
+31.878,,2IVU_1|Chain,3.71e-21,229,gb|AAL54911.1|,94.0,sexual stage-specific protein kinase [Plasmodium falciparum]
+27.407,,2IVU_1|Chain,1.34e-19,270,gb|AAT06260.1|,88.6,protein kinase B-like protein [Plasmodium falciparum]
+24.199,,2IVU_1|Chain,2.28e-17,281,gb|AAF99562.1|,81.3,cAMP-dependent protein kinase [Plasmodium falciparum]
+27.477,,2IVU_1|Chain,2.32e-15,222,emb|CAA80490.1|,76.3,serine/threonine-protein kinase [Plasmodium falciparum]
+22.764,,2IVU_1|Chain,1.02e-11,246,emb|CAA68090.1|,65.1,CDPK2 [Plasmodium falciparum]
+24.911,,2IVU_1|Chain,8.54e-11,281,emb|CAA47704.1|,62.4,protein kinase [Plasmodium falciparum]
+31.095,,2J2I_1|Chain,1.35e-33,283,emb|CAA68090.1|,128.0,CDPK2 [Plasmodium falciparum]
+30.83,,2J2I_1|Chain,8.93e-30,253,emb|CAA80490.1|,119.0,serine/threonine-protein kinase [Plasmodium falciparum]
+26.667,,2J2I_1|Chain,4.16e-24,285,emb|CAA45179.1|,101.0,PfPK2 [Plasmodium falciparum]
+30.526,,2J2I_1|Chain,5.85e-23,285,emb|CAA47704.1|,98.6,protein kinase [Plasmodium falciparum]
+26.894,,2J2I_1|Chain,7.980000000000001e-21,264,gb|AAT06260.1|,92.0,protein kinase B-like protein [Plasmodium falciparum]
+26.336,,2J2I_1|Chain,1.75e-19,262,gb|AAF99562.1|,87.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.339,,2J2I_1|Chain,8.34e-17,224,gb|AAC47170.1|,80.9,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+171.0,264.0,2J50_1|Chains, Calcium-dependent protein kinase 4 [Plasmodium falciparum],35.227,pdb|4RGJ|A,1.4999999999999998e-49,Chain A
+35.606,NaN,2J50_1|Chains,7.63e-49,264.0,emb|CAA68090.1|,169.0,CDPK2 [Plasmodium falciparum]
+34.866,NaN,2J50_1|Chains,4.18e-48,261.0,gb|AAT06260.1|,165.0,protein kinase B-like protein [Plasmodium falciparum]
+33.462,NaN,2J50_1|Chains,1.42e-45,260.0,gb|AAF99562.1|,156.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+32.014,NaN,2J50_1|Chains,4.36e-42,278.0,emb|CAA47704.1|,150.0,protein kinase [Plasmodium falciparum]
+147.0,263.0,2J50_1|Chains, CGMP-dependent protein kinase [Plasmodium falciparum],31.939,pdb|5DYK|A,4.54e-40,Chain A
+29.084,NaN,2J50_1|Chains,4.20e-37,251.0,emb|CAA80490.1|,139.0,serine/threonine-protein kinase [Plasmodium falciparum]
+127.0,286.0,2J50_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],29.72,pdb|1V0B|A,5.25e-35,Chain A
+127.0,286.0,2J50_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],29.72,pdb|1V0O|A,5.310000000000001e-35,Chain A
+127.0,286.0,2J50_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],29.72,pdb|1OB3|A,6.620000000000001e-35,Chain A
+28.099,,2J6M_1|Chain,2.61e-17,242,gb|AAL54911.1|,82.8,sexual stage-specific protein kinase [Plasmodium falciparum]
+29.73,,2J6M_1|Chain,1.48e-13,222,emb|CAA68090.1|,70.9,CDPK2 [Plasmodium falciparum]
+28.151,,2J6M_1|Chain,1.55e-13,238,emb|CAA47704.1|,70.9,protein kinase [Plasmodium falciparum]
+26.484,,2J6M_1|Chain,3.08e-13,219,gb|AAF99562.1|,69.3,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.415,,2J6M_1|Chain,2.55e-10,212,gb|AAT06260.1|,60.8,protein kinase B-like protein [Plasmodium falciparum]
+28.099,,2JIU_1|Chains,9.45e-18,242,gb|AAL54911.1|,84.0,sexual stage-specific protein kinase [Plasmodium falciparum]
+30.18,,2JIU_1|Chains,1.79e-14,222,emb|CAA68090.1|,73.6,CDPK2 [Plasmodium falciparum]
+26.484,,2JIU_1|Chains,1.25e-13,219,gb|AAF99562.1|,70.5,cAMP-dependent protein kinase [Plasmodium falciparum]
+27.731,,2JIU_1|Chains,8.89e-13,238,emb|CAA47704.1|,68.6,protein kinase [Plasmodium falciparum]
+26.415,,2JIU_1|Chains,1.07e-10,212,gb|AAT06260.1|,62.0,protein kinase B-like protein [Plasmodium falciparum]
+29.96,,2JKK_1|Chain,7.39e-23,247,emb|CAA68090.1|,97.4,CDPK2 [Plasmodium falciparum]
+29.572,,2JKK_1|Chain,1.1200000000000002e-21,257,gb|AAT06260.1|,93.6,protein kinase B-like protein [Plasmodium falciparum]
+29.545,,2JKK_1|Chain,1.94e-18,220,gb|AAL54911.1|,85.1,sexual stage-specific protein kinase [Plasmodium falciparum]
+25.869,,2JKK_1|Chain,3.11e-18,259,gb|AAF99562.1|,82.8,cAMP-dependent protein kinase [Plasmodium falciparum]
+28.649,,2JKK_1|Chain,5.75e-17,185,emb|CAA47704.1|,80.1,protein kinase [Plasmodium falciparum]
+300.0,321.0,2O2S_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],47.04,pdb|2OL4|A,4.98e-101,Chain A
+299.0,321.0,2O2S_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],47.04,pdb|1UH5|A,5.5000000000000004e-101,Chain A
+299.0,321.0,2O2S_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],47.04,pdb|1VRW|A,5.8e-101,Chain A
+302.0,321.0,2O2S_1|Chains, partial [Plasmodium falciparum],47.04,gb|AAK38274.1|,1.08e-100,enoyl-ACP reductase
+47.04,NaN,2O2S_1|Chains,1.22e-100,321.0,gb|AAK25802.1|,302.0,enoyl-acyl carrier reductase [Plasmodium falciparum]
+298.0,321.0,2O2S_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],46.729,pdb|3AM3|A,2.1e-100,Chain A
+296.0,321.0,2O2S_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],46.729,pdb|3AM5|A,4.750000000000001e-100,Chain A
+46.729,NaN,2O2S_1|Chains,1.65e-99,321.0,gb|AAK83687.1|,299.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+250.0,226.0,2O2S_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],50.885,pdb|1NHG|A,2.83e-83,Chain A
+66.6,54.0,2O2S_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],59.259,pdb|1NHG|C,2.21e-14,Chain C
+100.0,,2O2Y_1|Chains,0.0,349,gb|AAK25802.1|,714,enoyl-acyl carrier reductase [Plasmodium falciparum]
+99.427,,2O2Y_1|Chains,0.0,349,gb|AAK83687.1|,708,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+82.8,223.0,2PD3_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],27.354,pdb|3AM3|A,3.26e-18,Chain A
+82.4,223.0,2PD3_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],27.803,pdb|1UH5|A,4.17e-18,Chain A
+27.803,NaN,2PD3_1|Chains,4.63e-18,223.0,gb|AAK83687.1|,83.2,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+82.8,223.0,2PD3_1|Chains, partial [Plasmodium falciparum],27.803,gb|AAK38274.1|,4.81e-18,enoyl-ACP reductase
+82.0,223.0,2PD3_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],27.803,pdb|1VRW|A,5.11e-18,Chain A
+82.0,223.0,2PD3_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],27.803,pdb|2OL4|A,5.21e-18,Chain A
+27.803,NaN,2PD3_1|Chains,5.60e-18,223.0,gb|AAK25802.1|,82.8,enoyl-acyl carrier reductase [Plasmodium falciparum]
+80.5,223.0,2PD3_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],27.803,pdb|3AM5|A,1.72e-17,Chain A
+73.6,126.0,2PD3_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],36.508,pdb|1NHG|A,1.88e-15,Chain A
+97.4,323.0,2QIO_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],24.458,pdb|3AM3|A,9.17e-24,Chain A
+97.1,323.0,2QIO_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],25.077,pdb|1VRW|A,1.41e-23,Chain A
+97.1,323.0,2QIO_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],25.077,pdb|1UH5|A,1.42e-23,Chain A
+97.1,323.0,2QIO_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],25.077,pdb|2OL4|A,1.5099999999999998e-23,Chain A
+25.077,NaN,2QIO_1|Chains,5.12e-23,323.0,gb|AAK83687.1|,96.7,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+25.077,NaN,2QIO_1|Chains,5.65e-23,323.0,gb|AAK25802.1|,96.7,enoyl-acyl carrier reductase [Plasmodium falciparum]
+96.7,323.0,2QIO_1|Chains, partial [Plasmodium falciparum],25.387,gb|AAK38274.1|,5.99e-23,enoyl-ACP reductase
+95.1,323.0,2QIO_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.077,pdb|3AM5|A,6.01e-23,Chain A
+78.2,226.0,2QIO_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],26.549,pdb|1NHG|A,2.32e-17,Chain A
+42.7,44.0,2QIO_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],40.909,pdb|1NHG|C,5.49e-06,Chain C
+30.802,,2RKU_1|Chain,2.9e-40,237,gb|AAT06260.1|,145.0,protein kinase B-like protein [Plasmodium falciparum]
+33.206,,2RKU_1|Chain,3.11e-36,262,emb|CAA68090.1|,135.0,CDPK2 [Plasmodium falciparum]
+32.308,,2RKU_1|Chain,1.38e-34,260,emb|CAA80490.1|,132.0,serine/threonine-protein kinase [Plasmodium falciparum]
+31.907,,2RKU_1|Chain,1.5e-33,257,gb|AAF99562.1|,125.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+35.648,,2RKU_1|Chain,2.97e-30,216,emb|CAA47704.1|,119.0,protein kinase [Plasmodium falciparum]
+28.571,,2RKU_1|Chain,3.43e-30,266,emb|CAA45179.1|,118.0,PfPK2 [Plasmodium falciparum]
+29.237,,2RKU_1|Chain,3.1300000000000002e-21,236,gb|AAD55782.1|,91.3,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+28.814,,2RKU_1|Chain,1.04e-20,236,gb|AAC72269.1|,90.1,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+49.371,,2UW7_1|Chain,2.84e-113,318,gb|AAF99562.1|,332.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+44.906,,2UW7_1|Chain,6.02e-82,265,gb|AAT06260.1|,256.0,protein kinase B-like protein [Plasmodium falciparum]
+32.031,,2UW7_1|Chain,7.72e-43,256,emb|CAA80490.1|,157.0,serine/threonine-protein kinase [Plasmodium falciparum]
+32.046,,2UW7_1|Chain,3.75e-37,259,emb|CAA68090.1|,139.0,CDPK2 [Plasmodium falciparum]
+31.538,,2UW7_1|Chain,1.0699999999999999e-34,260,emb|CAA47704.1|,132.0,protein kinase [Plasmodium falciparum]
+31.628,,2UW7_1|Chain,1.94e-32,215,emb|CAA45179.1|,126.0,PfPK2 [Plasmodium falciparum]
+28.378,,2UW7_1|Chain,7.79e-18,222,gb|AAC61592.1|,82.4,cdk-related protein kinase 6 [Plasmodium falciparum]
+47.256,,2UW9_1|Chain,3.35e-109,328,gb|AAT06260.1|,325.0,protein kinase B-like protein [Plasmodium falciparum]
+40.067,,2UW9_1|Chain,9.28e-70,297,gb|AAF99562.1|,221.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+32.061,,2UW9_1|Chain,4.29e-36,262,emb|CAA45179.1|,136.0,PfPK2 [Plasmodium falciparum]
+33.471,,2UW9_1|Chain,7.88e-35,242,emb|CAA68090.1|,132.0,CDPK2 [Plasmodium falciparum]
+32.353,,2UW9_1|Chain,2.16e-34,238,emb|CAA80490.1|,133.0,serine/threonine-protein kinase [Plasmodium falciparum]
+29.71,,2UW9_1|Chain,7.25e-28,276,emb|CAA47704.1|,113.0,protein kinase [Plasmodium falciparum]
+28.936,,2UW9_1|Chain,5.27e-21,235,gb|AAC61592.1|,91.3,cdk-related protein kinase 6 [Plasmodium falciparum]
+30.0,,2V7A_1|Chains,4.58e-25,260,emb|CAA68090.1|,103.0,CDPK2 [Plasmodium falciparum]
+30.702,,2V7A_1|Chains,4.26e-21,228,emb|CAA47704.1|,92.4,protein kinase [Plasmodium falciparum]
+29.767,,2V7A_1|Chains,2.55e-20,215,emb|CAA80490.1|,90.5,serine/threonine-protein kinase [Plasmodium falciparum]
+28.302,,2V7A_1|Chains,4.36e-20,212,gb|AAF99562.1|,88.2,cAMP-dependent protein kinase [Plasmodium falciparum]
+29.224,,2V7A_1|Chains,5.32e-18,219,gb|AAL54911.1|,84.0,sexual stage-specific protein kinase [Plasmodium falciparum]
+25.0,,2V7A_1|Chains,7.23e-17,240,gb|AAT06260.1|,79.7,protein kinase B-like protein [Plasmodium falciparum]
+24.312,,2V7A_1|Chains,2.36e-16,218,emb|CAA45179.1|,78.6,PfPK2 [Plasmodium falciparum]
+73.953,,2VCI_1|Chain,2.44e-110,215,gb|AAA66178.1|,333,heat shock protein 86 [Plasmodium falciparum]
+73.953,,2VCI_1|Chain,2.94e-110,215,gb|AAA66179.1|,333,heat shock protein 86 [Plasmodium falciparum]
+75.12,,2VCI_1|Chain,2.66e-108,209,emb|CAA82765.1|,327,heat-shock protein [Plasmodium falciparum]
+170.0,257.0,2VRX_1|Chains, Calcium-dependent protein kinase 4 [Plasmodium falciparum],35.409,pdb|4RGJ|A,3.18e-49,Chain A
+33.577,NaN,2VRX_1|Chains,4.02e-47,274.0,gb|AAT06260.1|,163.0,protein kinase B-like protein [Plasmodium falciparum]
+33.333,NaN,2VRX_1|Chains,4.25e-45,261.0,emb|CAA68090.1|,159.0,CDPK2 [Plasmodium falciparum]
+158.0,293.0,2VRX_1|Chains, CGMP-dependent protein kinase [Plasmodium falciparum],31.741,pdb|5DYK|A,1.3700000000000002e-43,Chain A
+32.117,NaN,2VRX_1|Chains,2.85e-43,274.0,emb|CAA47704.1|,154.0,protein kinase [Plasmodium falciparum]
+31.439,NaN,2VRX_1|Chains,1.10e-42,264.0,gb|AAF99562.1|,149.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+129.0,288.0,2VRX_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],31.597,pdb|1V0O|A,1.5900000000000002e-35,Chain A
+128.0,288.0,2VRX_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],31.25,pdb|1V0B|A,1.7800000000000002e-35,Chain A
+128.0,288.0,2VRX_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],31.597,pdb|1OB3|A,1.8999999999999998e-35,Chain A
+27.652,NaN,2VRX_1|Chains,2.17e-35,264.0,emb|CAA80490.1|,134.0,serine/threonine-protein kinase [Plasmodium falciparum]
+27.358,,2WGJ_1|Chain,2.53e-16,212,gb|AAL54911.1|,79.3,sexual stage-specific protein kinase [Plasmodium falciparum]
+27.551,,2WGJ_1|Chain,1.88e-13,294,gb|AAC72269.1|,69.3,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+30.131,,2WGJ_1|Chain,2.31e-13,229,gb|AAD55782.1|,69.3,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+28.161,,2WGJ_1|Chain,7.57e-13,174,emb|CAA47704.1|,68.6,protein kinase [Plasmodium falciparum]
+27.053,,2WGJ_1|Chain,1.95e-12,207,emb|CAA68090.1|,67.0,CDPK2 [Plasmodium falciparum]
+25.481,,2WGJ_1|Chain,2.65e-11,208,gb|AAF99562.1|,63.2,cAMP-dependent protein kinase [Plasmodium falciparum]
+109.0,237.0,2WYW_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],29.536,pdb|3AM3|A,3.9099999999999997e-28,Chain A
+109.0,237.0,2WYW_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],29.536,pdb|1UH5|A,4.21e-28,Chain A
+109.0,237.0,2WYW_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],29.536,pdb|2OL4|A,4.39e-28,Chain A
+109.0,237.0,2WYW_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],29.536,pdb|1VRW|A,5.45e-28,Chain A
+109.0,237.0,2WYW_1|Chains, partial [Plasmodium falciparum],29.536,gb|AAK38274.1|,1.1e-27,enoyl-ACP reductase
+29.536,NaN,2WYW_1|Chains,1.20e-27,237.0,gb|AAK25802.1|,109.0,enoyl-acyl carrier reductase [Plasmodium falciparum]
+29.536,NaN,2WYW_1|Chains,1.55e-27,237.0,gb|AAK83687.1|,109.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+107.0,237.0,2WYW_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],29.536,pdb|3AM5|A,2.24e-27,Chain A
+91.7,140.0,2WYW_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],36.429,pdb|1NHG|A,2.45e-22,Chain A
+26.95,,2X9E_1|Chain,8.46e-22,282,emb|CAA68090.1|,95.1,CDPK2 [Plasmodium falciparum]
+26.299,,2X9E_1|Chain,4.01e-20,308,emb|CAA47704.1|,90.5,protein kinase [Plasmodium falciparum]
+29.085,,2X9E_1|Chain,1.03e-17,306,gb|AAC47170.1|,83.6,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+26.596,,2X9E_1|Chain,3.52e-15,282,gb|AAT06260.1|,75.5,protein kinase B-like protein [Plasmodium falciparum]
+73.953,,2XJX_1|Chain,4.22e-110,215,gb|AAA66178.1|,333,heat shock protein 86 [Plasmodium falciparum]
+73.953,,2XJX_1|Chain,4.620000000000001e-110,215,gb|AAA66179.1|,333,heat shock protein 86 [Plasmodium falciparum]
+75.12,,2XJX_1|Chain,4.22e-108,209,emb|CAA82765.1|,328,heat-shock protein [Plasmodium falciparum]
+25.877,,2XP2_1|Chain,4.4e-14,228,emb|CAA45179.1|,72.4,PfPK2 [Plasmodium falciparum]
+24.0,,2XP2_1|Chain,1.13e-12,225,emb|CAA68090.1|,68.2,CDPK2 [Plasmodium falciparum]
+25.463,,2XP2_1|Chain,4e-12,216,gb|AAL54911.1|,67.0,sexual stage-specific protein kinase [Plasmodium falciparum]
+23.529,,2XP2_1|Chain,4.94e-11,238,emb|CAA47704.1|,63.2,protein kinase [Plasmodium falciparum]
+25.463,,2XP2_1|Chain,1.52e-10,216,gb|AAF99562.1|,61.2,cAMP-dependent protein kinase [Plasmodium falciparum]
+21.514,,2XP2_1|Chain,8.7e-09,251,gb|AAC61592.1|,55.5,cdk-related protein kinase 6 [Plasmodium falciparum]
+22.374,,2XP2_1|Chain,1.18e-07,219,gb|AAC72269.1|,52.4,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+182.0,277.0,2Y7J_1|Chains, Calcium-dependent protein kinase 4 [Plasmodium falciparum],32.852,pdb|4RGJ|A,1.1e-52,Chain A
+32.971,NaN,2Y7J_1|Chains,1.20e-50,276.0,emb|CAA68090.1|,176.0,CDPK2 [Plasmodium falciparum]
+31.752,NaN,2Y7J_1|Chains,3.49e-46,274.0,emb|CAA47704.1|,164.0,protein kinase [Plasmodium falciparum]
+35.338,NaN,2Y7J_1|Chains,8.83e-46,266.0,emb|CAA45179.1|,163.0,PfPK2 [Plasmodium falciparum]
+33.21,NaN,2Y7J_1|Chains,3.27e-37,271.0,gb|AAT06260.1|,139.0,protein kinase B-like protein [Plasmodium falciparum]
+135.0,274.0,2Y7J_1|Chains, CGMP-dependent protein kinase [Plasmodium falciparum],31.752,pdb|5DYK|A,1.03e-34,Chain A
+33.182,NaN,2Y7J_1|Chains,9.45e-32,220.0,gb|AAF99562.1|,122.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+30.597,NaN,2Y7J_1|Chains,3.75e-30,268.0,emb|CAA80490.1|,121.0,serine/threonine-protein kinase [Plasmodium falciparum]
+110.0,306.0,2Y7J_1|Chains, serine/threonine protein kinase [Plasmodium falciparum],27.778,emb|CAA57972.1|,2.2e-26,mitogen-activated protein kinase 1
+27.778,NaN,2Y7J_1|Chains,6.35e-26,306.0,gb|AAC47170.1|,108.0,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+25.439,,2YFX_1|Chain,7.68e-14,228,emb|CAA45179.1|,71.6,PfPK2 [Plasmodium falciparum]
+24.444,,2YFX_1|Chain,3.61e-13,225,emb|CAA68090.1|,69.7,CDPK2 [Plasmodium falciparum]
+25.0,,2YFX_1|Chain,7.13e-12,216,gb|AAL54911.1|,66.2,sexual stage-specific protein kinase [Plasmodium falciparum]
+23.529,,2YFX_1|Chain,4.16e-11,238,emb|CAA47704.1|,63.5,protein kinase [Plasmodium falciparum]
+25.0,,2YFX_1|Chain,2.38e-10,216,gb|AAF99562.1|,60.5,cAMP-dependent protein kinase [Plasmodium falciparum]
+21.176,,2YFX_1|Chain,6.67e-09,255,gb|AAC61592.1|,55.8,cdk-related protein kinase 6 [Plasmodium falciparum]
+22.831,,2YFX_1|Chain,4.13e-08,219,gb|AAC72269.1|,53.5,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+676.0,329.0,3AM3_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],100.0,pdb|3AM3|A,0.0,Chain A
+675.0,329.0,3AM3_1|Chains, partial [Plasmodium falciparum],99.696,gb|AAK38274.1|,0.0,enoyl-ACP reductase
+674.0,329.0,3AM3_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],99.696,pdb|1UH5|A,0.0,Chain A
+671.0,329.0,3AM3_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],99.392,pdb|3AM5|A,0.0,Chain A
+99.088,NaN,3AM3_1|Chains,0.0,329.0,gb|AAK25802.1|,669.0,enoyl-acyl carrier reductase [Plasmodium falciparum]
+667.0,329.0,3AM3_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],99.088,pdb|2OL4|A,0.0,Chain A
+98.784,NaN,3AM3_1|Chains,0.0,329.0,gb|AAK83687.1|,666.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+665.0,328.0,3AM3_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],99.085,pdb|1VRW|A,0.0,Chain A
+473.0,229.0,3AM3_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],100.0,pdb|1NHG|A,1.2499999999999998e-170,Chain A
+121.0,59.0,3AM3_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],98.305,pdb|1NHG|C,7.310000000000001e-35,Chain C
+676.0,329.0,3AM5_1|Chains, partial [Plasmodium falciparum],99.696,gb|AAK38274.1|,0.0,enoyl-ACP reductase
+676.0,329.0,3AM5_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],100.0,pdb|3AM5|A,0.0,Chain A
+673.0,329.0,3AM5_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],99.696,pdb|1UH5|A,0.0,Chain A
+671.0,329.0,3AM5_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],99.392,pdb|3AM3|A,0.0,Chain A
+99.088,NaN,3AM5_1|Chains,0.0,329.0,gb|AAK25802.1|,669.0,enoyl-acyl carrier reductase [Plasmodium falciparum]
+667.0,329.0,3AM5_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],99.088,pdb|2OL4|A,0.0,Chain A
+98.784,NaN,3AM5_1|Chains,0.0,329.0,gb|AAK83687.1|,667.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+665.0,328.0,3AM5_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],99.085,pdb|1VRW|A,0.0,Chain A
+470.0,229.0,3AM5_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],99.563,pdb|1NHG|A,8.589999999999999e-170,Chain A
+123.0,59.0,3AM5_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],100.0,pdb|1NHG|C,1.1e-35,Chain C
+28.814,,3BBT_1|Chains,5.99e-17,236,emb|CAA47704.1|,81.3,protein kinase [Plasmodium falciparum]
+28.099,,3BBT_1|Chains,3.92e-16,242,gb|AAL54911.1|,79.3,sexual stage-specific protein kinase [Plasmodium falciparum]
+30.631,,3BBT_1|Chains,7.46e-14,222,emb|CAA68090.1|,71.6,CDPK2 [Plasmodium falciparum]
+27.477,,3BBT_1|Chains,9.95e-11,222,gb|AAC47170.1|,62.4,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+25.571,,3BBT_1|Chains,5.02e-10,219,gb|AAF99562.1|,59.7,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.872,,3BBT_1|Chains,1.29e-09,227,emb|CAA80490.1|,58.9,serine/threonine-protein kinase [Plasmodium falciparum]
+27.675,,3BYO_1|Chain,2.91e-22,271,emb|CAA47704.1|,95.5,protein kinase [Plasmodium falciparum]
+26.337,,3BYO_1|Chain,2.11e-18,243,emb|CAA80490.1|,84.3,serine/threonine-protein kinase [Plasmodium falciparum]
+30.526,,3BYO_1|Chain,4.05e-18,190,gb|AAL54911.1|,84.0,sexual stage-specific protein kinase [Plasmodium falciparum]
+28.704,,3BYO_1|Chain,6.29e-17,216,emb|CAA68090.1|,79.7,CDPK2 [Plasmodium falciparum]
+23.904,,3BYO_1|Chain,2.47e-16,251,emb|CAA45179.1|,78.2,PfPK2 [Plasmodium falciparum]
+24.71,,3BYO_1|Chain,7.69e-15,259,gb|AAT06260.1|,73.6,protein kinase B-like protein [Plasmodium falciparum]
+23.567,,3CC4_1|Chain,4.07e-11,157,emb|CAA64579.1|,60.8,rpl2 [Plasmodium falciparum]
+25.322,,3CC4_7|Chain,1.47e-19,233,gb|AAD10140.1|,87.8,acidic ribosomal phosphoprotein PO [Plasmodium falciparum]
+500.0,344.0,3F4B_1|Chains, partial [Plasmodium falciparum],71.802,gb|AAK38274.1|,2.04e-178,enoyl-ACP reductase
+71.802,NaN,3F4B_1|Chains,2.18e-178,344.0,gb|AAK25802.1|,500.0,enoyl-acyl carrier reductase [Plasmodium falciparum]
+71.802,NaN,3F4B_1|Chains,4.84e-178,344.0,gb|AAK83687.1|,499.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+493.0,336.0,3F4B_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],72.024,pdb|1VRW|A,4.33e-177,Chain A
+491.0,330.0,3F4B_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],73.333,pdb|2OL4|A,2.93e-176,Chain A
+488.0,329.0,3F4B_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],73.252,pdb|1UH5|A,2.52e-175,Chain A
+486.0,329.0,3F4B_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],72.948,pdb|3AM3|A,1.79e-174,Chain A
+486.0,329.0,3F4B_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],72.948,pdb|3AM5|A,1.87e-174,Chain A
+379.0,230.0,3F4B_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],78.696,pdb|1NHG|A,1.05e-133,Chain A
+111.0,60.0,3F4B_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],85.0,pdb|1NHG|C,3.23e-31,Chain C
+28.689,,3FBV_1|Chains,5.700000000000001e-22,244,emb|CAA68090.1|,98.2,CDPK2 [Plasmodium falciparum]
+28.862,,3FBV_1|Chains,1.01e-16,246,emb|CAA47704.1|,82.0,protein kinase [Plasmodium falciparum]
+24.444,,3FBV_1|Chains,2.59e-16,315,gb|AAC61592.1|,79.0,cdk-related protein kinase 6 [Plasmodium falciparum]
+25.836,,3FBV_1|Chains,2.24e-15,329,gb|AAT06260.1|,77.8,protein kinase B-like protein [Plasmodium falciparum]
+25.974,,3FBV_1|Chains,5.28e-13,308,gb|AAC47170.1|,70.9,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+62.0,123,3FRF_1|Chain, partial [Plasmodium falciparum],34.146,gb|WNV48384.1|,1.71e-12,dihyrofolate reductase
+61.6,123,3FRF_1|Chain, partial [Plasmodium falciparum],34.146,gb|WKW55605.1|,2.42e-12,dihydrofolate reductase
+61.6,123,3FRF_1|Chain, partial [Plasmodium falciparum],34.146,gb|WKW55562.1|,2.66e-12,dihydrofolate reductase
+61.2,123,3FRF_1|Chain, partial [Plasmodium falciparum],34.146,gb|QEQ90775.1|,3.22e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+61.6,123,3FRF_1|Chain, partial [Plasmodium falciparum],34.146,gb|AAG10106.1|,3.59e-12,dihydrofolate reductase-thymidylate synthase
+61.2,123,3FRF_1|Chain, partial [Plasmodium falciparum],34.146,gb|WNV48385.1|,3.77e-12,dihyrofolate reductase
+60.8,123,3FRF_1|Chain, partial [Plasmodium falciparum],34.146,gb|WNV48387.1|,3.89e-12,dihyrofolate reductase
+61.2,123,3FRF_1|Chain, partial [Plasmodium falciparum],34.146,gb|QEQ90772.1|,3.99e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+62.8,123,3FRF_1|Chain, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],34.959,pdb|3UM5|A,4e-12,Chain A
+60.8,123,3FRF_1|Chain, partial [Plasmodium falciparum],34.146,gb|WZW72782.1|,4.14e-12,dihydrofolate reductase
+63.2,123,3FY8_1|Chain, partial [Plasmodium falciparum],34.959,gb|WNV48384.1|,5.4e-13,dihyrofolate reductase
+62.8,123,3FY8_1|Chain, partial [Plasmodium falciparum],34.959,gb|WKW55562.1|,7.95e-13,dihydrofolate reductase
+62.8,123,3FY8_1|Chain, partial [Plasmodium falciparum],34.959,gb|WKW55605.1|,7.95e-13,dihydrofolate reductase
+62.4,123,3FY8_1|Chain, partial [Plasmodium falciparum],34.959,gb|WNV48387.1|,1.08e-12,dihyrofolate reductase
+62.8,123,3FY8_1|Chain, partial [Plasmodium falciparum],34.959,gb|QEQ90775.1|,1.08e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+62.8,123,3FY8_1|Chain, partial [Plasmodium falciparum],34.959,gb|AAG10106.1|,1.16e-12,dihydrofolate reductase-thymidylate synthase
+62.4,123,3FY8_1|Chain, partial [Plasmodium falciparum],34.959,gb|WNV48385.1|,1.21e-12,dihyrofolate reductase
+62.4,123,3FY8_1|Chain, partial [Plasmodium falciparum],34.959,gb|WKW55514.1|,1.32e-12,dihydrofolate reductase
+62.4,123,3FY8_1|Chain, partial [Plasmodium falciparum],34.959,gb|QEQ90772.1|,1.33e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+62.4,123,3FY8_1|Chain, partial [Plasmodium falciparum],34.959,gb|QEQ90774.1|,1.34e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+63.2,123,3FY9_1|Chain, partial [Plasmodium falciparum],34.959,gb|WNV48384.1|,5.4e-13,dihyrofolate reductase
+62.8,123,3FY9_1|Chain, partial [Plasmodium falciparum],34.959,gb|WKW55562.1|,7.95e-13,dihydrofolate reductase
+62.8,123,3FY9_1|Chain, partial [Plasmodium falciparum],34.959,gb|WKW55605.1|,7.95e-13,dihydrofolate reductase
+62.4,123,3FY9_1|Chain, partial [Plasmodium falciparum],34.959,gb|WNV48387.1|,1.08e-12,dihyrofolate reductase
+62.8,123,3FY9_1|Chain, partial [Plasmodium falciparum],34.959,gb|QEQ90775.1|,1.08e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+62.8,123,3FY9_1|Chain, partial [Plasmodium falciparum],34.959,gb|AAG10106.1|,1.16e-12,dihydrofolate reductase-thymidylate synthase
+62.4,123,3FY9_1|Chain, partial [Plasmodium falciparum],34.959,gb|WNV48385.1|,1.21e-12,dihyrofolate reductase
+62.4,123,3FY9_1|Chain, partial [Plasmodium falciparum],34.959,gb|WKW55514.1|,1.32e-12,dihydrofolate reductase
+62.4,123,3FY9_1|Chain, partial [Plasmodium falciparum],34.959,gb|QEQ90772.1|,1.33e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+62.4,123,3FY9_1|Chain, partial [Plasmodium falciparum],34.959,gb|QEQ90774.1|,1.34e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+62.0,123,3FYV_1|Chain, partial [Plasmodium falciparum],34.146,gb|WNV48384.1|,1.71e-12,dihyrofolate reductase
+61.6,123,3FYV_1|Chain, partial [Plasmodium falciparum],34.146,gb|WKW55605.1|,2.42e-12,dihydrofolate reductase
+61.6,123,3FYV_1|Chain, partial [Plasmodium falciparum],34.146,gb|WKW55562.1|,2.66e-12,dihydrofolate reductase
+61.2,123,3FYV_1|Chain, partial [Plasmodium falciparum],34.146,gb|QEQ90775.1|,3.22e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+61.6,123,3FYV_1|Chain, partial [Plasmodium falciparum],34.146,gb|AAG10106.1|,3.59e-12,dihydrofolate reductase-thymidylate synthase
+61.2,123,3FYV_1|Chain, partial [Plasmodium falciparum],34.146,gb|WNV48385.1|,3.77e-12,dihyrofolate reductase
+60.8,123,3FYV_1|Chain, partial [Plasmodium falciparum],34.146,gb|WNV48387.1|,3.89e-12,dihyrofolate reductase
+61.2,123,3FYV_1|Chain, partial [Plasmodium falciparum],34.146,gb|QEQ90772.1|,3.99e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+62.8,123,3FYV_1|Chain, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],34.959,pdb|3UM5|A,4e-12,Chain A
+60.8,123,3FYV_1|Chain, partial [Plasmodium falciparum],34.146,gb|WZW72782.1|,4.14e-12,dihydrofolate reductase
+62.0,123,3FYW_1|Chain, partial [Plasmodium falciparum],34.146,gb|WNV48384.1|,1.71e-12,dihyrofolate reductase
+61.6,123,3FYW_1|Chain, partial [Plasmodium falciparum],34.146,gb|WKW55605.1|,2.42e-12,dihydrofolate reductase
+61.6,123,3FYW_1|Chain, partial [Plasmodium falciparum],34.146,gb|WKW55562.1|,2.66e-12,dihydrofolate reductase
+61.2,123,3FYW_1|Chain, partial [Plasmodium falciparum],34.146,gb|QEQ90775.1|,3.22e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+61.6,123,3FYW_1|Chain, partial [Plasmodium falciparum],34.146,gb|AAG10106.1|,3.59e-12,dihydrofolate reductase-thymidylate synthase
+61.2,123,3FYW_1|Chain, partial [Plasmodium falciparum],34.146,gb|WNV48385.1|,3.77e-12,dihyrofolate reductase
+60.8,123,3FYW_1|Chain, partial [Plasmodium falciparum],34.146,gb|WNV48387.1|,3.89e-12,dihyrofolate reductase
+61.2,123,3FYW_1|Chain, partial [Plasmodium falciparum],34.146,gb|QEQ90772.1|,3.99e-12,bifunctional dihydrofolate reductase-thymidylate synthase
+62.8,123,3FYW_1|Chain, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],34.959,pdb|3UM5|A,4e-12,Chain A
+60.8,123,3FYW_1|Chain, partial [Plasmodium falciparum],34.146,gb|WZW72782.1|,4.14e-12,dihydrofolate reductase
+29.114,,3G0E_1|Chain,3.3e-19,237,gb|AAL54911.1|,88.6,sexual stage-specific protein kinase [Plasmodium falciparum]
+27.941,,3G0E_1|Chain,8.93e-18,272,gb|AAF99562.1|,82.8,cAMP-dependent protein kinase [Plasmodium falciparum]
+23.264,,3G0E_1|Chain,3.16e-10,288,gb|AAT06260.1|,60.8,protein kinase B-like protein [Plasmodium falciparum]
+25.597,,3G0E_1|Chain,1.66e-08,293,emb|CAA47704.1|,55.5,protein kinase [Plasmodium falciparum]
+24.18,,3G0E_1|Chain,1.85e-08,244,gb|AAC47170.1|,55.5,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+29.114,,3G0F_1|Chains,3.76e-19,237,gb|AAL54911.1|,88.6,sexual stage-specific protein kinase [Plasmodium falciparum]
+27.941,,3G0F_1|Chains,9.37e-18,272,gb|AAF99562.1|,82.8,cAMP-dependent protein kinase [Plasmodium falciparum]
+23.264,,3G0F_1|Chains,6.16e-10,288,gb|AAT06260.1|,59.7,protein kinase B-like protein [Plasmodium falciparum]
+25.597,,3G0F_1|Chains,6.69e-09,293,emb|CAA47704.1|,56.6,protein kinase [Plasmodium falciparum]
+24.18,,3G0F_1|Chains,1.85e-08,244,gb|AAC47170.1|,55.5,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+23.567,,3G6E_2|Chain,4.18e-11,157,emb|CAA64579.1|,60.8,rpl2 [Plasmodium falciparum]
+25.322,,3G6E_8|Chain,1.47e-19,233,gb|AAD10140.1|,87.8,acidic ribosomal phosphoprotein PO [Plasmodium falciparum]
+83.2,219.0,3GR6_1|Chains, partial [Plasmodium falciparum],29.224,gb|AAK38274.1|,3.4e-18,enoyl-ACP reductase
+82.0,219.0,3GR6_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],28.311,pdb|3AM3|A,3.44e-18,Chain A
+29.224,NaN,3GR6_1|Chains,3.70e-18,219.0,gb|AAK25802.1|,82.8,enoyl-acyl carrier reductase [Plasmodium falciparum]
+29.224,NaN,3GR6_1|Chains,3.81e-18,219.0,gb|AAK83687.1|,82.8,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+82.0,219.0,3GR6_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],29.224,pdb|1UH5|A,4.12e-18,Chain A
+82.0,219.0,3GR6_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],29.224,pdb|1VRW|A,4.22e-18,Chain A
+82.0,219.0,3GR6_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],29.224,pdb|2OL4|A,5.04e-18,Chain A
+80.5,219.0,3GR6_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],29.224,pdb|3AM5|A,1.62e-17,Chain A
+67.4,124.0,3GR6_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],36.29,pdb|1NHG|A,2.1e-13,Chain A
+29.615,,3IK3_1|Chains,1.98e-24,260,emb|CAA68090.1|,102.0,CDPK2 [Plasmodium falciparum]
+30.702,,3IK3_1|Chains,5.27e-21,228,emb|CAA47704.1|,92.4,protein kinase [Plasmodium falciparum]
+29.302,,3IK3_1|Chains,1.24e-20,215,emb|CAA80490.1|,91.7,serine/threonine-protein kinase [Plasmodium falciparum]
+27.83,,3IK3_1|Chains,1.8e-19,212,gb|AAF99562.1|,86.7,cAMP-dependent protein kinase [Plasmodium falciparum]
+29.68,,3IK3_1|Chains,1.21e-18,219,gb|AAL54911.1|,85.9,sexual stage-specific protein kinase [Plasmodium falciparum]
+25.417,,3IK3_1|Chains,1.9e-17,240,gb|AAT06260.1|,81.6,protein kinase B-like protein [Plasmodium falciparum]
+24.312,,3IK3_1|Chains,1.45e-16,218,emb|CAA45179.1|,79.3,PfPK2 [Plasmodium falciparum]
+90.1,202.0,3KRR_1|Chain, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],32.178,pdb|1V0B|A,5.930000000000001e-21,Chain A
+90.1,202.0,3KRR_1|Chain, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],32.178,pdb|1V0O|A,6.360000000000001e-21,Chain A
+89.4,200.0,3KRR_1|Chain, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],32.0,pdb|1OB3|A,9.52e-21,Chain A
+30.049,NaN,3KRR_1|Chain,1.25e-17,203.0,emb|CAA80490.1|,82.8,serine/threonine-protein kinase [Plasmodium falciparum]
+31.687,NaN,3KRR_1|Chain,1.37e-16,243.0,gb|AAL54911.1|,80.1,sexual stage-specific protein kinase [Plasmodium falciparum]
+28.774,NaN,3KRR_1|Chain,4.13e-16,212.0,gb|AAC61592.1|,76.6,cdk-related protein kinase 6 [Plasmodium falciparum]
+30.435,NaN,3KRR_1|Chain,7.79e-16,207.0,emb|CAA56732.1|,77.4,cdc2-related protein kinase 1 [Plasmodium falciparum]
+75.1,224.0,3KRR_1|Chain, Calcium-dependent protein kinase 4 [Plasmodium falciparum],32.143,pdb|4RGJ|A,3.86e-15,Chain A
+30.542,NaN,3KRR_1|Chain,1.03e-14,203.0,emb|CAA68090.1|,73.9,CDPK2 [Plasmodium falciparum]
+30.189,NaN,3KRR_1|Chain,2.19e-14,212.0,emb|CAA47704.1|,72.8,protein kinase [Plasmodium falciparum]
+27.358,,3LQ8_1|Chain,2.03e-16,212,gb|AAL54911.1|,79.7,sexual stage-specific protein kinase [Plasmodium falciparum]
+30.131,,3LQ8_1|Chain,1.95e-13,229,gb|AAC72269.1|,69.3,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+30.131,,3LQ8_1|Chain,2.36e-13,229,gb|AAD55782.1|,68.9,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+28.161,,3LQ8_1|Chain,4.62e-13,174,emb|CAA47704.1|,68.9,protein kinase [Plasmodium falciparum]
+27.053,,3LQ8_1|Chain,1.91e-12,207,emb|CAA68090.1|,67.0,CDPK2 [Plasmodium falciparum]
+25.481,,3LQ8_1|Chain,2.87e-11,208,gb|AAF99562.1|,63.2,cAMP-dependent protein kinase [Plasmodium falciparum]
+30.045,,3MDY_1|Chains,1.95e-16,223,gb|AAC47170.1|,80.1,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+28.947,,3MDY_1|Chains,9.68e-12,228,emb|CAA47704.1|,65.5,protein kinase [Plasmodium falciparum]
+26.293,,3MDY_1|Chains,1.7e-08,232,emb|CAA45179.1|,55.5,PfPK2 [Plasmodium falciparum]
+27.273,,3MDY_1|Chains,7.91e-08,220,emb|CAA80490.1|,53.5,serine/threonine-protein kinase [Plasmodium falciparum]
+24.407,,3MDY_1|Chains,1.68e-07,295,gb|AAT06260.1|,52.4,protein kinase B-like protein [Plasmodium falciparum]
+26.953,,3MDY_1|Chains,2.37e-07,256,gb|AAC72269.1|,51.6,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+26.818,,3MDY_1|Chains,3.5e-07,220,gb|AAC61592.1|,50.8,cdk-related protein kinase 6 [Plasmodium falciparum]
+26.695,,3MIY_1|Chains,4.72e-20,236,emb|CAA80490.1|,89.4,serine/threonine-protein kinase [Plasmodium falciparum]
+23.6,,3MIY_1|Chains,7.05e-19,250,gb|AAT06260.1|,85.1,protein kinase B-like protein [Plasmodium falciparum]
+27.064,,3MIY_1|Chains,2.45e-18,218,emb|CAA68090.1|,84.0,CDPK2 [Plasmodium falciparum]
+30.357,,3MIY_1|Chains,1.26e-17,224,gb|AAL54911.1|,82.4,sexual stage-specific protein kinase [Plasmodium falciparum]
+23.729,,3MIY_1|Chains,1.28e-15,236,gb|AAF99562.1|,75.1,cAMP-dependent protein kinase [Plasmodium falciparum]
+25.957,,3MIY_1|Chains,1.96e-15,235,emb|CAA47704.1|,75.5,protein kinase [Plasmodium falciparum]
+23.415,,3MIY_1|Chains,5.36e-15,205,emb|CAA45179.1|,73.9,PfPK2 [Plasmodium falciparum]
+65.5,219.0,3MY0_1|Chains, Calcium-dependent protein kinase 4 [Plasmodium falciparum],26.027,pdb|4RGJ|A,6.51e-12,Chain A
+25.846,NaN,3MY0_1|Chains,4.25e-11,325.0,gb|AAC47170.1|,63.2,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+62.4,329.0,3MY0_1|Chains, serine/threonine protein kinase [Plasmodium falciparum],25.532,emb|CAA57972.1|,7.85e-11,mitogen-activated protein kinase 1
+23.077,NaN,3MY0_1|Chains,1.45e-09,299.0,emb|CAA80490.1|,58.5,serine/threonine-protein kinase [Plasmodium falciparum]
+23.176,NaN,3MY0_1|Chains,1.63e-08,233.0,gb|AAC61592.1|,54.7,cdk-related protein kinase 6 [Plasmodium falciparum]
+24.597,NaN,3MY0_1|Chains,1.03e-07,248.0,emb|CAA68090.1|,52.8,CDPK2 [Plasmodium falciparum]
+22.967,NaN,3MY0_1|Chains,5.46e-07,209.0,emb|CAA45179.1|,50.4,PfPK2 [Plasmodium falciparum]
+47.8,253.0,3MY0_1|Chains, CGMP-dependent protein kinase [Plasmodium falciparum],25.296,pdb|5DYK|A,4.62e-06,Chain A
+76.6,233.0,3NRC_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],24.893,pdb|3AM3|A,4.7e-16,Chain A
+74.7,233.0,3NRC_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],25.322,pdb|1UH5|A,2.25e-15,Chain A
+75.1,233.0,3NRC_1|Chains, partial [Plasmodium falciparum],25.322,gb|AAK38274.1|,2.99e-15,enoyl-ACP reductase
+74.3,233.0,3NRC_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],24.464,pdb|1VRW|A,3.55e-15,Chain A
+73.9,233.0,3NRC_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],24.464,pdb|2OL4|A,3.96e-15,Chain A
+24.464,NaN,3NRC_1|Chains,4.11e-15,233.0,gb|AAK25802.1|,74.3,enoyl-acyl carrier reductase [Plasmodium falciparum]
+24.464,NaN,3NRC_1|Chains,4.43e-15,233.0,gb|AAK83687.1|,74.3,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+72.0,233.0,3NRC_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],24.893,pdb|3AM5|A,1.66e-14,Chain A
+65.9,141.0,3NRC_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],31.206,pdb|1NHG|A,9.29e-13,Chain A
+38.148,,3NYN_1|Chains,8.29e-57,270,gb|AAT06260.1|,197.0,protein kinase B-like protein [Plasmodium falciparum]
+32.872,,3NYN_1|Chains,7.16e-40,289,gb|AAF99562.1|,148.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+28.358,,3NYN_1|Chains,2.21e-22,268,emb|CAA47704.1|,100.0,protein kinase [Plasmodium falciparum]
+27.273,,3NYN_1|Chains,6.92e-22,253,emb|CAA45179.1|,99.0,PfPK2 [Plasmodium falciparum]
+25.67,,3NYN_1|Chains,5.52e-21,261,emb|CAA80490.1|,97.1,serine/threonine-protein kinase [Plasmodium falciparum]
+28.839,,3NYN_1|Chains,7.66e-21,267,emb|CAA68090.1|,95.9,CDPK2 [Plasmodium falciparum]
+24.834,,3NYN_1|Chains,1.97e-19,302,gb|AAC61592.1|,89.0,cdk-related protein kinase 6 [Plasmodium falciparum]
+29.96,,3OID_1|Chains,1.86e-27,247,gb|AAK83686.1|,107,3-oxoacyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+106.0,320.0,3OIF_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],27.187,pdb|3AM3|A,6.860000000000001e-27,Chain A
+106.0,320.0,3OIF_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],27.5,pdb|1UH5|A,7.45e-27,Chain A
+105.0,320.0,3OIF_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],27.5,pdb|2OL4|A,9.79e-27,Chain A
+105.0,320.0,3OIF_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],27.5,pdb|1VRW|A,9.79e-27,Chain A
+26.462,NaN,3OIF_1|Chains,2.58e-26,325.0,gb|AAK25802.1|,106.0,enoyl-acyl carrier reductase [Plasmodium falciparum]
+26.462,NaN,3OIF_1|Chains,2.76e-26,325.0,gb|AAK83687.1|,106.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+105.0,325.0,3OIF_1|Chains, partial [Plasmodium falciparum],26.462,gb|AAK38274.1|,3.24e-26,enoyl-ACP reductase
+104.0,320.0,3OIF_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],27.5,pdb|3AM5|A,3.5400000000000003e-26,Chain A
+85.1,225.0,3OIF_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],29.778,pdb|1NHG|A,7.64e-20,Chain A
+38.393,NaN,3OIF_1|Chains,4.64e-08,112.0,gb|AAK83686.1|,52.8,3-oxoacyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+29.615,,3OXZ_1|Chain,3.47e-24,260,emb|CAA68090.1|,101.0,CDPK2 [Plasmodium falciparum]
+31.14,,3OXZ_1|Chain,7.24e-22,228,emb|CAA47704.1|,94.7,protein kinase [Plasmodium falciparum]
+29.302,,3OXZ_1|Chain,3.15e-20,215,emb|CAA80490.1|,90.1,serine/threonine-protein kinase [Plasmodium falciparum]
+27.83,,3OXZ_1|Chain,3.91e-19,212,gb|AAF99562.1|,85.5,cAMP-dependent protein kinase [Plasmodium falciparum]
+29.68,,3OXZ_1|Chain,2.58e-18,219,gb|AAL54911.1|,84.7,sexual stage-specific protein kinase [Plasmodium falciparum]
+25.417,,3OXZ_1|Chain,4.12e-17,240,gb|AAT06260.1|,80.5,protein kinase B-like protein [Plasmodium falciparum]
+24.312,,3OXZ_1|Chain,2.96e-16,218,emb|CAA45179.1|,78.2,PfPK2 [Plasmodium falciparum]
+87.8,237.0,3PJD_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],26.16,pdb|3AM3|A,4.31e-20,Chain A
+87.0,235.0,3PJD_1|Chains, partial [Plasmodium falciparum],25.957,gb|AAK38274.1|,1.9e-19,enoyl-ACP reductase
+85.9,237.0,3PJD_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],25.738,pdb|1UH5|A,1.9e-19,Chain A
+24.473,NaN,3PJD_1|Chains,4.38e-19,237.0,gb|AAK25802.1|,85.9,enoyl-acyl carrier reductase [Plasmodium falciparum]
+85.1,237.0,3PJD_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],24.473,pdb|1VRW|A,4.43e-19,Chain A
+84.7,237.0,3PJD_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],24.473,pdb|2OL4|A,5.08e-19,Chain A
+26.267,NaN,3PJD_1|Chains,7.58e-19,217.0,gb|AAK83687.1|,85.1,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+84.0,237.0,3PJD_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.738,pdb|3AM5|A,8.66e-19,Chain A
+70.5,139.0,3PJD_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],30.216,pdb|1NHG|A,2.25e-14,Chain A
+86.7,237.0,3PJE_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.738,pdb|3AM3|A,1.11e-19,Chain A
+85.9,235.0,3PJE_1|Chains, partial [Plasmodium falciparum],25.532,gb|AAK38274.1|,4.42e-19,enoyl-ACP reductase
+84.7,237.0,3PJE_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],25.316,pdb|1UH5|A,4.55e-19,Chain A
+24.051,NaN,3PJE_1|Chains,1.01e-18,237.0,gb|AAK25802.1|,84.7,enoyl-acyl carrier reductase [Plasmodium falciparum]
+83.6,237.0,3PJE_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],24.051,pdb|1VRW|A,1.31e-18,Chain A
+83.6,237.0,3PJE_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],24.051,pdb|2OL4|A,1.58e-18,Chain A
+25.806,NaN,3PJE_1|Chains,1.65e-18,217.0,gb|AAK83687.1|,84.3,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+82.8,237.0,3PJE_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.316,pdb|3AM5|A,2.4e-18,Chain A
+68.9,139.0,3PJE_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],29.496,pdb|1NHG|A,6.18e-14,Chain A
+86.7,237.0,3PJF_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.738,pdb|3AM3|A,9.66e-20,Chain A
+85.9,235.0,3PJF_1|Chains, partial [Plasmodium falciparum],25.532,gb|AAK38274.1|,4.26e-19,enoyl-ACP reductase
+84.7,237.0,3PJF_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],25.738,pdb|1UH5|A,4.83e-19,Chain A
+25.316,NaN,3PJF_1|Chains,9.45e-19,237.0,gb|AAK25802.1|,84.7,enoyl-acyl carrier reductase [Plasmodium falciparum]
+84.0,237.0,3PJF_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],24.051,pdb|1VRW|A,1.22e-18,Chain A
+83.6,237.0,3PJF_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],24.051,pdb|2OL4|A,1.48e-18,Chain A
+27.189,NaN,3PJF_1|Chains,1.54e-18,217.0,gb|AAK83687.1|,84.3,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+82.8,237.0,3PJF_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],25.738,pdb|3AM5|A,2.49e-18,Chain A
+68.9,139.0,3PJF_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],29.496,pdb|1NHG|A,5.94e-14,Chain A
+65.5,319.0,3PRS_1|Chain, plasmepsin IV [Plasmodium falciparum],25.078,pdb|1LS5|A,4.93e-12,Chain A
+65.5,319.0,3PRS_1|Chain, Proplasmepsin IV [Plasmodium falciparum],25.078,pdb|5JOD|A,7.65e-12,Chain A
+24.294,NaN,3PRS_1|Chain,9.33e-12,354.0,gb|AAW78296.1|,65.5,plasmepsin 7 [Plasmodium falciparum]
+64.7,319.0,3PRS_1|Chain, partial [Plasmodium falciparum],25.078,gb|AAW71459.1|,1.65e-11,plasmepsin 4
+64.3,319.0,3PRS_1|Chain, partial [Plasmodium falciparum],25.078,gb|AAW71461.1|,1.89e-11,plasmepsin 4
+64.3,319.0,3PRS_1|Chain, partial [Plasmodium falciparum],25.078,gb|AAW71460.1|,1.96e-11,plasmepsin 4
+61.6,310.0,3PRS_1|Chain, Plasmepsin 2 [Plasmodium falciparum],24.839,pdb|1LEE|A,9.52e-11,Chain A
+61.6,310.0,3PRS_1|Chain, Plasmepsin-2 [Plasmodium falciparum],24.839,pdb|3F9Q|A,9.6e-11,Chain A
+61.6,310.0,3PRS_1|Chain, plasmepsin 2 [Plasmodium falciparum],24.839,pdb|1LF3|A,1.01e-10,Chain A
+61.6,310.0,3PRS_1|Chain, Plasmepsin II [Plasmodium falciparum],24.839,pdb|1ME6|A,1.2e-10,Chain A
+75.1,215.0,3Q4U_1|Chains, Calcium-dependent protein kinase 4 [Plasmodium falciparum],29.302,pdb|4RGJ|A,3.82e-15,Chain A
+26.045,NaN,3Q4U_1|Chains,2.73e-14,311.0,gb|AAC47170.1|,72.8,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+72.4,316.0,3Q4U_1|Chains, serine/threonine protein kinase [Plasmodium falciparum],26.899,emb|CAA57972.1|,4.17e-14,mitogen-activated protein kinase 1
+25.641,NaN,3Q4U_1|Chains,2.03e-12,234.0,gb|AAC61592.1|,66.2,cdk-related protein kinase 6 [Plasmodium falciparum]
+27.149,NaN,3Q4U_1|Chains,9.49e-12,221.0,emb|CAA47704.1|,65.1,protein kinase [Plasmodium falciparum]
+56.2,211.0,3Q4U_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],26.066,pdb|1V0B|A,3.7e-09,Chain A
+56.2,211.0,3Q4U_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],26.066,pdb|1V0O|A,3.73e-09,Chain A
+55.8,211.0,3Q4U_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],25.592,pdb|1OB3|A,5.46e-09,Chain A
+54.7,193.0,3Q4U_1|Chains, Ser/Thr protein kinase [Plasmodium falciparum],24.352,pdb|2PML|X,1.71e-08,Chain X
+55.1,251.0,3Q4U_1|Chains, CGMP-dependent protein kinase [Plasmodium falciparum],25.896,pdb|5DYK|A,2.28e-08,Chain A
+105,334,3Q70_1|Chain, Plasmepsin 2 [Plasmodium falciparum],27.545,pdb|1LEE|A,9.16e-26,Chain A
+104,334,3Q70_1|Chain, Plasmepsin-2 [Plasmodium falciparum],27.246,pdb|3F9Q|A,1.17e-25,Chain A
+104,334,3Q70_1|Chain, Plasmepsin II [Plasmodium falciparum],27.545,pdb|1ME6|A,1.51e-25,Chain A
+104,334,3Q70_1|Chain, plasmepsin 2 [Plasmodium falciparum],27.545,pdb|1LF3|A,1.71e-25,Chain A
+104,334,3Q70_1|Chain, Plasmepsin-2 [Plasmodium falciparum],27.545,pdb|5BWY|A,3.6e-25,Chain A
+103,334,3Q70_1|Chain, Proplasmepsin Ii [Plasmodium falciparum],27.545,pdb|1PFZ|A,4.75e-25,Chain A
+103,334,3Q70_1|Chain, Plasmepsin Ii [Plasmodium falciparum],27.545,pdb|2BJU|A,1.05e-24,Chain A
+103,334,3Q70_1|Chain, partial [Plasmodium falciparum],27.545,gb|AAW71452.1|,1.05e-24,plasmepsin 2
+103,334,3Q70_1|Chain, partial [Plasmodium falciparum],27.545,gb|AAA68217.1|,1.1399999999999999e-24,aspartic proteinase
+103,334,3Q70_1|Chain, partial [Plasmodium falciparum],27.545,gb|AAW71449.1|,1.85e-24,plasmepsin 2
+85.9,181,3QFX_1|Chains, partial [Plasmodium falciparum],33.149,gb|UZH96718.1|,1.46e-20,dihydrofolate reductase
+85.5,181,3QFX_1|Chains, partial [Plasmodium falciparum],33.149,gb|WNV48387.1|,1.8e-20,dihyrofolate reductase
+85.5,181,3QFX_1|Chains, partial [Plasmodium falciparum],33.149,gb|UZH96798.1|,1.94e-20,dihydrofolate reductase
+85.5,181,3QFX_1|Chains, partial [Plasmodium falciparum],33.149,gb|WNV48385.1|,2e-20,dihyrofolate reductase
+85.1,181,3QFX_1|Chains, partial [Plasmodium falciparum],33.149,gb|UXN86416.1|,2.14e-20,dihydrofolate reductase-thymidylate synthase
+85.5,181,3QFX_1|Chains, partial [Plasmodium falciparum],33.149,gb|WNV48389.1|,2.14e-20,dihyrofolate reductase
+85.1,181,3QFX_1|Chains, partial [Plasmodium falciparum],33.149,gb|WNV48388.1|,2.25e-20,dihyrofolate reductase
+85.1,181,3QFX_1|Chains, partial [Plasmodium falciparum],33.149,gb|WZW72776.1|,2.7e-20,dihydrofolate reductase
+84.7,181,3QFX_1|Chains, partial [Plasmodium falciparum],33.149,gb|WZW72768.1|,2.72e-20,dihydrofolate reductase
+85.1,181,3QFX_1|Chains, partial [Plasmodium falciparum],33.702,gb|UZH96732.1|,2.79e-20,dihydrofolate reductase
+99.836,,3QG2_1|Chains,0.0,608,gb|UXQ07712.1|,1247,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.836,,3QG2_1|Chains,0.0,608,gb|UXQ07708.1|,1246,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.671,,3QG2_1|Chains,0.0,608,gb|UXQ07895.1|,1246,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.671,,3QG2_1|Chains,0.0,608,gb|UXQ07872.1|,1244,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.835,,3QG2_1|Chains,0.0,607,gb|UXQ07888.1|,1244,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.671,,3QG2_1|Chains,0.0,608,gb|UXQ07862.1|,1244,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+1248.0,608.0,3QGT_1|Chains, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],100.0,pdb|3QGT|A,0.0,Chain A
+99.836,NaN,3QGT_1|Chains,0.0,608.0,gb|AAA29585.1|,1246.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+1244.0,608.0,3QGT_1|Chains, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],99.671,pdb|3UM5|A,0.0,Chain A
+99.836,NaN,3QGT_1|Chains,0.0,608.0,gb|ABU43151.1|,1244.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.671,NaN,3QGT_1|Chains,0.0,608.0,gb|AAA29586.1|,1243.0,dihydrofolate reductase-thymidylate synthase (EC 1.5.1.3) (EC 2.1.1.45) [Plasmodium falciparum]
+99.671,NaN,3QGT_1|Chains,0.0,608.0,gb|AAA29580.1|,1242.0,dihydrofolate reductase-thymidylate synthetase [Plasmodium falciparum]
+99.507,NaN,3QGT_1|Chains,0.0,608.0,gb|UXQ07771.1|,1241.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+1240.0,607.0,3QGT_1|Chains, partial [Plasmodium falciparum],99.671,gb|UXQ07799.1|,0.0,dihydrofolate reductase-thymidylate synthase
+99.507,NaN,3QGT_1|Chains,0.0,608.0,gb|UXQ07871.1|,1240.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.507,NaN,3QGT_1|Chains,0.0,608.0,gb|UXQ07867.1|,1240.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+85.9,181,3RG9_1|Chains, partial [Plasmodium falciparum],33.149,gb|UZH96718.1|,1.47e-20,dihydrofolate reductase
+85.5,181,3RG9_1|Chains, partial [Plasmodium falciparum],33.149,gb|WNV48385.1|,1.93e-20,dihyrofolate reductase
+85.5,181,3RG9_1|Chains, partial [Plasmodium falciparum],33.149,gb|WNV48389.1|,2.01e-20,dihyrofolate reductase
+85.5,181,3RG9_1|Chains, partial [Plasmodium falciparum],33.149,gb|WNV48387.1|,2.05e-20,dihyrofolate reductase
+84.7,181,3RG9_1|Chains, partial [Plasmodium falciparum],33.149,gb|UXN86416.1|,2.25e-20,dihydrofolate reductase-thymidylate synthase
+85.5,181,3RG9_1|Chains, partial [Plasmodium falciparum],33.149,gb|UZH96798.1|,2.26e-20,dihydrofolate reductase
+85.1,181,3RG9_1|Chains, partial [Plasmodium falciparum],33.149,gb|WNV48388.1|,2.42e-20,dihyrofolate reductase
+84.7,181,3RG9_1|Chains, partial [Plasmodium falciparum],33.149,gb|WZW72768.1|,2.9e-20,dihydrofolate reductase
+84.7,181,3RG9_1|Chains, partial [Plasmodium falciparum],33.149,gb|WZW72776.1|,2.93e-20,dihydrofolate reductase
+85.1,181,3RG9_1|Chains, partial [Plasmodium falciparum],33.702,gb|UZH96732.1|,3e-20,dihydrofolate reductase
+28.455,,3SDJ_1|Chains,5.6400000000000015e-22,246,emb|CAA68090.1|,98.2,CDPK2 [Plasmodium falciparum]
+28.862,,3SDJ_1|Chains,9.62e-17,246,emb|CAA47704.1|,82.0,protein kinase [Plasmodium falciparum]
+24.444,,3SDJ_1|Chains,2.69e-16,315,gb|AAC61592.1|,79.0,cdk-related protein kinase 6 [Plasmodium falciparum]
+25.826,,3SDJ_1|Chains,2.16e-15,333,gb|AAT06260.1|,77.8,protein kinase B-like protein [Plasmodium falciparum]
+25.974,,3SDJ_1|Chains,4.59e-13,308,gb|AAC47170.1|,71.2,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+32.414,,3SFX_2|Chain,3.6699999999999997e-41,290,gb|AAW78027.1|,158.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+43.396,,3SFX_2|Chain,2.97e-06,53,gb|AAW78027.1|,49.7,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+32.414,,3SFX_2|Chain,3.88e-41,290,gb|AAW78028.1|,158.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+32.414,,3SFX_2|Chain,5e-41,290,gb|AAW78025.1|,157.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+43.396,,3SFX_2|Chain,2.87e-06,53,gb|AAW78025.1|,50.1,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+32.069,,3SFX_2|Chain,1.8199999999999999e-40,290,gb|ABJ97611.1|,155.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+43.396,,3SFX_2|Chain,3.02e-06,53,gb|ABJ97611.1|,49.7,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+209.0,333.0,3SOA_1|Chain, Calcium-dependent protein kinase 4 [Plasmodium falciparum],34.835,pdb|4RGJ|A,3.99e-62,Chain A
+35.216,NaN,3SOA_1|Chain,4.28e-62,301.0,emb|CAA68090.1|,209.0,CDPK2 [Plasmodium falciparum]
+33.333,NaN,3SOA_1|Chain,2.61e-58,345.0,emb|CAA47704.1|,199.0,protein kinase [Plasmodium falciparum]
+31.359,NaN,3SOA_1|Chain,5.25e-40,287.0,emb|CAA45179.1|,149.0,PfPK2 [Plasmodium falciparum]
+30.627,NaN,3SOA_1|Chain,1.27e-37,271.0,gb|AAT06260.1|,142.0,protein kinase B-like protein [Plasmodium falciparum]
+130.0,265.0,3SOA_1|Chain, CGMP-dependent protein kinase [Plasmodium falciparum],32.83,pdb|5DYK|A,1.89e-32,Chain A
+29.412,NaN,3SOA_1|Chain,6.37e-32,272.0,gb|AAF99562.1|,124.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+30.62,NaN,3SOA_1|Chain,8.67e-31,258.0,emb|CAA80490.1|,125.0,serine/threonine-protein kinase [Plasmodium falciparum]
+28.302,NaN,3SOA_1|Chain,7.60e-25,318.0,gb|AAC47170.1|,107.0,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+106.0,318.0,3SOA_1|Chain, serine/threonine protein kinase [Plasmodium falciparum],28.302,emb|CAA57972.1|,1.52e-24,mitogen-activated protein kinase 1
+371.0,288.0,3TI1_1|Chain, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],63.194,pdb|1V0O|A,4.13e-130,Chain A
+371.0,288.0,3TI1_1|Chain, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],63.194,pdb|1V0B|A,4.3600000000000004e-130,Chain A
+370.0,288.0,3TI1_1|Chain, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],62.847,pdb|1OB3|A,6.25e-130,Chain A
+42.271,NaN,3TI1_1|Chain,4.47e-78,317.0,emb|CAA56732.1|,251.0,cdc2-related protein kinase 1 [Plasmodium falciparum]
+38.944,NaN,3TI1_1|Chain,1.78e-67,303.0,gb|AAC72269.1|,213.0,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+38.944,NaN,3TI1_1|Chain,2.75e-67,303.0,gb|AAD55782.1|,212.0,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+40.0,NaN,3TI1_1|Chain,1.88e-63,305.0,gb|AAC61592.1|,202.0,cdk-related protein kinase 6 [Plasmodium falciparum]
+39.041,NaN,3TI1_1|Chain,7.55e-62,292.0,gb|AAC47170.1|,208.0,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+207.0,292.0,3TI1_1|Chain, serine/threonine protein kinase [Plasmodium falciparum],39.384,emb|CAA57972.1|,2.18e-61,mitogen-activated protein kinase 1
+166.0,350.0,3TI1_1|Chain, MAP2 kinase [Plasmodium falciparum],32.857,pdb|3NIE|A,2.02e-48,Chain A
+97.8,334,3TNE_1|Chains, Plasmepsin-2 [Plasmodium falciparum],27.545,pdb|3F9Q|A,3.94e-23,Chain A
+97.8,331,3TNE_1|Chains, Plasmepsin II [Plasmodium falciparum],28.399,pdb|1ME6|A,4.06e-23,Chain A
+97.8,334,3TNE_1|Chains, Plasmepsin 2 [Plasmodium falciparum],27.545,pdb|1LEE|A,4.1e-23,Chain A
+97.8,331,3TNE_1|Chains, plasmepsin 2 [Plasmodium falciparum],28.399,pdb|1LF3|A,4.22e-23,Chain A
+97.8,331,3TNE_1|Chains, Plasmepsin-2 [Plasmodium falciparum],28.399,pdb|5BWY|A,5.98e-23,Chain A
+97.4,337,3TNE_1|Chains, Plasmepsin-1 [Plasmodium falciparum],27.003,pdb|3QRV|A,6.03e-23,Chain A
+97.8,331,3TNE_1|Chains, Proplasmepsin Ii [Plasmodium falciparum],28.399,pdb|1PFZ|A,6.489999999999999e-23,Chain A
+98.2,331,3TNE_1|Chains, partial [Plasmodium falciparum],28.399,gb|AAA68217.1|,1.07e-22,aspartic proteinase
+97.8,331,3TNE_1|Chains, Plasmepsin Ii [Plasmodium falciparum],28.399,pdb|2BJU|A,1.09e-22,Chain A
+97.8,331,3TNE_1|Chains, partial [Plasmodium falciparum],28.399,gb|AAW71452.1|,1.1e-22,plasmepsin 2
+75.481,,3TUH_1|Chains,2.99e-108,208,gb|AAA66178.1|,326,heat shock protein 86 [Plasmodium falciparum]
+75.481,,3TUH_1|Chains,3.52e-108,208,gb|AAA66179.1|,326,heat shock protein 86 [Plasmodium falciparum]
+75.481,,3TUH_1|Chains,4.69e-108,208,emb|CAA82765.1|,326,heat-shock protein [Plasmodium falciparum]
+30.0,,3UE4_1|Chains,6.699999999999999e-25,260,emb|CAA68090.1|,103.0,CDPK2 [Plasmodium falciparum]
+31.004,,3UE4_1|Chains,6.800000000000001e-22,229,emb|CAA47704.1|,94.7,protein kinase [Plasmodium falciparum]
+29.767,,3UE4_1|Chains,5.26e-20,215,emb|CAA80490.1|,89.7,serine/threonine-protein kinase [Plasmodium falciparum]
+28.302,,3UE4_1|Chains,8.96e-20,212,gb|AAF99562.1|,87.4,cAMP-dependent protein kinase [Plasmodium falciparum]
+29.224,,3UE4_1|Chains,1.48e-17,219,gb|AAL54911.1|,82.4,sexual stage-specific protein kinase [Plasmodium falciparum]
+25.0,,3UE4_1|Chains,1.44e-16,240,gb|AAT06260.1|,79.0,protein kinase B-like protein [Plasmodium falciparum]
+24.312,,3UE4_1|Chains,4.66e-16,218,emb|CAA45179.1|,77.8,PfPK2 [Plasmodium falciparum]
+1247.0,608.0,3UM5_1|Chains, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],100.0,pdb|3UM5|A,0.0,Chain A
+1244.0,608.0,3UM5_1|Chains, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],99.671,pdb|3QGT|A,0.0,Chain A
+99.671,NaN,3UM5_1|Chains,0.0,608.0,gb|AAA29585.1|,1243.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.507,NaN,3UM5_1|Chains,0.0,608.0,gb|ABU43151.1|,1241.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.507,NaN,3UM5_1|Chains,0.0,608.0,gb|AAA29586.1|,1240.0,dihydrofolate reductase-thymidylate synthase (EC 1.5.1.3) (EC 2.1.1.45) [Plasmodium falciparum]
+99.507,NaN,3UM5_1|Chains,0.0,608.0,gb|AAA29580.1|,1239.0,dihydrofolate reductase-thymidylate synthetase [Plasmodium falciparum]
+99.342,NaN,3UM5_1|Chains,0.0,608.0,gb|UXQ07771.1|,1239.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+1238.0,607.0,3UM5_1|Chains, partial [Plasmodium falciparum],99.506,gb|UXQ07799.1|,0.0,dihydrofolate reductase-thymidylate synthase
+99.342,NaN,3UM5_1|Chains,0.0,608.0,gb|UXQ07871.1|,1238.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+99.342,NaN,3UM5_1|Chains,0.0,608.0,gb|UXQ07867.1|,1238.0,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum]
+65.5,131,3WFH_1|Chain, single chain Fv [Plasmodium falciparum],30.534,pdb|8EZL|H,8.18e-13,Chain H
+55.8,120,3WFH_2|Chain, single chain Fv [Plasmodium falciparum],34.167,pdb|8EZL|H,1.97e-09,Chain H
+82.8,228.0,3ZBF_1|Chain, Calcium-dependent protein kinase 4 [Plasmodium falciparum],28.509,pdb|4RGJ|A,1.42e-17,Chain A
+28.216,NaN,3ZBF_1|Chain,3.33e-17,241.0,emb|CAA47704.1|,81.6,protein kinase [Plasmodium falciparum]
+24.528,NaN,3ZBF_1|Chain,1.31e-15,265.0,emb|CAA68090.1|,77.0,CDPK2 [Plasmodium falciparum]
+29.224,NaN,3ZBF_1|Chain,1.86e-14,219.0,gb|AAL54911.1|,73.9,sexual stage-specific protein kinase [Plasmodium falciparum]
+24.521,NaN,3ZBF_1|Chain,4.12e-12,261.0,gb|AAT06260.1|,66.2,protein kinase B-like protein [Plasmodium falciparum]
+25.641,NaN,3ZBF_1|Chain,4.68e-12,234.0,gb|AAF99562.1|,65.9,cAMP-dependent protein kinase [Plasmodium falciparum]
+25.417,NaN,3ZBF_1|Chain,9.53e-11,240.0,gb|AAD55782.1|,61.6,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+25.207,NaN,3ZBF_1|Chain,1.22e-10,242.0,gb|AAC72269.1|,61.2,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+60.5,297.0,3ZBF_1|Chain, CGMP-dependent protein kinase [Plasmodium falciparum],24.242,pdb|5DYK|A,4.01e-10,Chain A
+29.545,NaN,3ZBF_1|Chain,6.19e-10,220.0,emb|CAA80490.1|,60.1,serine/threonine-protein kinase [Plasmodium falciparum]
+29.644,,3ZOS_1|Chains,4.34e-19,253,emb|CAA68090.1|,87.4,CDPK2 [Plasmodium falciparum]
+27.092,,3ZOS_1|Chains,4.39e-17,251,gb|AAL54911.1|,82.0,sexual stage-specific protein kinase [Plasmodium falciparum]
+24.759,,3ZOS_1|Chains,3.99e-16,311,emb|CAA47704.1|,78.6,protein kinase [Plasmodium falciparum]
+22.407,,3ZOS_1|Chains,1.48e-10,241,gb|AAD55782.1|,60.8,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+22.407,,3ZOS_1|Chains,1.52e-10,241,gb|AAC72269.1|,60.8,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+24.066,,3ZOS_1|Chains,2.25e-09,241,emb|CAA80490.1|,58.2,serine/threonine-protein kinase [Plasmodium falciparum]
+162.0,302.0,4ACD_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],33.113,pdb|1OB3|A,2.5899999999999997e-46,Chain A
+161.0,302.0,4ACD_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],32.781,pdb|1V0O|A,4.4199999999999995e-46,Chain A
+161.0,302.0,4ACD_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],32.781,pdb|1V0B|A,4.5599999999999996e-46,Chain A
+170.0,306.0,4ACD_1|Chains, serine/threonine protein kinase [Plasmodium falciparum],31.373,emb|CAA57972.1|,7.029999999999999e-46,mitogen-activated protein kinase 1
+31.579,NaN,4ACD_1|Chains,1.29e-45,304.0,gb|AAC47170.1|,169.0,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+29.503,NaN,4ACD_1|Chains,2.40e-42,322.0,emb|CAA56732.1|,159.0,cdc2-related protein kinase 1 [Plasmodium falciparum]
+44.162,NaN,4ACD_1|Chains,1.97e-40,197.0,emb|CAA58680.1|,154.0,protein kinase [Plasmodium falciparum]
+35.955,NaN,4ACD_1|Chains,7.05e-10,89.0,emb|CAA58680.1|,61.2,protein kinase [Plasmodium falciparum]
+59.375,NaN,4ACD_1|Chains,3.16e-06,32.0,emb|CAA58680.1|,49.7,protein kinase [Plasmodium falciparum]
+28.947,NaN,4ACD_1|Chains,2.14e-36,304.0,gb|AAC61592.1|,135.0,cdk-related protein kinase 6 [Plasmodium falciparum]
+122.0,379.0,4ACD_1|Chains, MAP2 kinase [Plasmodium falciparum],28.496,pdb|3NIE|A,1.08e-30,Chain A
+28.496,NaN,4ACD_1|Chains,1.69e-30,379.0,gb|AAG37986.1|,122.0,MAP2 kinase [Plasmodium falciparum]
+28.261,,4AGD_1|Chain,1.02e-18,230,gb|AAL54911.1|,87.4,sexual stage-specific protein kinase [Plasmodium falciparum]
+28.959,,4AGD_1|Chain,1.77e-14,221,gb|AAF99562.1|,73.2,cAMP-dependent protein kinase [Plasmodium falciparum]
+27.854,,4AGD_1|Chain,2.75e-11,219,emb|CAA56732.1|,64.7,cdc2-related protein kinase 1 [Plasmodium falciparum]
+26.891,,4AGD_1|Chain,1.48e-10,238,gb|AAD55782.1|,61.2,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+26.891,,4AGD_1|Chain,1.76e-10,238,gb|AAC72269.1|,61.2,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+24.345,,4AGD_1|Chain,7.34e-10,267,gb|AAT06260.1|,59.7,protein kinase B-like protein [Plasmodium falciparum]
+24.638,,4AGD_1|Chain,1.16e-09,276,emb|CAA80490.1|,59.7,serine/threonine-protein kinase [Plasmodium falciparum]
+82.8,219.0,4ALI_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],28.311,pdb|3AM3|A,3.31e-18,Chain A
+83.6,221.0,4ALI_1|Chains, partial [Plasmodium falciparum],28.959,gb|AAK38274.1|,3.43e-18,enoyl-ACP reductase
+28.959,NaN,4ALI_1|Chains,3.49e-18,221.0,gb|AAK25802.1|,83.6,enoyl-acyl carrier reductase [Plasmodium falciparum]
+29.224,NaN,4ALI_1|Chains,3.59e-18,219.0,gb|AAK83687.1|,83.6,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+82.4,219.0,4ALI_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],29.224,pdb|1VRW|A,4.76e-18,Chain A
+82.4,219.0,4ALI_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],29.224,pdb|1UH5|A,4.76e-18,Chain A
+82.0,219.0,4ALI_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],29.224,pdb|2OL4|A,5.61e-18,Chain A
+80.5,219.0,4ALI_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],29.224,pdb|3AM5|A,1.88e-17,Chain A
+67.4,133.0,4ALI_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],36.09,pdb|1NHG|A,3.17e-13,Chain A
+28.959,,4ALL_1|Chains,5.29e-18,221,gb|AAK25802.1|,82.8,enoyl-acyl carrier reductase [Plasmodium falciparum]
+28.959,,4ALL_1|Chains,5.34e-18,221,gb|AAK83687.1|,82.8,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+23.571,,4ANQ_1|Chain,2.46e-14,280,emb|CAA68090.1|,73.6,CDPK2 [Plasmodium falciparum]
+25.877,,4ANQ_1|Chain,2.89e-14,228,emb|CAA45179.1|,73.2,PfPK2 [Plasmodium falciparum]
+25.463,,4ANQ_1|Chain,3.06e-12,216,gb|AAL54911.1|,67.8,sexual stage-specific protein kinase [Plasmodium falciparum]
+23.529,,4ANQ_1|Chain,1.86e-11,238,emb|CAA47704.1|,64.7,protein kinase [Plasmodium falciparum]
+25.463,,4ANQ_1|Chain,1.22e-10,216,gb|AAF99562.1|,61.6,cAMP-dependent protein kinase [Plasmodium falciparum]
+22.831,,4ANQ_1|Chain,4.93e-08,219,gb|AAC72269.1|,53.5,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+21.116,,4ANQ_1|Chain,5.31e-08,251,gb|AAC61592.1|,53.5,cdk-related protein kinase 6 [Plasmodium falciparum]
+23.929,,4ANS_1|Chain,8.38e-15,280,emb|CAA68090.1|,74.7,CDPK2 [Plasmodium falciparum]
+25.439,,4ANS_1|Chain,4.9e-14,228,emb|CAA45179.1|,72.4,PfPK2 [Plasmodium falciparum]
+25.0,,4ANS_1|Chain,5.43e-12,216,gb|AAL54911.1|,67.0,sexual stage-specific protein kinase [Plasmodium falciparum]
+23.529,,4ANS_1|Chain,1.54e-11,238,emb|CAA47704.1|,65.1,protein kinase [Plasmodium falciparum]
+25.472,,4ANS_1|Chain,1.83e-10,212,gb|AAF99562.1|,61.2,cAMP-dependent protein kinase [Plasmodium falciparum]
+23.288,,4ANS_1|Chain,1.49e-08,219,gb|AAC72269.1|,55.1,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+22.727,,4ANS_1|Chain,4.71e-08,220,gb|AAD55782.1|,53.5,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+20.784,,4ANS_1|Chain,4.76e-08,255,gb|AAC61592.1|,53.5,cdk-related protein kinase 6 [Plasmodium falciparum]
+73.953,,4B7P_1|Chain,4.2400000000000004e-110,215,gb|AAA66179.1|,332,heat shock protein 86 [Plasmodium falciparum]
+73.953,,4B7P_1|Chain,4.640000000000001e-110,215,gb|AAA66178.1|,332,heat shock protein 86 [Plasmodium falciparum]
+75.12,,4B7P_1|Chain,4.55e-108,209,emb|CAA82765.1|,327,heat-shock protein [Plasmodium falciparum]
+170.0,257.0,4C2V_1|Chains, Calcium-dependent protein kinase 4 [Plasmodium falciparum],35.409,pdb|4RGJ|A,2.84e-49,Chain A
+33.577,NaN,4C2V_1|Chains,3.98e-47,274.0,gb|AAT06260.1|,163.0,protein kinase B-like protein [Plasmodium falciparum]
+33.333,NaN,4C2V_1|Chains,4.12e-45,261.0,emb|CAA68090.1|,159.0,CDPK2 [Plasmodium falciparum]
+158.0,293.0,4C2V_1|Chains, CGMP-dependent protein kinase [Plasmodium falciparum],31.741,pdb|5DYK|A,1.3100000000000001e-43,Chain A
+32.117,NaN,4C2V_1|Chains,3.12e-43,274.0,emb|CAA47704.1|,154.0,protein kinase [Plasmodium falciparum]
+31.439,NaN,4C2V_1|Chains,9.98e-43,264.0,gb|AAF99562.1|,149.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+129.0,290.0,4C2V_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],31.724,pdb|1V0O|A,1.57e-35,Chain A
+128.0,290.0,4C2V_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],31.724,pdb|1V0B|A,1.75e-35,Chain A
+128.0,290.0,4C2V_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],32.069,pdb|1OB3|A,1.7800000000000002e-35,Chain A
+27.652,NaN,4C2V_1|Chains,2.05e-35,264.0,emb|CAA80490.1|,134.0,serine/threonine-protein kinase [Plasmodium falciparum]
+26.549,,4C8B_1|Chains,6.23e-13,226,gb|AAL54911.1|,69.7,sexual stage-specific protein kinase [Plasmodium falciparum]
+24.615,,4C8B_1|Chains,9.72e-13,260,gb|AAT06260.1|,68.2,protein kinase B-like protein [Plasmodium falciparum]
+27.358,,4C8B_1|Chains,5.17e-12,212,emb|CAA80490.1|,66.6,serine/threonine-protein kinase [Plasmodium falciparum]
+24.296,,4C8B_1|Chains,4.59e-10,284,emb|CAA47704.1|,60.5,protein kinase [Plasmodium falciparum]
+27.397,,4C8B_1|Chains,4.68e-10,219,gb|AAC72269.1|,59.7,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+27.397,,4C8B_1|Chains,5.42e-10,219,gb|AAD55782.1|,59.3,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+23.077,,4C8B_1|Chains,9.99e-09,234,gb|AAF99562.1|,55.8,cAMP-dependent protein kinase [Plasmodium falciparum]
+52.299,,4D0L_2|Chains,5.24e-58,174,emb|CAI51864.1|,182.0,Rab11B protein [Plasmodium falciparum]
+42.105,,4D0L_2|Chains,1.41e-51,209,gb|AAF15358.1|,165.0,Rab1 protein [Plasmodium falciparum]
+42.105,,4D0L_2|Chains,1.49e-51,209,emb|CAB40900.1|,165.0,putative Rab1A protein [Plasmodium falciparum]
+41.627,,4D0L_2|Chains,5.35e-51,209,gb|AAB16753.1|,164.0,Rab1 [Plasmodium falciparum]
+42.857,,4D0L_2|Chains,4.34e-42,168,emb|CAD27350.1|,140.0,Rab18 GTPase [Plasmodium falciparum]
+31.447,,4D0L_2|Chains,5.42e-23,159,emb|CAA52140.1|,92.0,ras-related nuclear protein [Plasmodium falciparum]
+31.447,,4D0L_2|Chains,7.2e-23,159,sp|P38545.1|,91.7,RecName: Full=GTP-binding nuclear protein Ran; AltName: Full=GTPase Ran; AltName: Full=Ras-like protein TC4 [Plasmodium falciparum]
+52.299,,4D0M_2|Chains,5.24e-58,174,emb|CAI51864.1|,182.0,Rab11B protein [Plasmodium falciparum]
+42.105,,4D0M_2|Chains,1.41e-51,209,gb|AAF15358.1|,165.0,Rab1 protein [Plasmodium falciparum]
+42.105,,4D0M_2|Chains,1.49e-51,209,emb|CAB40900.1|,165.0,putative Rab1A protein [Plasmodium falciparum]
+41.627,,4D0M_2|Chains,5.35e-51,209,gb|AAB16753.1|,164.0,Rab1 [Plasmodium falciparum]
+42.857,,4D0M_2|Chains,4.34e-42,168,emb|CAD27350.1|,140.0,Rab18 GTPase [Plasmodium falciparum]
+31.447,,4D0M_2|Chains,5.42e-23,159,emb|CAA52140.1|,92.0,ras-related nuclear protein [Plasmodium falciparum]
+31.447,,4D0M_2|Chains,7.2e-23,159,sp|P38545.1|,91.7,RecName: Full=GTP-binding nuclear protein Ran; AltName: Full=GTPase Ran; AltName: Full=Ras-like protein TC4 [Plasmodium falciparum]
+29.96,,4D4S_1|Chains,7.39e-23,247,emb|CAA68090.1|,97.4,CDPK2 [Plasmodium falciparum]
+29.572,,4D4S_1|Chains,1.1200000000000002e-21,257,gb|AAT06260.1|,93.6,protein kinase B-like protein [Plasmodium falciparum]
+29.545,,4D4S_1|Chains,1.94e-18,220,gb|AAL54911.1|,85.1,sexual stage-specific protein kinase [Plasmodium falciparum]
+25.869,,4D4S_1|Chains,3.11e-18,259,gb|AAF99562.1|,82.8,cAMP-dependent protein kinase [Plasmodium falciparum]
+28.649,,4D4S_1|Chains,5.75e-17,185,emb|CAA47704.1|,80.1,protein kinase [Plasmodium falciparum]
+29.96,,4D58_1|Chains,7.39e-23,247,emb|CAA68090.1|,97.4,CDPK2 [Plasmodium falciparum]
+29.572,,4D58_1|Chains,1.1200000000000002e-21,257,gb|AAT06260.1|,93.6,protein kinase B-like protein [Plasmodium falciparum]
+29.545,,4D58_1|Chains,1.94e-18,220,gb|AAL54911.1|,85.1,sexual stage-specific protein kinase [Plasmodium falciparum]
+25.869,,4D58_1|Chains,3.11e-18,259,gb|AAF99562.1|,82.8,cAMP-dependent protein kinase [Plasmodium falciparum]
+28.649,,4D58_1|Chains,5.75e-17,185,emb|CAA47704.1|,80.1,protein kinase [Plasmodium falciparum]
+49.02,,4G0U_1|Chains,0.0,765,pir|T10466|,712.0,DNA topoisomerase (ATP-hydrolyzing) (EC 5.99.1.3) II - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum]
+51.22,,4G0U_1|Chains,5.93e-07,41,pir|S47661|,49.7,topoisomerase II - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum]
+49.02,,4G0V_1|Chains,0.0,765,pir|T10466|,712.0,DNA topoisomerase (ATP-hydrolyzing) (EC 5.99.1.3) II - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum]
+51.22,,4G0V_1|Chains,5.93e-07,41,pir|S47661|,49.7,topoisomerase II - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum]
+247.0,262.0,4G4S_5|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],48.473,pdb|5FMG|E,3e-82,Chain E
+162.0,248.0,4G4S_5|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],39.516,pdb|5FMG|C,4.49e-49,Chain C
+129.0,219.0,4G4S_5|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],32.877,pdb|5FMG|D,1.24e-36,Chain D
+57.8,196.0,4G4S_5|Chain, partial [Plasmodium falciparum],26.531,gb|UUU46334.1|,7.27e-10,putative proteasome subunit beta type-7
+57.8,196.0,4G4S_5|Chain, partial [Plasmodium falciparum],26.531,gb|UUU46535.1|,7.94e-10,putative proteasome subunit beta type-7
+26.531,NaN,4G4S_5|Chain,8.30e-10,196.0,gb|UUU46296.1|,57.8,putative proteasome subunit beta type-7 [Plasmodium falciparum]
+123.0,249.0,4G4S_6|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],33.333,pdb|5FMG|E,2.38e-34,Chain E
+113.0,174.0,4G4S_6|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],40.805,pdb|5FMG|C,1.34e-30,Chain C
+105.0,173.0,4G4S_6|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],36.994,pdb|5FMG|D,9.68e-28,Chain D
+213.0,219.0,4G4S_9|Chain, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],50.228,pdb|5FMG|I,7.000000000000001e-70,Chain I
+214.0,219.0,4G4S_9|Chain, partial [Plasmodium falciparum],50.228,gb|UUU46535.1|,1.3699999999999998e-69,putative proteasome subunit beta type-7
+213.0,219.0,4G4S_9|Chain, partial [Plasmodium falciparum],50.228,gb|UUU46334.1|,2.1e-69,putative proteasome subunit beta type-7
+213.0,219.0,4G4S_9|Chain, partial [Plasmodium falciparum],50.228,gb|UUU46527.1|,2.41e-69,putative proteasome subunit beta type-7
+213.0,219.0,4G4S_9|Chain, partial [Plasmodium falciparum],50.228,gb|UUU46313.1|,2.52e-69,putative proteasome subunit beta type-7
+213.0,219.0,4G4S_9|Chain, partial [Plasmodium falciparum],50.228,gb|UUU46305.1|,2.57e-69,putative proteasome subunit beta type-7
+213.0,219.0,4G4S_9|Chain, partial [Plasmodium falciparum],50.228,gb|UUU46502.1|,2.63e-69,putative proteasome subunit beta type-7
+50.228,NaN,4G4S_9|Chain,2.87e-69,219.0,gb|UUU46296.1|,213.0,putative proteasome subunit beta type-7 [Plasmodium falciparum]
+213.0,219.0,4G4S_9|Chain, partial [Plasmodium falciparum],50.228,gb|UUU46404.1|,2.88e-69,putative proteasome subunit beta type-7
+213.0,219.0,4G4S_9|Chain, partial [Plasmodium falciparum],50.228,gb|UUU46490.1|,2.9e-69,putative proteasome subunit beta type-7
+79.0,212.0,4G4S_10|Chain, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],27.83,pdb|5FMG|M,5.53e-18,Chain M
+123.0,175.0,4G4S_11|Chain, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],35.429,pdb|5FMG|K,1.27e-35,Chain K
+70.5,159.0,4G4S_11|Chain, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],30.189,pdb|5FMG|I,6e-15,Chain I
+70.5,159.0,4G4S_11|Chain, partial [Plasmodium falciparum],30.189,gb|UUU46366.1|,6.81e-15,putative proteasome subunit beta type-7
+70.5,159.0,4G4S_11|Chain, partial [Plasmodium falciparum],30.189,gb|UUU46334.1|,7.79e-15,putative proteasome subunit beta type-7
+70.5,159.0,4G4S_11|Chain, partial [Plasmodium falciparum],30.189,gb|UUU46313.1|,7.96e-15,putative proteasome subunit beta type-7
+70.5,159.0,4G4S_11|Chain, partial [Plasmodium falciparum],30.189,gb|UUU46345.1|,7.97e-15,putative proteasome subunit beta type-7
+70.5,159.0,4G4S_11|Chain, partial [Plasmodium falciparum],30.189,gb|UUU46535.1|,7.97e-15,putative proteasome subunit beta type-7
+70.5,159.0,4G4S_11|Chain, partial [Plasmodium falciparum],30.189,gb|UUU46527.1|,8.07e-15,putative proteasome subunit beta type-7
+70.5,159.0,4G4S_11|Chain, partial [Plasmodium falciparum],30.189,gb|UUU46305.1|,8.08e-15,putative proteasome subunit beta type-7
+30.189,NaN,4G4S_11|Chain,8.41e-15,159.0,gb|UUU46296.1|,70.5,putative proteasome subunit beta type-7 [Plasmodium falciparum]
+93.6,180.0,4G4S_1|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],33.889,pdb|5FMG|C,6.51e-23,Chain C
+91.3,231.0,4G4S_1|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],26.407,pdb|5FMG|E,6.1300000000000005e-22,Chain E
+89.0,179.0,4G4S_1|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],28.492,pdb|5FMG|D,3.410000000000001e-21,Chain D
+201.0,185.0,4G4S_12|Chain, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],51.351,pdb|5FMG|L,7.810000000000002e-66,Chain L
+202.0,185.0,4G4S_12|Chain, partial [Plasmodium falciparum],51.351,gb|UUU46563.1|,1.53e-65,proteasome subunit beta type-5
+202.0,185.0,4G4S_12|Chain, partial [Plasmodium falciparum],51.351,gb|UUU46595.1|,1.82e-65,proteasome subunit beta type-5
+202.0,185.0,4G4S_12|Chain, partial [Plasmodium falciparum],51.351,gb|UUU46559.1|,1.9e-65,proteasome subunit beta type-5
+202.0,185.0,4G4S_12|Chain, partial [Plasmodium falciparum],51.351,gb|UUU46558.1|,1.92e-65,proteasome subunit beta type-5
+202.0,185.0,4G4S_12|Chain, partial [Plasmodium falciparum],51.351,gb|UUU46556.1|,1.95e-65,proteasome subunit beta type-5
+202.0,185.0,4G4S_12|Chain, partial [Plasmodium falciparum],51.351,gb|UUU46552.1|,2.01e-65,proteasome subunit beta type-5
+202.0,185.0,4G4S_12|Chain, partial [Plasmodium falciparum],51.351,gb|UUU46555.1|,2.06e-65,proteasome subunit beta type-5
+202.0,185.0,4G4S_12|Chain, partial [Plasmodium falciparum],51.351,gb|UUU46639.1|,2.08e-65,proteasome subunit beta type-5
+202.0,185.0,4G4S_12|Chain, partial [Plasmodium falciparum],51.351,gb|UUU46581.1|,2.1e-65,proteasome subunit beta type-5
+153.0,222.0,4G4S_13|Chain, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],36.486,pdb|5FMG|M,3.09e-46,Chain M
+84.7,99.0,4G4S_13|Chain, partial [Plasmodium falciparum],43.434,gb|UUU46676.1|,1.95e-21,proteasome subunit beta type-1
+55.5,46.0,4G4S_13|Chain, partial [Plasmodium falciparum],52.174,gb|UUU46651.1|,1.05e-10,proteasome subunit beta type-1
+55.5,46.0,4G4S_13|Chain, partial [Plasmodium falciparum],52.174,gb|UUU46768.1|,1.07e-10,proteasome subunit beta type-1
+55.5,46.0,4G4S_13|Chain, partial [Plasmodium falciparum],52.174,gb|UUU46669.1|,1.22e-10,proteasome subunit beta type-1
+55.5,46.0,4G4S_13|Chain, partial [Plasmodium falciparum],52.174,gb|UUU46767.1|,1.29e-10,proteasome subunit beta type-1
+55.1,46.0,4G4S_13|Chain, partial [Plasmodium falciparum],52.174,gb|UUU46675.1|,1.34e-10,proteasome subunit beta type-1
+55.5,58.0,4G4S_13|Chain, partial [Plasmodium falciparum],44.828,gb|UUU46649.1|,1.39e-10,proteasome subunit beta type-1
+55.5,46.0,4G4S_13|Chain, partial [Plasmodium falciparum],52.174,gb|UUU46650.1|,1.52e-10,proteasome subunit beta type-1
+113.0,230.0,4G4S_14|Chain, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],32.609,pdb|5FMG|N,1.52e-30,Chain N
+51.2,196.0,4G4S_14|Chain, partial [Plasmodium falciparum],23.98,gb|UUU46551.1|,8.84e-08,proteasome subunit beta type-5
+51.2,196.0,4G4S_14|Chain, partial [Plasmodium falciparum],23.98,gb|UUU46619.1|,8.87e-08,proteasome subunit beta type-5
+51.2,196.0,4G4S_14|Chain, partial [Plasmodium falciparum],23.98,gb|UUU46552.1|,9.15e-08,proteasome subunit beta type-5
+51.2,196.0,4G4S_14|Chain, partial [Plasmodium falciparum],23.98,gb|UUU46559.1|,9.28e-08,proteasome subunit beta type-5
+51.2,196.0,4G4S_14|Chain, partial [Plasmodium falciparum],23.98,gb|UUU46566.1|,9.29e-08,proteasome subunit beta type-5
+51.2,196.0,4G4S_14|Chain, partial [Plasmodium falciparum],23.98,gb|UUU46554.1|,9.41e-08,proteasome subunit beta type-5
+51.2,196.0,4G4S_14|Chain, partial [Plasmodium falciparum],23.98,gb|UUU46639.1|,9.41e-08,proteasome subunit beta type-5
+51.2,196.0,4G4S_14|Chain, partial [Plasmodium falciparum],23.98,gb|UUU46555.1|,9.5e-08,proteasome subunit beta type-5
+51.2,196.0,4G4S_14|Chain, partial [Plasmodium falciparum],23.98,gb|UUU46581.1|,9.75e-08,proteasome subunit beta type-5
+147.0,214.0,4G4S_2|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],37.383,pdb|5FMG|D,7.84e-44,Chain D
+136.0,223.0,4G4S_2|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],35.426,pdb|5FMG|C,3.16e-39,Chain C
+120.0,228.0,4G4S_2|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],33.333,pdb|5FMG|E,4.67e-33,Chain E
+53.1,214.0,4G4S_2|Chain, partial [Plasmodium falciparum],23.364,gb|UUU46366.1|,2.04e-08,putative proteasome subunit beta type-7
+53.1,214.0,4G4S_2|Chain, partial [Plasmodium falciparum],23.364,gb|UUU46305.1|,2.1e-08,putative proteasome subunit beta type-7
+53.1,214.0,4G4S_2|Chain, partial [Plasmodium falciparum],23.364,gb|UUU46334.1|,2.3e-08,putative proteasome subunit beta type-7
+238.0,237.0,4G4S_3|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],50.633,pdb|5FMG|C,4.57e-79,Chain C
+164.0,215.0,4G4S_3|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],37.674,pdb|5FMG|D,5.66e-50,Chain D
+155.0,220.0,4G4S_3|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],39.545,pdb|5FMG|E,1.6799999999999999e-46,Chain E
+51.6,169.0,4G4S_3|Chain, partial [Plasmodium falciparum],24.26,gb|UUU46305.1|,8.59e-08,putative proteasome subunit beta type-7
+24.26,NaN,4G4S_3|Chain,8.91e-08,169.0,gb|UUU46525.1|,51.6,putative proteasome subunit beta type-7 [Plasmodium falciparum]
+51.6,169.0,4G4S_3|Chain, partial [Plasmodium falciparum],23.669,gb|UUU46535.1|,9.01e-08,putative proteasome subunit beta type-7
+253.0,245.0,4G4S_4|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],47.347,pdb|5FMG|D,7.36e-85,Chain D
+144.0,176.0,4G4S_4|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],40.341,pdb|5FMG|C,2.74e-42,Chain C
+122.0,224.0,4G4S_4|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],34.821,pdb|5FMG|E,7.82e-34,Chain E
+128.0,213.0,4G4S_7|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],34.742,pdb|5FMG|E,1.55e-35,Chain E
+118.0,173.0,4G4S_7|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],36.416,pdb|5FMG|C,6.97e-32,Chain C
+111.0,196.0,4G4S_7|Chain, PROTEASOME SUBUNIT ALPHA TYPE [Plasmodium falciparum],34.184,pdb|5FMG|D,2.5100000000000002e-29,Chain D
+49.3,147.0,4G4S_7|Chain, partial [Plasmodium falciparum],26.531,gb|UUU46527.1|,5.98e-07,putative proteasome subunit beta type-7
+49.3,147.0,4G4S_7|Chain, partial [Plasmodium falciparum],26.531,gb|UUU46305.1|,6.07e-07,putative proteasome subunit beta type-7
+49.3,147.0,4G4S_7|Chain, partial [Plasmodium falciparum],26.531,gb|UUU46345.1|,6.29e-07,putative proteasome subunit beta type-7
+82.8,197.0,4G4S_8|Chain, PROTEASOME SUBUNIT BETA TYPE [Plasmodium falciparum],27.411,pdb|5FMG|I,1.15e-19,Chain I
+82.8,197.0,4G4S_8|Chain, partial [Plasmodium falciparum],27.411,gb|UUU46366.1|,1.9e-19,putative proteasome subunit beta type-7
+82.8,197.0,4G4S_8|Chain, partial [Plasmodium falciparum],27.411,gb|UUU46527.1|,2.08e-19,putative proteasome subunit beta type-7
+82.8,197.0,4G4S_8|Chain, partial [Plasmodium falciparum],27.411,gb|UUU46305.1|,2.09e-19,putative proteasome subunit beta type-7
+82.8,197.0,4G4S_8|Chain, partial [Plasmodium falciparum],27.411,gb|UUU46334.1|,2.2e-19,putative proteasome subunit beta type-7
+82.8,197.0,4G4S_8|Chain, partial [Plasmodium falciparum],27.411,gb|UUU46345.1|,2.44e-19,putative proteasome subunit beta type-7
+82.8,197.0,4G4S_8|Chain, partial [Plasmodium falciparum],27.411,gb|UUU46302.1|,2.54e-19,putative proteasome subunit beta type-7
+82.8,197.0,4G4S_8|Chain, partial [Plasmodium falciparum],27.411,gb|UUU46313.1|,2.56e-19,putative proteasome subunit beta type-7
+82.8,197.0,4G4S_8|Chain, partial [Plasmodium falciparum],27.411,gb|UUU46502.1|,2.59e-19,putative proteasome subunit beta type-7
+28.099,,4G5J_1|Chain,2.74e-17,242,gb|AAL54911.1|,82.8,sexual stage-specific protein kinase [Plasmodium falciparum]
+29.73,,4G5J_1|Chain,1.5e-13,222,emb|CAA68090.1|,70.9,CDPK2 [Plasmodium falciparum]
+28.151,,4G5J_1|Chain,1.55e-13,238,emb|CAA47704.1|,70.9,protein kinase [Plasmodium falciparum]
+26.484,,4G5J_1|Chain,3.2e-13,219,gb|AAF99562.1|,69.3,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.415,,4G5J_1|Chain,3.23e-10,212,gb|AAT06260.1|,60.5,protein kinase B-like protein [Plasmodium falciparum]
+28.099,,4I23_1|Chain,2.7e-17,242,gb|AAL54911.1|,82.8,sexual stage-specific protein kinase [Plasmodium falciparum]
+29.73,,4I23_1|Chain,1.54e-13,222,emb|CAA68090.1|,70.9,CDPK2 [Plasmodium falciparum]
+28.151,,4I23_1|Chain,1.7e-13,238,emb|CAA47704.1|,70.9,protein kinase [Plasmodium falciparum]
+26.484,,4I23_1|Chain,3.62e-13,219,gb|AAF99562.1|,68.9,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.415,,4I23_1|Chain,3.03e-10,212,gb|AAT06260.1|,60.8,protein kinase B-like protein [Plasmodium falciparum]
+28.099,,4I24_1|Chains,9.61e-18,242,gb|AAL54911.1|,84.0,sexual stage-specific protein kinase [Plasmodium falciparum]
+30.18,,4I24_1|Chains,1.93e-14,222,emb|CAA68090.1|,73.6,CDPK2 [Plasmodium falciparum]
+26.484,,4I24_1|Chains,1.32e-13,219,gb|AAF99562.1|,70.5,cAMP-dependent protein kinase [Plasmodium falciparum]
+27.731,,4I24_1|Chains,8.82e-13,238,emb|CAA47704.1|,68.6,protein kinase [Plasmodium falciparum]
+26.415,,4I24_1|Chains,1.2e-10,212,gb|AAT06260.1|,62.0,protein kinase B-like protein [Plasmodium falciparum]
+31.095,,4I41_1|Chain,2.64e-34,283,emb|CAA68090.1|,129.0,CDPK2 [Plasmodium falciparum]
+30.83,,4I41_1|Chain,1.83e-30,253,emb|CAA80490.1|,120.0,serine/threonine-protein kinase [Plasmodium falciparum]
+26.148,,4I41_1|Chain,3.59e-25,283,emb|CAA45179.1|,103.0,PfPK2 [Plasmodium falciparum]
+30.241,,4I41_1|Chain,6.3799999999999996e-24,291,emb|CAA47704.1|,100.0,protein kinase [Plasmodium falciparum]
+26.894,,4I41_1|Chain,2.6600000000000002e-21,264,gb|AAT06260.1|,92.4,protein kinase B-like protein [Plasmodium falciparum]
+26.336,,4I41_1|Chain,3.53e-20,262,gb|AAF99562.1|,88.6,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.339,,4I41_1|Chain,4.05e-17,224,gb|AAC47170.1|,80.9,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+31.102,,4I5M_1|Chain,9.44e-44,254,gb|AAT06260.1|,154.0,protein kinase B-like protein [Plasmodium falciparum]
+31.522,,4I5M_1|Chain,1.75e-39,276,emb|CAA80490.1|,147.0,serine/threonine-protein kinase [Plasmodium falciparum]
+31.559,,4I5M_1|Chain,9.13e-39,263,emb|CAA68090.1|,142.0,CDPK2 [Plasmodium falciparum]
+28.302,,4I5M_1|Chain,8.8e-34,265,emb|CAA45179.1|,129.0,PfPK2 [Plasmodium falciparum]
+30.603,,4I5M_1|Chain,1.2100000000000001e-29,232,gb|AAF99562.1|,115.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.848,,4I5M_1|Chain,5.830000000000001e-26,257,emb|CAA47704.1|,107.0,protein kinase [Plasmodium falciparum]
+29.245,,4I5M_1|Chain,4.02e-19,212,gb|AAC61592.1|,85.5,cdk-related protein kinase 6 [Plasmodium falciparum]
+90.1,202.0,4JI9_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],32.178,pdb|1V0B|A,6.230000000000001e-21,Chain A
+90.1,202.0,4JI9_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],32.178,pdb|1V0O|A,6.820000000000001e-21,Chain A
+89.7,200.0,4JI9_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],32.0,pdb|1OB3|A,8.94e-21,Chain A
+30.049,NaN,4JI9_1|Chains,1.18e-17,203.0,emb|CAA80490.1|,82.8,serine/threonine-protein kinase [Plasmodium falciparum]
+31.687,NaN,4JI9_1|Chains,1.18e-16,243.0,gb|AAL54911.1|,80.1,sexual stage-specific protein kinase [Plasmodium falciparum]
+28.774,NaN,4JI9_1|Chains,4.30e-16,212.0,gb|AAC61592.1|,76.6,cdk-related protein kinase 6 [Plasmodium falciparum]
+30.435,NaN,4JI9_1|Chains,6.41e-16,207.0,emb|CAA56732.1|,77.8,cdc2-related protein kinase 1 [Plasmodium falciparum]
+77.0,234.0,4JI9_1|Chains, Calcium-dependent protein kinase 4 [Plasmodium falciparum],31.624,pdb|4RGJ|A,1.01e-15,Chain A
+30.542,NaN,4JI9_1|Chains,8.98e-15,203.0,emb|CAA68090.1|,73.9,CDPK2 [Plasmodium falciparum]
+30.189,NaN,4JI9_1|Chains,1.89e-14,212.0,emb|CAA47704.1|,73.2,protein kinase [Plasmodium falciparum]
+26.852,,4JSX_2|Chains,2.02e-08,108,gb|AAP93837.1|,55.5,COPI protein [Plasmodium falciparum]
+57.0,101,4KM0_1|Chains, partial [Plasmodium falciparum],34.653,gb|UZH96798.1|,2.29e-10,dihydrofolate reductase
+55.1,102,4KM0_1|Chains, partial [Plasmodium falciparum],33.333,gb|UZH96733.1|,1e-09,dihydrofolate reductase
+55.1,102,4KM0_1|Chains, partial [Plasmodium falciparum],32.353,gb|QOP39094.1|,1.75e-09,dihydrofolate reductase
+53.9,102,4KM0_1|Chains, partial [Plasmodium falciparum],32.353,gb|UXN86418.1|,1.91e-09,dihydrofolate reductase-thymidylate synthase
+55.1,102,4KM0_1|Chains, partial [Plasmodium falciparum],32.353,gb|QOP39095.1|,2.17e-09,dihydrofolate reductase
+53.9,102,4KM0_1|Chains, partial [Plasmodium falciparum],32.353,gb|UXN86416.1|,2.18e-09,dihydrofolate reductase-thymidylate synthase
+54.3,102,4KM0_1|Chains, partial [Plasmodium falciparum],32.353,gb|WHA04252.1|,2.18e-09,bifunctional dihydrofolate reductase-thymidylate synthase
+55.1,102,4KM0_1|Chains, partial [Plasmodium falciparum],32.353,gb|QOP39088.1|,2.21e-09,dihydrofolate reductase
+54.3,102,4KM0_1|Chains, partial [Plasmodium falciparum],32.353,gb|AAG10106.1|,2.23e-09,dihydrofolate reductase-thymidylate synthase
+54.7,102,4KM0_1|Chains, Bifunctional dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],32.353,pdb|1J3I|A,2.33e-09,Chain A
+32.103,,4KS8_1|Chain,1.07e-35,271,gb|AAT06260.1|,132.0,protein kinase B-like protein [Plasmodium falciparum]
+28.03,,4KS8_1|Chain,1.18e-35,264,emb|CAA68090.1|,133.0,CDPK2 [Plasmodium falciparum]
+28.253,,4KS8_1|Chain,1.62e-31,269,emb|CAA47704.1|,122.0,protein kinase [Plasmodium falciparum]
+26.877,,4KS8_1|Chain,6.1800000000000006e-27,253,emb|CAA45179.1|,109.0,PfPK2 [Plasmodium falciparum]
+27.046,,4KS8_1|Chain,2.0199999999999998e-24,281,gb|AAC61592.1|,99.8,cdk-related protein kinase 6 [Plasmodium falciparum]
+42.353,,4KYK_1|Chains,4.33e-36,170,gb|AAP96758.1|,128,glyoxalase I [Plasmodium falciparum]
+37.748,,4KYK_1|Chains,1.58e-26,151,gb|AAP96758.1|,103,glyoxalase I [Plasmodium falciparum]
+31.329,,4LNG_2|Chain,9.78e-46,316,gb|ABJ97611.1|,171.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+50.0,,4LNG_2|Chain,3.16e-07,46,gb|ABJ97611.1|,53.1,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+31.013,,4LNG_2|Chain,4.25e-45,316,gb|AAW78028.1|,169.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+47.826,,4LNG_2|Chain,6.75e-06,46,gb|AAW78028.1|,48.5,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+31.013,,4LNG_2|Chain,4.37e-45,316,gb|AAW78025.1|,169.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+50.0,,4LNG_2|Chain,3.24e-07,46,gb|AAW78025.1|,53.1,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+31.013,,4LNG_2|Chain,4.42e-45,316,gb|AAW78027.1|,169.0,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+50.0,,4LNG_2|Chain,3.21e-07,46,gb|AAW78027.1|,53.1,protein farnesyltransferase beta subunit [Plasmodium falciparum]
+77.0,238.0,4M89_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],27.731,pdb|3AM3|A,2.24e-16,Chain A
+28.571,NaN,4M89_1|Chains,4.62e-16,238.0,gb|AAK83687.1|,77.0,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+77.0,238.0,4M89_1|Chains, partial [Plasmodium falciparum],28.571,gb|AAK38274.1|,4.75e-16,enoyl-ACP reductase
+28.571,NaN,4M89_1|Chains,4.94e-16,238.0,gb|AAK25802.1|,76.6,enoyl-acyl carrier reductase [Plasmodium falciparum]
+75.9,238.0,4M89_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],28.992,pdb|2OL4|A,6.49e-16,Chain A
+75.9,238.0,4M89_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],28.992,pdb|1UH5|A,6.49e-16,Chain A
+75.9,238.0,4M89_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],28.992,pdb|1VRW|A,6.92e-16,Chain A
+73.2,238.0,4M89_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],28.571,pdb|3AM5|A,5.82e-15,Chain A
+63.2,136.0,4M89_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],36.029,pdb|1NHG|A,6.97e-12,Chain A
+32.258,,4MXO_1|Chains,5.36e-23,217,emb|CAA68090.1|,97.8,CDPK2 [Plasmodium falciparum]
+29.565,,4MXO_1|Chains,1.67e-19,230,emb|CAA47704.1|,87.8,protein kinase [Plasmodium falciparum]
+28.372,,4MXO_1|Chains,1.19e-18,215,emb|CAA80490.1|,85.5,serine/threonine-protein kinase [Plasmodium falciparum]
+30.594,,4MXO_1|Chains,1.26e-18,219,gb|AAL54911.1|,85.9,sexual stage-specific protein kinase [Plasmodium falciparum]
+27.358,,4MXO_1|Chains,2.81e-15,212,gb|AAF99562.1|,74.7,cAMP-dependent protein kinase [Plasmodium falciparum]
+24.809,,4MXO_1|Chains,2.7e-14,262,emb|CAA45179.1|,72.4,PfPK2 [Plasmodium falciparum]
+32.258,,4MXX_1|Chains,5.11e-23,217,emb|CAA68090.1|,98.2,CDPK2 [Plasmodium falciparum]
+29.565,,4MXX_1|Chains,1.67e-19,230,emb|CAA47704.1|,87.8,protein kinase [Plasmodium falciparum]
+30.594,,4MXX_1|Chains,1.16e-18,219,gb|AAL54911.1|,85.9,sexual stage-specific protein kinase [Plasmodium falciparum]
+28.372,,4MXX_1|Chains,1.18e-18,215,emb|CAA80490.1|,85.5,serine/threonine-protein kinase [Plasmodium falciparum]
+27.83,,4MXX_1|Chains,7.47e-16,212,gb|AAF99562.1|,76.3,cAMP-dependent protein kinase [Plasmodium falciparum]
+25.391,,4MXX_1|Chains,1.47e-14,256,gb|AAT06260.1|,73.2,protein kinase B-like protein [Plasmodium falciparum]
+32.87,,4MXY_1|Chains,2.03e-23,216,emb|CAA68090.1|,99.4,CDPK2 [Plasmodium falciparum]
+31.05,,4MXY_1|Chains,2.42e-19,219,gb|AAL54911.1|,87.8,sexual stage-specific protein kinase [Plasmodium falciparum]
+28.372,,4MXY_1|Chains,6.2e-19,215,emb|CAA80490.1|,86.3,serine/threonine-protein kinase [Plasmodium falciparum]
+29.565,,4MXY_1|Chains,6.6e-19,230,emb|CAA47704.1|,86.3,protein kinase [Plasmodium falciparum]
+27.83,,4MXY_1|Chains,5.23e-16,212,gb|AAF99562.1|,76.6,cAMP-dependent protein kinase [Plasmodium falciparum]
+29.167,,4MXY_1|Chains,2.82e-15,216,emb|CAA56732.1|,75.5,cdc2-related protein kinase 1 [Plasmodium falciparum]
+32.87,,4MXZ_1|Chains,2.03e-23,216,emb|CAA68090.1|,99.4,CDPK2 [Plasmodium falciparum]
+31.05,,4MXZ_1|Chains,2.42e-19,219,gb|AAL54911.1|,87.8,sexual stage-specific protein kinase [Plasmodium falciparum]
+28.372,,4MXZ_1|Chains,6.2e-19,215,emb|CAA80490.1|,86.3,serine/threonine-protein kinase [Plasmodium falciparum]
+29.565,,4MXZ_1|Chains,6.6e-19,230,emb|CAA47704.1|,86.3,protein kinase [Plasmodium falciparum]
+27.83,,4MXZ_1|Chains,5.23e-16,212,gb|AAF99562.1|,76.6,cAMP-dependent protein kinase [Plasmodium falciparum]
+29.167,,4MXZ_1|Chains,2.82e-15,216,emb|CAA56732.1|,75.5,cdc2-related protein kinase 1 [Plasmodium falciparum]
+140.0,245.0,4NCT_1|Chains, non-specific serine/threonine protein kinase [Plasmodium falciparum],34.694,pdb|8RPC|A,2.41e-38,Chain A
+26.1,NaN,4NCT_1|Chains,1.74e-33,341.0,gb|AAK38173.1|,131.0,protein serine/threonine kinase-1 [Plasmodium falciparum]
+111.0,333.0,4NCT_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],29.73,pdb|1OB3|A,3.29e-28,Chain A
+110.0,333.0,4NCT_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],29.429,pdb|1V0O|A,5.14e-28,Chain A
+110.0,333.0,4NCT_1|Chains, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],29.429,pdb|1V0B|A,5.75e-28,Chain A
+109.0,354.0,4NCT_1|Chains, serine/threonine protein kinase [Plasmodium falciparum],27.401,emb|CAA57972.1|,5.440000000000001e-26,mitogen-activated protein kinase 1
+27.273,NaN,4NCT_1|Chains,2.45e-25,352.0,gb|AAC47170.1|,107.0,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+28.696,NaN,4NCT_1|Chains,3.95e-24,345.0,gb|AAC61592.1|,100.0,cdk-related protein kinase 6 [Plasmodium falciparum]
+31.535,NaN,4NCT_1|Chains,8.72e-23,241.0,emb|CAA56732.1|,99.8,cdc2-related protein kinase 1 [Plasmodium falciparum]
+30.992,NaN,4NCT_1|Chains,9.06e-23,242.0,gb|AAD55782.1|,97.1,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+140.0,245.0,4NCT_2|Chain, non-specific serine/threonine protein kinase [Plasmodium falciparum],34.694,pdb|8RPC|A,2.41e-38,Chain A
+26.1,NaN,4NCT_2|Chain,1.74e-33,341.0,gb|AAK38173.1|,131.0,protein serine/threonine kinase-1 [Plasmodium falciparum]
+111.0,333.0,4NCT_2|Chain, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],29.73,pdb|1OB3|A,3.29e-28,Chain A
+110.0,333.0,4NCT_2|Chain, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],29.429,pdb|1V0O|A,5.14e-28,Chain A
+110.0,333.0,4NCT_2|Chain, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],29.429,pdb|1V0B|A,5.75e-28,Chain A
+109.0,354.0,4NCT_2|Chain, serine/threonine protein kinase [Plasmodium falciparum],27.401,emb|CAA57972.1|,5.440000000000001e-26,mitogen-activated protein kinase 1
+27.273,NaN,4NCT_2|Chain,2.45e-25,352.0,gb|AAC47170.1|,107.0,mitogen-activated protein kinase-related protein [Plasmodium falciparum]
+28.696,NaN,4NCT_2|Chain,3.95e-24,345.0,gb|AAC61592.1|,100.0,cdk-related protein kinase 6 [Plasmodium falciparum]
+31.535,NaN,4NCT_2|Chain,8.72e-23,241.0,emb|CAA56732.1|,99.8,cdc2-related protein kinase 1 [Plasmodium falciparum]
+30.992,NaN,4NCT_2|Chain,9.06e-23,242.0,gb|AAD55782.1|,97.1,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+82.8,228.0,4NR0_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],27.193,pdb|3AM3|A,2.58e-18,Chain A
+81.3,228.0,4NR0_1|Chains, enoyl-ACP reductase [Plasmodium falciparum],28.07,pdb|1UH5|A,9.19e-18,Chain A
+81.6,228.0,4NR0_1|Chains, partial [Plasmodium falciparum],28.07,gb|AAK38274.1|,1.56e-17,enoyl-ACP reductase
+80.5,228.0,4NR0_1|Chains, Enoyl-acyl carrier reductase [Plasmodium falciparum],26.754,pdb|2OL4|A,2.18e-17,Chain A
+80.5,228.0,4NR0_1|Chains, ENOYL-ACYL CARRIER REDUCTASE [Plasmodium falciparum],26.754,pdb|1VRW|A,2.21e-17,Chain A
+26.754,NaN,4NR0_1|Chains,3.00e-17,228.0,gb|AAK83687.1|,80.5,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum]
+26.754,NaN,4NR0_1|Chains,3.30e-17,228.0,gb|AAK25802.1|,80.5,enoyl-acyl carrier reductase [Plasmodium falciparum]
+79.3,228.0,4NR0_1|Chains, Enoyl-ACP reductase [Plasmodium falciparum],28.07,pdb|3AM5|A,5.11e-17,Chain A
+67.8,133.0,4NR0_1|Chains, enoyl-acyl carrier reductase [Plasmodium falciparum],34.586,pdb|1NHG|A,1.85e-13,Chain A
+61.6,102.0,4O74_1|Chains, Bromodomain protein 1 [Plasmodium falciparum],31.373,pdb|9HHD|A,4.09e-13,Chain A
+38.272,NaN,4O74_1|Chains,1.25e-10,81.0,gb|AAR20863.1|,57.4,histone acetyltransferase [Plasmodium falciparum]
+61.6,102.0,4O76_1|Chains, Bromodomain protein 1 [Plasmodium falciparum],31.373,pdb|9HHD|A,4.09e-13,Chain A
+38.272,NaN,4O76_1|Chains,1.25e-10,81.0,gb|AAR20863.1|,57.4,histone acetyltransferase [Plasmodium falciparum]
+61.6,102.0,4OGI_1|Chains, Bromodomain protein 1 [Plasmodium falciparum],31.373,pdb|9HHD|A,4.09e-13,Chain A
+38.272,NaN,4OGI_1|Chains,1.25e-10,81.0,gb|AAR20863.1|,57.4,histone acetyltransferase [Plasmodium falciparum]
+61.6,102.0,4OGJ_1|Chains, Bromodomain protein 1 [Plasmodium falciparum],31.373,pdb|9HHD|A,4.09e-13,Chain A
+38.272,NaN,4OGJ_1|Chains,1.25e-10,81.0,gb|AAR20863.1|,57.4,histone acetyltransferase [Plasmodium falciparum]
+61.6,102.0,4PS5_1|Chains, Bromodomain protein 1 [Plasmodium falciparum],31.373,pdb|9HHD|A,4.09e-13,Chain A
+38.272,NaN,4PS5_1|Chains,1.25e-10,81.0,gb|AAR20863.1|,57.4,histone acetyltransferase [Plasmodium falciparum]
+32.746,,4QMN_1|Chain,8.63e-38,284,emb|CAA68090.1|,140,CDPK2 [Plasmodium falciparum]
+31.679,,4QMN_1|Chain,2.16e-30,262,gb|AAT06260.1|,119,protein kinase B-like protein [Plasmodium falciparum]
+29.21,,4QMN_1|Chain,5.17e-29,291,emb|CAA47704.1|,115,protein kinase [Plasmodium falciparum]
+29.365,,4QMN_1|Chain,6.42e-28,252,emb|CAA80490.1|,113,serine/threonine-protein kinase [Plasmodium falciparum]
+29.572,,4QMN_1|Chain,7.31e-28,257,emb|CAA45179.1|,112,PfPK2 [Plasmodium falciparum]
+30.42,,4QMN_1|Chain,1.96e-27,286,gb|AAC61592.1|,108,cdk-related protein kinase 6 [Plasmodium falciparum]
+32.746,,4QMZ_1|Chain,8.63e-38,284,emb|CAA68090.1|,140,CDPK2 [Plasmodium falciparum]
+31.679,,4QMZ_1|Chain,2.16e-30,262,gb|AAT06260.1|,119,protein kinase B-like protein [Plasmodium falciparum]
+29.21,,4QMZ_1|Chain,5.17e-29,291,emb|CAA47704.1|,115,protein kinase [Plasmodium falciparum]
+29.365,,4QMZ_1|Chain,6.42e-28,252,emb|CAA80490.1|,113,serine/threonine-protein kinase [Plasmodium falciparum]
+29.572,,4QMZ_1|Chain,7.31e-28,257,emb|CAA45179.1|,112,PfPK2 [Plasmodium falciparum]
+30.42,,4QMZ_1|Chain,1.96e-27,286,gb|AAC61592.1|,108,cdk-related protein kinase 6 [Plasmodium falciparum]
+32.746,,4QO9_1|Chains,8.63e-38,284,emb|CAA68090.1|,140,CDPK2 [Plasmodium falciparum]
+31.679,,4QO9_1|Chains,2.16e-30,262,gb|AAT06260.1|,119,protein kinase B-like protein [Plasmodium falciparum]
+29.21,,4QO9_1|Chains,5.17e-29,291,emb|CAA47704.1|,115,protein kinase [Plasmodium falciparum]
+29.365,,4QO9_1|Chains,6.42e-28,252,emb|CAA80490.1|,113,serine/threonine-protein kinase [Plasmodium falciparum]
+29.572,,4QO9_1|Chains,7.31e-28,257,emb|CAA45179.1|,112,PfPK2 [Plasmodium falciparum]
+30.42,,4QO9_1|Chains,1.96e-27,286,gb|AAC61592.1|,108,cdk-related protein kinase 6 [Plasmodium falciparum]
+28.452,,4QRC_1|Chain,2.4000000000000007e-21,239,gb|AAL54911.1|,94.7,sexual stage-specific protein kinase [Plasmodium falciparum]
+27.803,,4QRC_1|Chain,7.12e-15,223,gb|AAF99562.1|,73.9,cAMP-dependent protein kinase [Plasmodium falciparum]
+27.5,,4QRC_1|Chain,1.16e-13,240,emb|CAA45179.1|,71.2,PfPK2 [Plasmodium falciparum]
+26.316,,4QRC_1|Chain,1.57e-13,247,emb|CAA80490.1|,70.9,serine/threonine-protein kinase [Plasmodium falciparum]
+24.194,,4QRC_1|Chain,3.35e-13,248,emb|CAA68090.1|,69.7,CDPK2 [Plasmodium falciparum]
+24.436,,4QRC_1|Chain,1.17e-10,266,gb|AAT06260.1|,62.0,protein kinase B-like protein [Plasmodium falciparum]
+27.358,,4R1V_1|Chain,1.67e-16,212,gb|AAL54911.1|,79.7,sexual stage-specific protein kinase [Plasmodium falciparum]
+30.131,,4R1V_1|Chain,1.79e-13,229,gb|AAC72269.1|,69.3,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+30.131,,4R1V_1|Chain,1.86e-13,229,gb|AAD55782.1|,69.3,MO15-related protein kinase Pfmrk [Plasmodium falciparum]
+28.161,,4R1V_1|Chain,3.94e-13,174,emb|CAA47704.1|,68.9,protein kinase [Plasmodium falciparum]
+27.053,,4R1V_1|Chain,1.97e-12,207,emb|CAA68090.1|,67.0,CDPK2 [Plasmodium falciparum]
+25.481,,4R1V_1|Chain,2.62e-11,208,gb|AAF99562.1|,63.2,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.522,,4R7L_1|Chain,8.61e-16,460,emb|CAA70301.2|,81.3,zinc-aminopeptidase [Plasmodium falciparum]
+86.364,,4RJD_1|Chains,3.31e-36,66,gb|AAA29509.1|,118.0,calmodulin [Plasmodium falciparum]
+45.161,,4RJD_1|Chains,3.9e-12,62,gb|AAA29509.1|,56.6,calmodulin [Plasmodium falciparum]
+86.364,,4RJD_1|Chains,3.34e-36,66,sp|P24044.4|,118.0,RecName: Full=Calmodulin [Plasmodium falciparum]
+46.774,,4RJD_1|Chains,4.32e-15,62,sp|P24044.4|,64.3,RecName: Full=Calmodulin [Plasmodium falciparum]
+38.333,,4RJD_1|Chains,3.66e-10,60,emb|CAA68090.1|,53.1,CDPK2 [Plasmodium falciparum]
+36.364,,4RJD_1|Chains,1.36e-06,66,emb|CAA47704.1|,43.1,protein kinase [Plasmodium falciparum]
+34.286,,4RJD_1|Chains,4.74e-06,70,emb|CAA47704.1|,41.6,protein kinase [Plasmodium falciparum]
+26.522,,4RSY_1|Chain,8.61e-16,460,emb|CAA70301.2|,81.3,zinc-aminopeptidase [Plasmodium falciparum]
+821.0,401.0,4RX0_1|Chain, DIHYDROOROTATE DEHYDROGENASE [Plasmodium falciparum],100.0,pdb|4CQ8|A,0.0,Chain A
+795.0,406.0,4RX0_1|Chain, Dihydroorotate dehydrogenase [Plasmodium falciparum],97.044,pdb|6I4B|A,0.0,Chain A
+92.718,NaN,4RX0_1|Chain,0.0,412.0,gb|WGL08530.1|,762.0,dihydroorotate dehydrogenase [Plasmodium falciparum]
+92.718,NaN,4RX0_1|Chain,0.0,412.0,gb|AAC37170.1|,762.0,dihydroorotate dehydrogenase [Plasmodium falciparum]
+92.718,NaN,4RX0_1|Chain,0.0,412.0,gb|WGL08514.1|,762.0,dihydroorotate dehydrogenase [Plasmodium falciparum]
+92.718,NaN,4RX0_1|Chain,0.0,412.0,gb|WGL08524.1|,762.0,dihydroorotate dehydrogenase [Plasmodium falciparum]
+92.718,NaN,4RX0_1|Chain,0.0,412.0,gb|WGL08533.1|,761.0,dihydroorotate dehydrogenase [Plasmodium falciparum]
+761.0,412.0,4RX0_1|Chain, partial [Plasmodium falciparum],92.718,gb|WGL08512.1|,0.0,dihydroorotate dehydrogenase
+38.148,,4TNB_1|Chain,6.2399999999999996e-55,270,gb|AAT06260.1|,192.0,protein kinase B-like protein [Plasmodium falciparum]
+32.698,,4TNB_1|Chain,3.96e-41,315,gb|AAF99562.1|,152.0,cAMP-dependent protein kinase [Plasmodium falciparum]
+30.483,,4TNB_1|Chain,2.99e-25,269,emb|CAA47704.1|,109.0,protein kinase [Plasmodium falciparum]
+31.739,,4TNB_1|Chain,9.22e-24,230,emb|CAA45179.1|,104.0,PfPK2 [Plasmodium falciparum]
+29.588,,4TNB_1|Chain,2.17e-22,267,emb|CAA68090.1|,100.0,CDPK2 [Plasmodium falciparum]
+27.132,,4TNB_1|Chain,1.89e-20,258,emb|CAA80490.1|,95.5,serine/threonine-protein kinase [Plasmodium falciparum]
+27.948,,4TNB_1|Chain,6.49e-20,229,gb|AAC61592.1|,90.5,cdk-related protein kinase 6 [Plasmodium falciparum]
+25.867,,4TVA_1|Chain,1.05e-36,375,gb|WGL14830.1|,139,phenylalanine-tRNA ligase [Plasmodium falciparum]
+25.867,,4TVA_1|Chain,2e-36,375,gb|WGL14847.1|,138,phenylalanine-tRNA ligase [Plasmodium falciparum]
+25.6,,4TVA_1|Chain,2.02e-36,375,gb|WGL14858.1|,138,phenylalanine-tRNA ligase [Plasmodium falciparum]
+25.867,,4TVA_1|Chain,2.0800000000000002e-36,375,gb|WGL14832.1|,138,phenylalanine-tRNA ligase [Plasmodium falciparum]
+29.474,,4TVA_1|Chain,3.09e-36,285,gb|WGL14840.1|,137,phenylalanine-tRNA ligase [Plasmodium falciparum]
+29.474,,4TVA_1|Chain,3.22e-36,285,gb|WGL14860.1|,137,phenylalanine-tRNA ligase [Plasmodium falciparum]
+29.474,,4TVA_1|Chain,3.38e-36,285,gb|WGL14834.1|,137,phenylalanine-tRNA ligase [Plasmodium falciparum]
+29.474,,4TVA_1|Chain,3.4200000000000003e-36,285,gb|WGL14841.1|,137,phenylalanine-tRNA ligase [Plasmodium falciparum]
+28.033,,4TYJ_1|Chain,9.68e-21,239,gb|AAL54911.1|,92.8,sexual stage-specific protein kinase [Plasmodium falciparum]
+27.803,,4TYJ_1|Chain,1.65e-14,223,gb|AAF99562.1|,72.8,cAMP-dependent protein kinase [Plasmodium falciparum]
+26.19,,4TYJ_1|Chain,2.56e-13,252,emb|CAA80490.1|,70.1,serine/threonine-protein kinase [Plasmodium falciparum]
+27.5,,4TYJ_1|Chain,4.06e-13,240,emb|CAA45179.1|,69.3,PfPK2 [Plasmodium falciparum]
+24.194,,4TYJ_1|Chain,4.18e-13,248,emb|CAA68090.1|,69.3,CDPK2 [Plasmodium falciparum]
+24.436,,4TYJ_1|Chain,1.04e-10,266,gb|AAT06260.1|,62.0,protein kinase B-like protein [Plasmodium falciparum]
+29.114,,4U0I_1|Chain,1.7e-19,237,gb|AAL54911.1|,89.0,sexual stage-specific protein kinase [Plasmodium falciparum]
+27.941,,4U0I_1|Chain,6.91e-18,272,gb|AAF99562.1|,82.8,cAMP-dependent protein kinase [Plasmodium falciparum]
+23.592,,4U0I_1|Chain,2.18e-10,284,gb|AAT06260.1|,60.8,protein kinase B-like protein [Plasmodium falciparum]
+25.0,,4U0I_1|Chain,9.2e-09,308,emb|CAA47704.1|,56.2,protein kinase [Plasmodium falciparum]
+24.18,,4U0I_1|Chain,2.99e-08,244,gb|AAC47170.1|,54.7,mitogen-activated protein kinase-related protein [Plasmodium falciparum]

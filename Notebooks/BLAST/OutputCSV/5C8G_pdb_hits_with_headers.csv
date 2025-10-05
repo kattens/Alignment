@@ -1,0 +1,2 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+5C8G_1|Chains,pdb|9HHD|A,Chain A, Bromodomain protein 1 [Plasmodium falciparum],2.06e-07,46.6,32.394,71

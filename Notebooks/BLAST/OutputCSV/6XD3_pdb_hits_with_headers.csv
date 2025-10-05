@@ -1,0 +1,11 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+6XD3_3|Chain,pdb|1V0B|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],1.37e-78,242.0,42.16,287.0
+6XD3_3|Chain,pdb|1V0O|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],1.45e-78,242.0,42.16,287.0
+6XD3_3|Chain,pdb|1OB3|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],2.05e-78,241.0,41.812,287.0
+6XD3_3|Chain,gb|AAC72269.1|,MO15-related protein kinase Pfmrk [Plasmodium falciparum],9.66e-74,231.0,42.208,308.0,
+6XD3_3|Chain,gb|AAD55782.1|,MO15-related protein kinase Pfmrk [Plasmodium falciparum],2.17e-73,230.0,42.208,308.0,
+6XD3_3|Chain,emb|CAA56732.1|,cdc2-related protein kinase 1 [Plasmodium falciparum],2.82e-66,221.0,38.199,322.0,
+6XD3_3|Chain,gb|AAC47170.1|,mitogen-activated protein kinase-related protein [Plasmodium falciparum],6.29e-58,199.0,40.203,296.0,
+6XD3_3|Chain,emb|CAA57972.1|,mitogen-activated protein kinase 1, serine/threonine protein kinase [Plasmodium falciparum],1.37e-57,199.0,40.203,296.0
+6XD3_3|Chain,gb|AAC61592.1|,cdk-related protein kinase 6 [Plasmodium falciparum],9.01e-44,152.0,33.77,305.0,
+6XD3_3|Chain,pdb|3NIE|A,Chain A, MAP2 kinase [Plasmodium falciparum],1.1e-41,150.0,31.609,348.0

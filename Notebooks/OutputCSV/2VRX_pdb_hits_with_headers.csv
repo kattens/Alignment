@@ -1,0 +1,11 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+2VRX_1|Chains,pdb|4RGJ|A,Chain A, Calcium-dependent protein kinase 4 [Plasmodium falciparum],3.18e-49,170.0,35.409,257.0
+2VRX_1|Chains,gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],4.02e-47,163.0,33.577,274.0,
+2VRX_1|Chains,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],4.25e-45,159.0,33.333,261.0,
+2VRX_1|Chains,pdb|5DYK|A,Chain A, CGMP-dependent protein kinase [Plasmodium falciparum],1.3700000000000002e-43,158.0,31.741,293.0
+2VRX_1|Chains,emb|CAA47704.1|,protein kinase [Plasmodium falciparum],2.85e-43,154.0,32.117,274.0,
+2VRX_1|Chains,gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],1.10e-42,149.0,31.439,264.0,
+2VRX_1|Chains,pdb|1V0O|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],1.5900000000000002e-35,129.0,31.597,288.0
+2VRX_1|Chains,pdb|1V0B|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],1.7800000000000002e-35,128.0,31.25,288.0
+2VRX_1|Chains,pdb|1OB3|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],1.9e-35,128.0,31.597,288.0
+2VRX_1|Chains,emb|CAA80490.1|,serine/threonine-protein kinase [Plasmodium falciparum],2.17e-35,134.0,27.652,264.0,

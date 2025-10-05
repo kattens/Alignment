@@ -1,0 +1,11 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+2Y7J_1|Chains,pdb|4RGJ|A,Chain A, Calcium-dependent protein kinase 4 [Plasmodium falciparum],1.0999999999999999e-52,182.0,32.852,277.0
+2Y7J_1|Chains,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],1.20e-50,176.0,32.971,276.0,
+2Y7J_1|Chains,emb|CAA47704.1|,protein kinase [Plasmodium falciparum],3.49e-46,164.0,31.752,274.0,
+2Y7J_1|Chains,emb|CAA45179.1|,PfPK2 [Plasmodium falciparum],8.83e-46,163.0,35.338,266.0,
+2Y7J_1|Chains,gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],3.27e-37,139.0,33.21,271.0,
+2Y7J_1|Chains,pdb|5DYK|A,Chain A, CGMP-dependent protein kinase [Plasmodium falciparum],1.03e-34,135.0,31.752,274.0
+2Y7J_1|Chains,gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],9.45e-32,122.0,33.182,220.0,
+2Y7J_1|Chains,emb|CAA80490.1|,serine/threonine-protein kinase [Plasmodium falciparum],3.75e-30,121.0,30.597,268.0,
+2Y7J_1|Chains,emb|CAA57972.1|,mitogen-activated protein kinase 1, serine/threonine protein kinase [Plasmodium falciparum],2.2e-26,110.0,27.778,306.0
+2Y7J_1|Chains,gb|AAC47170.1|,mitogen-activated protein kinase-related protein [Plasmodium falciparum],6.35e-26,108.0,27.778,306.0,

@@ -1,0 +1,6 @@
+resolution,pdbid,title,expmethod,lignme,glytoucan,cids,protacxns,geneids,pmid,dois,pmcids,pclids,citations,pubchem_cid
+1.79,9EMJ,SARS-CoV-2 methyltransferase nsp10-16 in complex with Toyocamycin and m7GpppA (Cap0-analog),X-RAY DIFFRACTION,EDO|GTA|MGP|TO1|ZN,,174|135415790|135419182|11824|32051,P0DTD1,,,,,,,11824
+1.93,8OV4,SARS-CoV-2 nsp10-16 methyltransferase in complex with Toyocamycin,X-RAY DIFFRACTION,MES|ZN|TO1|EDO,,11824|78165|32051|174,P0DTD1,,,,,,,11824
+1.99,8S8X,SARS-CoV-2 nsp10-16 methyltransferase in complex with Toyocamycin and m7GpppA-RNA (Cap0-RNA),X-RAY DIFFRACTION,MES|GTA|TO1|MG|ZN,,135415790|11824|32051|888|78165,P0DTD1,,,,,,,11824
+1.997,3RE4,Crystal Structure of Archaeoglobus Fulgidus Rio1 Kinase bound to Toyocamycin.,X-RAY DIFFRACTION,TO1,,11824,O28471|3RE4_A,24795547.0,22629386.0,10.1371/journal.pone.0037371,PMC3358306,11338492.0,"Kiburu IN, LaRonde-LeBlanc N. Interaction of Rio1 Kinase with Toyocamycin Reveals a Conformational Switch That Controls Oligomeric State and Catalytic Activity. PLoS ONE. 2012 May 22;7(5):e37371. doi: 10.1371/journal.pone.0037371.",11824
+2.25,8D1S,Crystal structure of Plasmodium falciparum GRP78 in complex with Toyocamycin,X-RAY DIFFRACTION,SO4|TO1,,11824|1117,,,,,,,,11824

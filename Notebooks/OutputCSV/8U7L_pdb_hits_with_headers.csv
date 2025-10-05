@@ -1,0 +1,11 @@
+query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
+8U7L_1|Chains,pdb|4RGJ|A,Chain A, Calcium-dependent protein kinase 4 [Plasmodium falciparum],7.82e-14,76.6,31.336,217.0
+8U7L_1|Chains,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],2.07e-13,75.5,27.835,194.0,
+8U7L_1|Chains,gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],1.21e-12,71.6,30.457,197.0,
+8U7L_1|Chains,emb|CAA45179.1|,PfPK2 [Plasmodium falciparum],1.34e-11,69.3,29.255,188.0,
+8U7L_1|Chains,gb|AAD55782.1|,MO15-related protein kinase Pfmrk [Plasmodium falciparum],2.11e-11,67.4,27.273,253.0,
+8U7L_1|Chains,gb|AAC72269.1|,MO15-related protein kinase Pfmrk [Plasmodium falciparum],2.67e-11,67.4,27.559,254.0,
+8U7L_1|Chains,pdb|5DYK|A,Chain A, CGMP-dependent protein kinase [Plasmodium falciparum],2.17e-10,66.2,28.125,288.0
+8U7L_1|Chains,emb|CAA47704.1|,protein kinase [Plasmodium falciparum],2.42e-10,65.5,27.184,206.0,
+8U7L_1|Chains,pdb|1V0B|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],3.07e-10,63.5,25.352,284.0
+8U7L_1|Chains,pdb|1OB3|A,Chain A, CELL DIVISION CONTROL PROTEIN 2 HOMOLOG [Plasmodium falciparum],4.5e-10,63.2,25.352,284.0

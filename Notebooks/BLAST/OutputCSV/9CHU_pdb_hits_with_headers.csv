@@ -1,0 +1,11 @@
+query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
+9CHU_2|Chain,gb|AAM54063.1|,protein phosphatase type 1 [Plasmodium falciparum],4.97e-74,231.0,44.444,252
+9CHU_2|Chain,gb|AAC47800.1|,protein phosphatase-beta [Plasmodium falciparum],2.52e-67,219.0,43.214,280
+9CHU_2|Chain,gb|AAK95648.1|,serine/threonine protein phosphatase PfPP5 [Plasmodium falciparum],2.0400000000000002e-58,199.0,39.526,253
+9CHU_2|Chain,gb|AAL15170.1|,serine/threonine protein phosphatase PP5 [Plasmodium falciparum],4.7300000000000005e-58,197.0,39.526,253
+9CHU_2|Chain,gb|AAC69437.1|,protein serine/threonine phosphatase alpha [Plasmodium falciparum],4.31e-43,159.0,35.563,284
+9CHU_2|Chain,gb|AAF19176.1|,PP1-like protein serine/threonine phosphatase [Plasmodium falciparum],2.71e-32,122.0,31.641,256
+9CHU_1|Chain,sp|P24044.4|,RecName: Full=Calmodulin [Plasmodium falciparum],4.31e-19,83.2,36.486,148
+9CHU_1|Chain,gb|AAA29509.1|,calmodulin [Plasmodium falciparum],3.08e-17,78.2,36.735,147
+9CHU_1|Chain,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],5.71e-07,51.2,27.083,144
+9CHU_1|Chain,emb|CAA47704.1|,protein kinase [Plasmodium falciparum],1.58e-06,50.1,30.719,153
