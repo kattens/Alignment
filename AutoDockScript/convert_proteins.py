@@ -11,10 +11,10 @@ import subprocess
 base_dir = os.path.dirname(os.path.abspath(__file__))
 
 
-input_folder = os.path.join(base_dir,'malaria')
+input_folder = os.path.join(base_dir,'malaria(2)')
 
 # Where to save the output PDBQT files
-output_folder = os.path.join('malaria_pdbqt')
+output_folder = os.path.join('malaria_pdbqt(3)')
 if not os.path.exists(output_folder):
     os.makedirs(output_folder, exist_ok=True)
 
@@ -31,7 +31,7 @@ for filename in os.listdir(input_folder):
         output_path = os.path.join(output_folder, output_name)
 
         cmd = [
-            os.path.join(base_dir, "myenv", "Scripts", "python.exe"), prepare_script,
+            os.path.join(base_dir, ".venv", "Scripts", "python.exe"), prepare_script,
             "-r", protein_path,
             "-o", output_path,
             "-v"
