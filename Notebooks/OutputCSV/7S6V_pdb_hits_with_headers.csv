@@ -1,6 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-7S6V_1|Chain,gb|AAC47170.1|,mitogen-activated protein kinase-related protein [Plasmodium falciparum],4.8e-43,158,30.931,333
-7S6V_1|Chain,emb|CAA56732.1|,cdc2-related protein kinase 1 [Plasmodium falciparum],5.14e-37,141,33.651,315
-7S6V_1|Chain,gb|AAC61592.1|,cdk-related protein kinase 6 [Plasmodium falciparum],1.8e-33,125,30.841,321
-7S6V_1|Chain,emb|CAA58680.1|,protein kinase [Plasmodium falciparum],4.9200000000000004e-29,118,41.06,151
-7S6V_1|Chain,gb|AAG37986.1|,MAP2 kinase [Plasmodium falciparum],8.14e-28,113,26.486,370

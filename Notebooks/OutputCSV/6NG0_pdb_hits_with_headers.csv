@@ -1,5 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-6NG0_1|Chains,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],1.19e-33,128,31.579,266
-6NG0_1|Chains,gb|AAC61592.1|,cdk-related protein kinase 6 [Plasmodium falciparum],7.480000000000001e-26,103,27.336,289
-6NG0_1|Chains,gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],2.0399999999999997e-24,102,29.482,251
-6NG0_1|Chains,emb|CAA47704.1|,protein kinase [Plasmodium falciparum],2.75e-24,102,26.129,310

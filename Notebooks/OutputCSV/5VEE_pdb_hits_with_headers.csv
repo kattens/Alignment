@@ -1,7 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-5VEE_1|Chain,gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],6.55e-35,131,31.757,296
-5VEE_1|Chain,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],1.3e-31,123,26.415,265
-5VEE_1|Chain,emb|CAA45179.1|,PfPK2 [Plasmodium falciparum],9.960000000000001e-29,115,29.044,272
-5VEE_1|Chain,gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],5.21e-28,110,27.857,280
-5VEE_1|Chain,emb|CAA47704.1|,protein kinase [Plasmodium falciparum],7.410000000000001e-26,107,27.397,219
-5VEE_1|Chain,gb|AAC61592.1|,cdk-related protein kinase 6 [Plasmodium falciparum],2.06e-24,100,27.682,289

@@ -1,3 +1,0 @@
-query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
-9IML_2|Chains,gb|AAA29781.1|,ubiquitin, partial [Plasmodium falciparum],4e-24,85.9,100.0,40
-9IML_2|Chains,gb|AAA29781.1|,ubiquitin, partial [Plasmodium falciparum],3.62e-18,70.9,97.222,36

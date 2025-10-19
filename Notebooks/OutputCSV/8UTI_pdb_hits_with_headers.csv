@@ -1,7 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-8UTI_32|Chain,emb|CAA64591.1|,rps12 [Plasmodium falciparum],1.33e-08,49.7,37.662,77
-8UTI_39|Chain,gb|AAP93837.1|,COPI protein [Plasmodium falciparum],1.83e-12,67.8,25.359,209
-8UTI_39|Chain,gb|AAP93837.1|,COPI protein [Plasmodium falciparum],7.77e-11,62.8,25.731,171
-8UTI_42|Chain,emb|CAA64579.1|,rpl2 [Plasmodium falciparum],6.38e-06,45.8,27.35,117
-8UTI_74|Chain,emb|CAA82284.2|,Ag15 [Plasmodium falciparum],1.49e-16,69.7,45.378,119
-8UTI_74|Chain,gb|AAA70296.1|,15 kDa vesicular-like antigen [Plasmodium falciparum],1.47e-10,53.9,46.809,94

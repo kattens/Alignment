@@ -1,8 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-1J3J_1|Chains,gb|AAA29580.1|,dihydrofolate reductase-thymidylate synthetase [Plasmodium falciparum],0.0,562,100.0,280
-1J3J_2|Chains,gb|UXQ07708.1|,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],0.0,687,100.0,328
-1J3J_2|Chains,gb|UXQ07715.1|,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],0.0,687,100.0,328
-1J3J_2|Chains,gb|UXQ07805.1|,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],0.0,687,100.0,328
-1J3J_2|Chains,gb|UXQ07920.1|,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],0.0,687,100.0,328
-1J3J_2|Chains,gb|AAA29580.1|,dihydrofolate reductase-thymidylate synthetase [Plasmodium falciparum],0.0,687,100.0,328
-1J3J_2|Chains,gb|UXQ07891.1|,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],0.0,687,100.0,328

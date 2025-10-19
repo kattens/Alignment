@@ -1,9 +1,0 @@
-query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
-4RX0_1|Chain,pdb|4CQ8|A,Chain A, DIHYDROOROTATE DEHYDROGENASE [Plasmodium falciparum],0.0,821.0,100.0,401.0
-4RX0_1|Chain,pdb|6I4B|A,Chain A, Dihydroorotate dehydrogenase [Plasmodium falciparum],0.0,795.0,97.044,406.0
-4RX0_1|Chain,gb|WGL08530.1|,dihydroorotate dehydrogenase [Plasmodium falciparum],0.0,762.0,92.718,412.0,
-4RX0_1|Chain,gb|AAC37170.1|,dihydroorotate dehydrogenase [Plasmodium falciparum],0.0,762.0,92.718,412.0,
-4RX0_1|Chain,gb|WGL08514.1|,dihydroorotate dehydrogenase [Plasmodium falciparum],0.0,762.0,92.718,412.0,
-4RX0_1|Chain,gb|WGL08524.1|,dihydroorotate dehydrogenase [Plasmodium falciparum],0.0,762.0,92.718,412.0,
-4RX0_1|Chain,gb|WGL08533.1|,dihydroorotate dehydrogenase [Plasmodium falciparum],0.0,761.0,92.718,412.0,
-4RX0_1|Chain,gb|WGL08512.1|,dihydroorotate dehydrogenase, partial [Plasmodium falciparum],0.0,761.0,92.718,412.0

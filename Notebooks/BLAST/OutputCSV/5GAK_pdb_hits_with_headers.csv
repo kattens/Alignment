@@ -1,5 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-5GAK_15|Chain,emb|CAA64579.1|,rpl2 [Plasmodium falciparum],6.37e-06,45.8,27.35,117
-5GAK_26|Chain,emb|CAA82284.2|,Ag15 [Plasmodium falciparum],1.71e-17,72.0,45.833,120
-5GAK_26|Chain,gb|AAA70296.1|,15 kDa vesicular-like antigen [Plasmodium falciparum],1.61e-11,56.2,47.368,95
-5GAK_40|Chain,gb|AAM46152.1|,eukaryotic translation initiation factor 5A [Plasmodium falciparum],9.87e-59,179.0,55.346,159

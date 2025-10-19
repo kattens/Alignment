@@ -1,2 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-5ZNC_1|Chain,sp|Q8T9Z7.1|,RecName: Full=Purine nucleoside phosphorylase; AltName: Full=S-methyl-5'-thioinosine phosphorylase [Plasmodium falciparum],0.0,503,100.0,245

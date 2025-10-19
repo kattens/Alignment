@@ -1,6 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-4U0I_1|Chain,gb|AAL54911.1|,sexual stage-specific protein kinase [Plasmodium falciparum],1.7e-19,89.0,29.114,237
-4U0I_1|Chain,gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],6.91e-18,82.8,27.941,272
-4U0I_1|Chain,gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],2.18e-10,60.8,23.592,284
-4U0I_1|Chain,emb|CAA47704.1|,protein kinase [Plasmodium falciparum],9.2e-09,56.2,25.0,308
-4U0I_1|Chain,gb|AAC47170.1|,mitogen-activated protein kinase-related protein [Plasmodium falciparum],2.99e-08,54.7,24.18,244

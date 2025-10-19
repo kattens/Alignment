@@ -1,2 +1,0 @@
-query_chain,subject_id,subject_chain,subject_name,subject_description,e_value,bit_score,percent_identity,alignment_length
-8QYF_1|Chains,pdb|2F6I|A,Chain A, ATP-dependent CLP protease, putative [Plasmodium falciparum],1.39e-53,170,47.753,178

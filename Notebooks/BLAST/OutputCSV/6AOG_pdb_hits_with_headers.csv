@@ -1,6 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-6AOG_1|Chains,gb|UXQ07920.1|,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],7.61e-160,469,41.157,605
-6AOG_1|Chains,gb|UXQ07867.1|,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],8.48e-160,469,41.157,605
-6AOG_1|Chains,gb|UXQ07805.1|,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],9.88e-160,469,41.157,605
-6AOG_1|Chains,gb|AAA29586.1|,dihydrofolate reductase-thymidylate synthase (EC 1.5.1.3) (EC 2.1.1.45) [Plasmodium falciparum],1.05e-159,469,41.157,605
-6AOG_1|Chains,gb|UXQ07715.1|,dihydrofolate reductase-thymidylate synthase [Plasmodium falciparum],1.11e-159,469,41.157,605

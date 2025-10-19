@@ -1,4 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-4B7P_1|Chain,gb|AAA66179.1|,heat shock protein 86 [Plasmodium falciparum],4.2400000000000004e-110,332,73.953,215
-4B7P_1|Chain,gb|AAA66178.1|,heat shock protein 86 [Plasmodium falciparum],4.6400000000000006e-110,332,73.953,215
-4B7P_1|Chain,emb|CAA82765.1|,heat-shock protein [Plasmodium falciparum],4.55e-108,327,75.12,209

@@ -1,8 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-6JOK_1|Chain,gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],4.67e-15,75.1,26.957,230
-6JOK_1|Chain,gb|AAL54911.1|,sexual stage-specific protein kinase [Plasmodium falciparum],1.48e-14,75.1,27.308,260
-6JOK_1|Chain,gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],1.21e-13,71.2,22.819,298
-6JOK_1|Chain,emb|CAA56732.1|,cdc2-related protein kinase 1 [Plasmodium falciparum],5.73e-11,63.5,27.193,228
-6JOK_1|Chain,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],6.84e-11,63.2,23.718,312
-6JOK_1|Chain,emb|CAA45179.1|,PfPK2 [Plasmodium falciparum],6.86e-10,60.1,27.16,243
-6JOK_1|Chain,gb|AAC47170.1|,mitogen-activated protein kinase-related protein [Plasmodium falciparum],3.52e-09,58.2,23.529,238

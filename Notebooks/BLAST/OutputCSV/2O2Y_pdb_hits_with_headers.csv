@@ -1,3 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-2O2Y_1|Chains,gb|AAK25802.1|,enoyl-acyl carrier reductase [Plasmodium falciparum],0.0,714,100.0,349
-2O2Y_1|Chains,gb|AAK83687.1|,enoyl-acyl-carrier protein reductase precursor [Plasmodium falciparum],0.0,708,99.427,349

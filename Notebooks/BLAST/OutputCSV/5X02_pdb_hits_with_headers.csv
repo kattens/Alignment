@@ -1,9 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-5X02_1|Chain,gb|AAL54911.1|,sexual stage-specific protein kinase [Plasmodium falciparum],1.26e-16,81.3,27.778,252
-5X02_1|Chain,gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],1.71e-15,76.3,26.923,234
-5X02_1|Chain,gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],7.17e-14,72.0,24.681,235
-5X02_1|Chain,emb|CAA56732.1|,cdc2-related protein kinase 1 [Plasmodium falciparum],1.12e-11,65.9,28.378,222
-5X02_1|Chain,gb|AAC47170.1|,mitogen-activated protein kinase-related protein [Plasmodium falciparum],2.96e-10,61.2,24.701,251
-5X02_1|Chain,emb|CAA80490.1|,serine/threonine-protein kinase [Plasmodium falciparum],1.86e-09,58.9,24.042,287
-5X02_1|Chain,emb|CAA47704.1|,protein kinase [Plasmodium falciparum],2.28e-09,58.2,24.735,283
-5X02_1|Chain,emb|CAA45179.1|,PfPK2 [Plasmodium falciparum],5.43e-09,57.0,26.337,243

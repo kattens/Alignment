@@ -1,8 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-2J2I_1|Chain,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],1.35e-33,128.0,31.095,283
-2J2I_1|Chain,emb|CAA80490.1|,serine/threonine-protein kinase [Plasmodium falciparum],8.93e-30,119.0,30.83,253
-2J2I_1|Chain,emb|CAA45179.1|,PfPK2 [Plasmodium falciparum],4.16e-24,101.0,26.667,285
-2J2I_1|Chain,emb|CAA47704.1|,protein kinase [Plasmodium falciparum],5.85e-23,98.6,30.526,285
-2J2I_1|Chain,gb|AAT06260.1|,protein kinase B-like protein [Plasmodium falciparum],7.980000000000001e-21,92.0,26.894,264
-2J2I_1|Chain,gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],1.75e-19,87.0,26.336,262
-2J2I_1|Chain,gb|AAC47170.1|,mitogen-activated protein kinase-related protein [Plasmodium falciparum],8.34e-17,80.9,26.339,224

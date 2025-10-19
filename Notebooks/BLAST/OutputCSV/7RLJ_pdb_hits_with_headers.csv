@@ -1,7 +1,0 @@
-query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
-7RLJ_1|Chains,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],2.16e-112,356.0,45.789,380.0
-7RLJ_1|Chains,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],8.88e-81,272.0,60.0,205.0
-7RLJ_1|Chains,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],1.1400000000000001e-56,206.0,43.29,231.0
-7RLJ_1|Chains,gb|AAA29520.1|,cell division cycle ATPase, partial [Plasmodium falciparum],8.4e-36,144.0,42.038,157.0
-7RLJ_1|Chains,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],4.40e-56,198.0,39.918,243.0,
-7RLJ_1|Chains,pir|S51042|,tat-binding protein homolog - malaria parasite (Plasmodium falciparum) [Plasmodium falciparum],8.64e-56,197.0,40.244,246.0,

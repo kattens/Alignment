@@ -1,3 +1,4 @@
+#PARSER CLASS FOR PDB FOR FURTHER STEPS
 from Bio.PDB import PDBParser, PDBIO, Select
 
 class ParsePDB:

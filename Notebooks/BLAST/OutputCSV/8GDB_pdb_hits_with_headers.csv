@@ -1,2 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-8GDB_2|Chain,gb|AAP93837.1|,COPI protein [Plasmodium falciparum],1.39e-18,86.7,25.275,273

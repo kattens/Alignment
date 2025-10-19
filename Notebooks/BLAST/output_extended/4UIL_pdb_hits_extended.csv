@@ -1,3 +1,0 @@
-query_chain,subject_id,subject_chain,subject_name,subject_description,e_value,bit_score,percent_identity,alignment_length
-4UIL_1|Chain,pdb|8EZL|H,Chain H, Transmission-reducing antibody AS01-50, single chain Fv [Plasmodium falciparum],1.86e-15,73.2,32.593,135
-4UIL_2|Chain,pdb|8EZL|H,Chain H, Transmission-reducing antibody AS01-50, single chain Fv [Plasmodium falciparum],1.64e-11,61.6,39.13,115

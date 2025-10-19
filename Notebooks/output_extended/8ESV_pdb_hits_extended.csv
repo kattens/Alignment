@@ -1,4 +1,0 @@
-query_chain,subject_id,subject_chain,subject_name,subject_description,e_value,bit_score,percent_identity,alignment_length
-8ESV_3|Chain,pdb|8EZL|H,Chain H, Transmission-reducing antibody AS01-50, single chain Fv [Plasmodium falciparum],2.36e-34,123.0,50.0,130
-8ESV_3|Chain,pdb|8EZL|H,Chain H, Transmission-reducing antibody AS01-50, single chain Fv [Plasmodium falciparum],2.5e-06,47.0,35.965,114
-8ESV_4|Chain,pdb|8EZL|H,Chain H, Transmission-reducing antibody AS01-50, single chain Fv [Plasmodium falciparum],3.14e-14,69.7,37.607,117

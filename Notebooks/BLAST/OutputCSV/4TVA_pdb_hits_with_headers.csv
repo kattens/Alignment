@@ -1,9 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-4TVA_1|Chain,gb|WGL14830.1|,phenylalanine-tRNA ligase [Plasmodium falciparum],1.05e-36,139,25.867,375
-4TVA_1|Chain,gb|WGL14847.1|,phenylalanine-tRNA ligase [Plasmodium falciparum],2e-36,138,25.867,375
-4TVA_1|Chain,gb|WGL14858.1|,phenylalanine-tRNA ligase [Plasmodium falciparum],2.02e-36,138,25.6,375
-4TVA_1|Chain,gb|WGL14832.1|,phenylalanine-tRNA ligase [Plasmodium falciparum],2.0800000000000002e-36,138,25.867,375
-4TVA_1|Chain,gb|WGL14840.1|,phenylalanine-tRNA ligase [Plasmodium falciparum],3.09e-36,137,29.474,285
-4TVA_1|Chain,gb|WGL14860.1|,phenylalanine-tRNA ligase [Plasmodium falciparum],3.22e-36,137,29.474,285
-4TVA_1|Chain,gb|WGL14834.1|,phenylalanine-tRNA ligase [Plasmodium falciparum],3.38e-36,137,29.474,285
-4TVA_1|Chain,gb|WGL14841.1|,phenylalanine-tRNA ligase [Plasmodium falciparum],3.4200000000000003e-36,137,29.474,285

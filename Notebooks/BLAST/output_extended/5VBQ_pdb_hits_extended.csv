@@ -1,3 +1,0 @@
-query_chain,subject_id,subject_chain,subject_function,e_value,bit_score,percent_identity,alignment_length
-5VBQ_1|Chains,pdb|9HHD|A,Chain A, Bromodomain protein 1 [Plasmodium falciparum],4.01e-15,66.2,37.363,91.0
-5VBQ_1|Chains,gb|AAR20863.1|,histone acetyltransferase [Plasmodium falciparum],2.03e-09,53.1,38.356,73.0,

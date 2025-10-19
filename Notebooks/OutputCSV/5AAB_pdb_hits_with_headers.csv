@@ -1,7 +1,0 @@
-query_id,subject_id,subject_description,e_value,bit_score,percent_identity,alignment_length
-5AAB_1|Chain,emb|CAA45179.1|,PfPK2 [Plasmodium falciparum],1.39e-14,73.9,25.877,228
-5AAB_1|Chain,gb|AAL54911.1|,sexual stage-specific protein kinase [Plasmodium falciparum],2.46e-12,67.8,25.463,216
-5AAB_1|Chain,emb|CAA68090.1|,CDPK2 [Plasmodium falciparum],5.49e-12,66.2,23.556,225
-5AAB_1|Chain,emb|CAA47704.1|,protein kinase [Plasmodium falciparum],3.57e-11,63.5,23.984,246
-5AAB_1|Chain,gb|AAF99562.1|,cAMP-dependent protein kinase [Plasmodium falciparum],1.3e-10,61.2,25.592,211
-5AAB_1|Chain,gb|AAC61592.1|,cdk-related protein kinase 6 [Plasmodium falciparum],1.06e-07,52.4,21.116,251
