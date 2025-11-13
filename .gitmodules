@@ -1,0 +1,9 @@
+[submodule "AutodockScript"]
+	path = AutodockScript
+	url = https://github.com/kattens/AutodockScript.git
+[submodule "PDBViewer"]
+	path = PDBViewer
+	url = https://github.com/kattens/PDBViewer.git
+[submodule "ChimeraScriptMalaria"]
+	path = ChimeraScriptMalaria
+	url = https://github.com/kattens/ChimeraScriptMalaria.git
